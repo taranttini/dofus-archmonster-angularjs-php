@@ -1,0 +1,5735 @@
+[
+  {
+    "en": "GREY MOUSE",
+    "es": "RATÓN GRIS",
+    "fr": "SOURIS, GRISE",
+    "id": "287",
+    "monster_id": "126",
+    "pt": "CAMUNDONGO CINZA",
+    "step": "1"
+  },
+  {
+    "en": "MOSKITO",
+    "es": "MOSKITO",
+    "fr": "MOSKITO",
+    "id": "288",
+    "monster_id": "61",
+    "pt": "MOSKITO",
+    "step": "1"
+  },
+  {
+    "en": "ARACHNEE",
+    "es": "ARAKNA",
+    "fr": "ARAKNE",
+    "id": "289",
+    "monster_id": "52",
+    "pt": "ARAKNE",
+    "step": "1"
+  },
+  {
+    "en": "WHITE GOBBLY",
+    "es": "JALATÍN BLANCO",
+    "fr": "BOUFTON BLANC",
+    "id": "290",
+    "monster_id": "134",
+    "pt": "PAPARNEIRO BRANCO",
+    "step": "1"
+  },
+  {
+    "en": "BLACK GOBBLY",
+    "es": "JALATÍN NEGRO",
+    "fr": "BOUFTON NOIR",
+    "id": "291",
+    "monster_id": "149",
+    "pt": "PAPARNEIRO NEGRO",
+    "step": "1"
+  },
+  {
+    "en": "EVIL TOFU",
+    "es": "TOFU MALÉFICO",
+    "fr": "TOFU MALÉFIQUE",
+    "id": "292",
+    "monster_id": "111",
+    "pt": "TOFU MALÉFICO",
+    "step": "1"
+  },
+  {
+    "en": "SICK ARACHNEE",
+    "es": "ARAKNA ENFERMA",
+    "fr": "ARAKNE MALADE",
+    "id": "293",
+    "monster_id": "474",
+    "pt": "ARAKNE DOENTE",
+    "step": "1"
+  },
+  {
+    "en": "BLUE PIWI",
+    "es": "PÍO AZUL",
+    "fr": "PIOU BLEU",
+    "id": "294",
+    "monster_id": "491",
+    "pt": "PIU AZUL",
+    "step": "1"
+  },
+  {
+    "en": "RED PIWI",
+    "es": "PÍO ROJO",
+    "fr": "PIOU ROUGE",
+    "id": "295",
+    "monster_id": "489",
+    "pt": "PIU VERMELHO",
+    "step": "1"
+  },
+  {
+    "en": "YELLOW PIWI",
+    "es": "PÍO AMARILLO",
+    "fr": "PIOU JAUNE",
+    "id": "296",
+    "monster_id": "493",
+    "pt": "PIU AMARELO",
+    "step": "1"
+  },
+  {
+    "en": "GREEN PIWI",
+    "es": "PÍO VERDE",
+    "fr": "PIOU VERT",
+    "id": "297",
+    "monster_id": "490",
+    "pt": "PIU VERDE",
+    "step": "1"
+  },
+  {
+    "en": "PURPLE PIWI",
+    "es": "PÍO VIOLETA",
+    "fr": "PIOU VIOLET",
+    "id": "298",
+    "monster_id": "236",
+    "pt": "PIU VIOLETA",
+    "step": "1"
+  },
+  {
+    "en": "AIR SPARK",
+    "es": "LLAMITA AIRE",
+    "fr": "FLAMMÈCHE AIR",
+    "id": "299",
+    "monster_id": "245",
+    "pt": "FAÍSCA AR",
+    "step": "1"
+  },
+  {
+    "en": "WATER SPARK",
+    "es": "LLAMITA AGUA",
+    "fr": "FLAMMÈCHE EAU",
+    "id": "300",
+    "monster_id": "243",
+    "pt": "FAÍSCA ÁGUA",
+    "step": "1"
+  },
+  {
+    "en": "FIRE SPARK",
+    "es": "LLAMITA FUEGO",
+    "fr": "FLAMMÈCHE FEU",
+    "id": "301",
+    "monster_id": "242",
+    "pt": "FAÍSCA FOGO",
+    "step": "1"
+  },
+  {
+    "en": "EARTH SPARK",
+    "es": "LLAMITA TIERRA",
+    "fr": "FLAMMÈCHE TERRE",
+    "id": "302",
+    "monster_id": "244",
+    "pt": "FAÍSCA TERRA",
+    "step": "1"
+  },
+  {
+    "en": "BLUE LARVA",
+    "es": "LARVA AZUL",
+    "fr": "LARVE BLEUE",
+    "id": "303",
+    "monster_id": "31",
+    "pt": "LARVA AZUL",
+    "step": "1"
+  },
+  {
+    "en": "CRAB",
+    "es": "CANGREJO",
+    "fr": "CRABE",
+    "id": "304",
+    "monster_id": "63",
+    "pt": "CARANGUEJO",
+    "step": "1"
+  },
+  {
+    "en": "PINK PIWI",
+    "es": "PÍO ROSA",
+    "fr": "PIOU ROSE",
+    "id": "305",
+    "monster_id": "492",
+    "pt": "PIU ROSA",
+    "step": "1"
+  },
+  {
+    "en": "TOFU",
+    "es": "TOFU",
+    "fr": "TOFU",
+    "id": "306",
+    "monster_id": "98",
+    "pt": "TOFU",
+    "step": "1"
+  },
+  {
+    "en": "SICK TOFU",
+    "es": "TOFU ENFERMO",
+    "fr": "TOFU MALADE",
+    "id": "307",
+    "monster_id": "473",
+    "pt": "TOFU DOENTE",
+    "step": "2"
+  },
+  {
+    "en": "MUSH MUSH",
+    "es": "CHAMPI CHAMP",
+    "fr": "CHAMP CHAMP",
+    "id": "308",
+    "monster_id": "59",
+    "pt": "COGU COGU",
+    "step": "2"
+  },
+  {
+    "en": "EVIL DANDELION",
+    "es": "DIENTE DE LEÓN DIABÓLICO",
+    "fr": "PISSENLIT DIABOLIQUE",
+    "id": "309",
+    "monster_id": "79",
+    "pt": "DENTE-DE-LEÃO DIABÓLICO",
+    "step": "2"
+  },
+  {
+    "en": "AGGRESSIVE ARACHNEE",
+    "es": "ARAKNA AGRESIVA",
+    "fr": "ARAKNE AGRESSIVE",
+    "id": "310",
+    "monster_id": "255",
+    "pt": "ARAKNE AGRESSIVA",
+    "step": "2"
+  },
+  {
+    "en": "ONE-ARMED BANDIT",
+    "es": "BANDIDO MANCO",
+    "fr": "BANDIT MANCHOT",
+    "id": "311",
+    "monster_id": "466",
+    "pt": "BANDIDO CAÇA-NÍQUEL",
+    "step": "2"
+  },
+  {
+    "en": "DEMONIC ROSE",
+    "es": "ROSA DEMONÍACA",
+    "fr": "ROSE DÉMONIAQUE",
+    "id": "312",
+    "monster_id": "78",
+    "pt": "ROSA DEMONÍACA",
+    "step": "2"
+  },
+  {
+    "en": "BLUE JELLY",
+    "es": "GELATINA AZUL",
+    "fr": "GELÉE BLEUE",
+    "id": "313",
+    "monster_id": "55",
+    "pt": "GELATINA AZUL",
+    "step": "2"
+  },
+  {
+    "en": "KWOAN",
+    "es": "KWOAN",
+    "fr": "KWOAN",
+    "id": "314",
+    "monster_id": "154",
+    "pt": "KWÂNIO",
+    "step": "2"
+  },
+  {
+    "en": "GREEN LARVA",
+    "es": "LARVA VERDE",
+    "fr": "LARVE VERTE",
+    "id": "315",
+    "monster_id": "34",
+    "pt": "LARVA VERDE",
+    "step": "2"
+  },
+  {
+    "en": "GOBBALL",
+    "es": "JALATÓ",
+    "fr": "BOUFTOU",
+    "id": "316",
+    "monster_id": "101",
+    "pt": "PAPATUDO",
+    "step": "2"
+  },
+  {
+    "en": "KOLERAT",
+    "es": "KÓLERAT",
+    "fr": "KOLÉRAT",
+    "id": "317",
+    "monster_id": "300",
+    "pt": "KOLERRATO",
+    "step": "2"
+  },
+  {
+    "en": "MINT JELLY",
+    "es": "GELATINA DE MENTA",
+    "fr": "GELÉE MENTHE",
+    "id": "318",
+    "monster_id": "56",
+    "pt": "GELATINA DE MENTA",
+    "step": "2"
+  },
+  {
+    "en": "ORANGE LARVA",
+    "es": "LARVA NARANJA",
+    "fr": "LARVE ORANGE",
+    "id": "319",
+    "monster_id": "46",
+    "pt": "LARVA LARANJA",
+    "step": "2"
+  },
+  {
+    "en": "DARK BAKER",
+    "es": "PANADERO OSCURO",
+    "fr": "BOULANGER SOMBRE",
+    "id": "320",
+    "monster_id": "153",
+    "pt": "PADEIRO SOMBRIO",
+    "step": "2"
+  },
+  {
+    "en": "BLACK TIWABBIT",
+    "es": "BLACK PEKEWABBIT",
+    "fr": "BLACK TIWABBIT",
+    "id": "321",
+    "monster_id": "68",
+    "pt": "BLACK PEKEWABBIT",
+    "step": "2"
+  },
+  {
+    "en": "TIWABBIT",
+    "es": "PEKEWABBIT",
+    "fr": "TIWABBIT",
+    "id": "322",
+    "monster_id": "96",
+    "pt": "PEKEWABBIT",
+    "step": "2"
+  },
+  {
+    "en": "TIWABBIT WOSUNGWEE",
+    "es": "PEKEWABBIT HAMBRIENTO",
+    "fr": "TIWABBIT KIAFIN",
+    "id": "323",
+    "monster_id": "72",
+    "pt": "PEKEWABBIT KOFOME",
+    "step": "2"
+  },
+  {
+    "en": "WILD SUNFLOWER",
+    "es": "GIRASOL SALVAJE",
+    "fr": "TOURNESOL SAUVAGE",
+    "id": "324",
+    "monster_id": "48",
+    "pt": "GIRASSOL SELVAGEM",
+    "step": "2"
+  },
+  {
+    "en": "ROGUE CLAN BANDIT",
+    "es": "BANDIDO DEL CLAN DE LOS TYMADORES",
+    "fr": "BANDIT DU CLAN DES ROUBLARDS",
+    "id": "325",
+    "monster_id": "155",
+    "pt": "BANDIDO DO CLÃ DOS LADINOS",
+    "step": "2"
+  },
+  {
+    "en": "GOBLIN",
+    "es": "GOBLIN",
+    "fr": "GOBELIN",
+    "id": "326",
+    "monster_id": "178",
+    "pt": "GOBLIN",
+    "step": "2"
+  },
+  {
+    "en": "KOKONUT",
+    "es": "NOZDEKOKO",
+    "fr": "NODKOKO",
+    "id": "327",
+    "monster_id": "218",
+    "pt": "KOKONKASKA",
+    "step": "3"
+  },
+  {
+    "en": "TIKOKOKO",
+    "es": "PEKEKOKO",
+    "fr": "TIKOKO",
+    "id": "328",
+    "monster_id": "208",
+    "pt": "PEKEKOKO",
+    "step": "3"
+  },
+  {
+    "en": "GLUKOKO",
+    "es": "KOSAKEPEGA",
+    "fr": "TRUKIKOL",
+    "id": "329",
+    "monster_id": "215",
+    "pt": "KOKOLANTE",
+    "step": "3"
+  },
+  {
+    "en": "BOAR",
+    "es": "JABALÍ",
+    "fr": "SANGLIER",
+    "id": "330",
+    "monster_id": "104",
+    "pt": "JAVALI",
+    "step": "3"
+  },
+  {
+    "en": "GREEN SPIMUSH",
+    "es": "CHAMPO VERDE",
+    "fr": "CHAMPA VERT",
+    "id": "331",
+    "monster_id": "652",
+    "pt": "COGUM VERDE",
+    "step": "3"
+  },
+  {
+    "en": "PUMPKWIN",
+    "es": "CALAWAZA",
+    "fr": "CITWOUILLE",
+    "id": "332",
+    "monster_id": "207",
+    "pt": "ABÓBOWA",
+    "step": "3"
+  },
+  {
+    "en": "VAMPIRE",
+    "es": "VAMPIRO",
+    "fr": "Vampire",
+    "id": "333",
+    "monster_id": "127",
+    "pt": "VAMPIRO",
+    "step": "3"
+  },
+  {
+    "en": "COCO BIBLOP",
+    "es": "BIBLOP COCO",
+    "fr": "BIBLOP COCO",
+    "id": "334",
+    "monster_id": "278",
+    "pt": "BIBLOP COCO",
+    "step": "3"
+  },
+  {
+    "en": "MORELLO CHERRY BIBLOP",
+    "es": "BIBLOP GUINDA",
+    "fr": "BIBLOP GRIOTTE",
+    "id": "335",
+    "monster_id": "279",
+    "pt": "BIBLOP CEREJA",
+    "step": "3"
+  },
+  {
+    "en": "INDIGO BIBLOP",
+    "es": "BIBLOP ÍNDIGO",
+    "fr": "BIBLOP INDIGO",
+    "id": "336",
+    "monster_id": "277",
+    "pt": "BIBLOP ÍNDIGO",
+    "step": "3"
+  },
+  {
+    "en": "PIPPIN BIBLOP",
+    "es": "BIBLOP REINETA",
+    "fr": "BIBLOP REINETTE",
+    "id": "337",
+    "monster_id": "280",
+    "pt": "BIBLOP MAÇÃ",
+    "step": "3"
+  },
+  {
+    "en": "KARNE RIDER",
+    "es": "CABALGADOR DE KARNE",
+    "fr": "CHEVAUCHEUR DE KARNE",
+    "id": "338",
+    "monster_id": "62",
+    "pt": "CAVALEIRO DE KARNE",
+    "step": "3"
+  },
+  {
+    "en": "SICK GROSSEWER MILIRAT",
+    "es": "MILIRATA DE ALCANTARILLA ENFERMA",
+    "fr": "MILIRAT D'ÉGOUTANT MALADE",
+    "id": "339",
+    "monster_id": "475",
+    "pt": "MILIRRATO DE ESGOTO DOENTE",
+    "step": "3"
+  },
+  {
+    "en": "MUSHD",
+    "es": "BOO",
+    "fr": "BOO",
+    "id": "340",
+    "monster_id": "112",
+    "pt": "BAWO",
+    "step": "3"
+  },
+  {
+    "en": "PRESPIC",
+    "es": "PRESPIC",
+    "fr": "PRESPIC",
+    "id": "341",
+    "monster_id": "103",
+    "pt": "PRESPIC",
+    "step": "3"
+  },
+  {
+    "en": "PIGLET",
+    "es": "COCHINILLO",
+    "fr": "COCHON DE LAIT",
+    "id": "342",
+    "monster_id": "123",
+    "pt": "LEITÃO",
+    "step": "3"
+  },
+  {
+    "en": "YELLOW TURTLE",
+    "es": "TORTUGA AMARILLA",
+    "fr": "TORTUE JAUNE",
+    "id": "343",
+    "monster_id": "223",
+    "pt": "TARTARUGA AMARELA",
+    "step": "3"
+  },
+  {
+    "en": "WABBIT",
+    "es": "WABBIT",
+    "fr": "WABBIT",
+    "id": "344",
+    "monster_id": "64",
+    "pt": "WABBIT",
+    "step": "3"
+  },
+  {
+    "en": "GOBBALL WAR CHIEF",
+    "es": "JEFE DE GUERRA JALATÓ",
+    "fr": "CHEF DE GUERRE BOUFTOU",
+    "id": "345",
+    "monster_id": "148",
+    "pt": "CHEFE DE GUERRA PAPATUDO",
+    "step": "3"
+  },
+  {
+    "en": "LOUSY PIG SHEPHERD",
+    "es": "PASTOR PUERKAZO",
+    "fr": "BERGER PORKASS",
+    "id": "346",
+    "monster_id": "344",
+    "pt": "PASTOR PORKASSO",
+    "step": "3"
+  },
+  {
+    "en": "WHITISH FANG",
+    "es": "COLMILLO BLANDO",
+    "fr": "CROC GLAND",
+    "id": "347",
+    "monster_id": "299",
+    "pt": "KOMENOZ",
+    "step": "4"
+  },
+  {
+    "en": "BULBAMBOO",
+    "es": "BULBAMBÚ",
+    "fr": "BULBAMBOU",
+    "id": "348",
+    "monster_id": "548",
+    "pt": "BULBAMBU",
+    "step": "4"
+  },
+  {
+    "en": "BLUE TURTLE",
+    "es": "TORTUGA AZUL",
+    "fr": "TORTUE BLEUE",
+    "id": "349",
+    "monster_id": "221",
+    "pt": "TARTARUGA AZUL",
+    "step": "4"
+  },
+  {
+    "en": "CROW",
+    "es": "CUERBOK",
+    "fr": "CORBAC",
+    "id": "350",
+    "monster_id": "281",
+    "pt": "CORVOC",
+    "step": "4"
+  },
+  {
+    "en": "STARFISH TROOPER",
+    "es": "ESTRELLA DEL MAR RANO",
+    "fr": "ÉTOILE DE LA MER D'ASSE",
+    "id": "351",
+    "monster_id": "927",
+    "pt": "ESTRELA DO MAR MOTA",
+    "step": "4"
+  },
+  {
+    "en": "WHITE SNAPPER",
+    "es": "PISCHIS BLANCO",
+    "fr": "PICHON BLANC",
+    "id": "352",
+    "monster_id": "922",
+    "pt": "PESK BRANCO",
+    "step": "4"
+  },
+  {
+    "en": "BLUE SNAPPER",
+    "es": "PISCHIS AZUL",
+    "fr": "PICHON BLEU",
+    "id": "353",
+    "monster_id": "921",
+    "pt": "PESK AZUL",
+    "step": "4"
+  },
+  {
+    "en": "ORANGE SNAPPER",
+    "es": "PISCHIS NARANJA",
+    "fr": "PICHON ORANGE",
+    "id": "354",
+    "monster_id": "920",
+    "pt": "PESK LARANJA",
+    "step": "4"
+  },
+  {
+    "en": "GREEN SNAPPER",
+    "es": "PISCHIS VERDE",
+    "fr": "PICHON VERT",
+    "id": "355",
+    "monster_id": "923",
+    "pt": "PESK VERDE",
+    "step": "4"
+  },
+  {
+    "en": "BAMBOOTO",
+    "es": "BAMBUTO",
+    "fr": "BAMBOUTO",
+    "id": "356",
+    "monster_id": "524",
+    "pt": "BAMBUTO",
+    "step": "4"
+  },
+  {
+    "en": "RED TURTLE",
+    "es": "TORTUGA ROJA",
+    "fr": "TORTUE ROUGE",
+    "id": "357",
+    "monster_id": "220",
+    "pt": "TARTARUGA VERMELHA",
+    "step": "4"
+  },
+  {
+    "en": "VAMPIRE MASTER",
+    "es": "MAESTRO VAMPIRO",
+    "fr": "Maître Vampire",
+    "id": "358",
+    "monster_id": "124",
+    "pt": "MESTRE VAMPIRO",
+    "step": "4"
+  },
+  {
+    "en": "MINOSKITO",
+    "es": "MINOSKITO",
+    "fr": "MINOSKITO",
+    "id": "359",
+    "monster_id": "834",
+    "pt": "MINOSKITO",
+    "step": "4"
+  },
+  {
+    "en": "NEYE",
+    "es": "NUJO",
+    "fr": "NOEUL",
+    "id": "360",
+    "monster_id": "150",
+    "pt": "NOLHO",
+    "step": "4"
+  },
+  {
+    "en": "MILIBOOWOLF",
+    "es": "MINILUBO",
+    "fr": "Milimulou",
+    "id": "361",
+    "monster_id": "159",
+    "pt": "MILILOBO",
+    "step": "4"
+  },
+  {
+    "en": "AMBUSHER",
+    "es": "MAZORRAL",
+    "fr": "FOURBASSE",
+    "id": "362",
+    "monster_id": "217",
+    "pt": "ARBUSTOR",
+    "step": "4"
+  },
+  {
+    "en": "BULBIFLOR",
+    "es": "BULBIFLOR",
+    "fr": "BULBIFLORE",
+    "id": "363",
+    "monster_id": "515",
+    "pt": "BULBIFLOR",
+    "step": "4"
+  },
+  {
+    "en": "GREEN TURTLE",
+    "es": "TORTUGA VERDE",
+    "fr": "TORTUE VERTE",
+    "id": "364",
+    "monster_id": "222",
+    "pt": "TARTARUGA VERDE",
+    "step": "4"
+  },
+  {
+    "en": "BWORK MAGUS",
+    "es": "BWORK MAGO",
+    "fr": "BWORK MAGE",
+    "id": "365",
+    "monster_id": "53",
+    "pt": "BWORK MAGO",
+    "step": "4"
+  },
+  {
+    "en": "FURIOUS WHITISH FANG",
+    "es": "COLMILLO BLANDO RABIOSO",
+    "fr": "CROC GLAND ENRAGÉ",
+    "id": "366",
+    "monster_id": "397",
+    "pt": "KOMENOZ FURIOSO",
+    "step": "4"
+  },
+  {
+    "en": "DARK ROSE",
+    "es": "ROSA OSCURA",
+    "fr": "ROSE OBSCURE",
+    "id": "367",
+    "monster_id": "467",
+    "pt": "ROSA OBSCURA",
+    "step": "5"
+  },
+  {
+    "en": "BLACK WABBIT",
+    "es": "BLACK WABBIT",
+    "fr": "BLACK WABBIT",
+    "id": "368",
+    "monster_id": "65",
+    "pt": "BLACK WABBIT",
+    "step": "5"
+  },
+  {
+    "en": "DARK MINER",
+    "es": "MINERO OSCURO",
+    "fr": "Mineur Sombre",
+    "id": "369",
+    "monster_id": "118",
+    "pt": "MINEIRO SOMBRIO",
+    "step": "5"
+  },
+  {
+    "en": "BWORK ARCHER",
+    "es": "BWORK ARQUERO",
+    "fr": "BWORK ARCHER",
+    "id": "370",
+    "monster_id": "74",
+    "pt": "BWORK ARQUEIRO",
+    "step": "5"
+  },
+  {
+    "en": "BLUE SPIMUSH",
+    "es": "CHAMPO AZUL",
+    "fr": "CHAMPA BLEU",
+    "id": "371",
+    "monster_id": "654",
+    "pt": "COGUM AZUL",
+    "step": "5"
+  },
+  {
+    "en": "BROWN SPIMUSH",
+    "es": "CHAMPO MARRÓN",
+    "fr": "CHAMPA MARRON",
+    "id": "372",
+    "monster_id": "655",
+    "pt": "COGUM MARROM",
+    "step": "5"
+  },
+  {
+    "en": "RED SPIMUSH",
+    "es": "CHAMPO ROJO",
+    "fr": "CHAMPA ROUGE",
+    "id": "373",
+    "monster_id": "653",
+    "pt": "COGUM VERMELHO",
+    "step": "5"
+  },
+  {
+    "en": "CRACKROCK",
+    "es": "CRUJIBOLA",
+    "fr": "CRAQUEBOULE",
+    "id": "374",
+    "monster_id": "483",
+    "pt": "SMAGABOLA",
+    "step": "5"
+  },
+  {
+    "en": "MANDERISHA",
+    "es": "MANDRINA",
+    "fr": "MANDRINE",
+    "id": "375",
+    "monster_id": "835",
+    "pt": "MANDRINA",
+    "step": "5"
+  },
+  {
+    "en": "KITSOU NAKWA",
+    "es": "KITSU NAKWA",
+    "fr": "KITSOU NAKWA",
+    "id": "376",
+    "monster_id": "523",
+    "pt": "KITSU NAKWA",
+    "step": "5"
+  },
+  {
+    "en": "GARGOYL",
+    "es": "GÁRGROLA",
+    "fr": "GARGROUILLE",
+    "id": "377",
+    "monster_id": "498",
+    "pt": "GÁRGRULA",
+    "step": "5"
+  },
+  {
+    "en": "WILD ALMOND DRAGOTURKEY",
+    "es": "DRAGOPAVO ALMENDRADO Y SALVAJE",
+    "fr": "DRAGODINDE AMANDE SAUVAGE",
+    "id": "378",
+    "monster_id": "171",
+    "pt": "DRAGOPERU AMÊNDOA SELVAGEM",
+    "step": "5"
+  },
+  {
+    "en": "STRAWBERRY JELLY",
+    "es": "GELATINA DE FRESA",
+    "fr": "GELÉE FRAISE",
+    "id": "379",
+    "monster_id": "57",
+    "pt": "GELATINA DE MORANGO",
+    "step": "5"
+  },
+  {
+    "en": "SKELETON WABBIT",
+    "es": "WABBIT ESQUELETO",
+    "fr": "WABBIT SQUELETTE",
+    "id": "380",
+    "monster_id": "179",
+    "pt": "WABBIT SKELETO",
+    "step": "5"
+  },
+  {
+    "en": "INVISIBLE CHAFER",
+    "es": "CHAFER INVISIBLE",
+    "fr": "Chafer Invisible",
+    "id": "381",
+    "monster_id": "110",
+    "pt": "CHAFER INVISÍVEL",
+    "step": "5"
+  },
+  {
+    "en": "CRACKLER",
+    "es": "CRUJIDOR",
+    "fr": "CRAQUELEUR",
+    "id": "382",
+    "monster_id": "106",
+    "pt": "SMAGADOR",
+    "step": "5"
+  },
+  {
+    "en": "BWORK",
+    "es": "BWORK",
+    "fr": "BWORK",
+    "id": "383",
+    "monster_id": "876",
+    "pt": "BWORK",
+    "step": "5"
+  },
+  {
+    "en": "TREECHNID",
+    "es": "ABRÁKNIDO",
+    "fr": "ABRAKNYDE",
+    "id": "384",
+    "monster_id": "47",
+    "pt": "ARVRAKNÍDEO",
+    "step": "5"
+  },
+  {
+    "en": "KHAMELEROST",
+    "es": "KRAMELEÓN",
+    "fr": "KRAMÉLÉHON",
+    "id": "385",
+    "monster_id": "836",
+    "pt": "KRAMALEÃO",
+    "step": "5"
+  },
+  {
+    "en": "WHITE SCARALEAF",
+    "es": "ESCARAHOJA BLANCO",
+    "fr": "SCARAFEUILLE BLANC",
+    "id": "386",
+    "monster_id": "241",
+    "pt": "SCARAFOLHA BRANCO",
+    "step": "6"
+  },
+  {
+    "en": "BLUE SCARALEAF",
+    "es": "ESCARAHOJA AZUL",
+    "fr": "SCARAFEUILLE BLEU",
+    "id": "387",
+    "monster_id": "198",
+    "pt": "SCARAFOLHA AZUL",
+    "step": "6"
+  },
+  {
+    "en": "RED SCARALEAF",
+    "es": "ESCARAHOJA ROJO",
+    "fr": "SCARAFEUILLE ROUGE",
+    "id": "388",
+    "monster_id": "194",
+    "pt": "SCARAFOLHA VERMELHO",
+    "step": "6"
+  },
+  {
+    "en": "GREEN SCARALEAF",
+    "es": "ESCARAHOJA VERDE",
+    "fr": "SCARAFEUILLE VERT",
+    "id": "389",
+    "monster_id": "240",
+    "pt": "SCARAFOLHA VERDE",
+    "step": "6"
+  },
+  {
+    "en": "RIB",
+    "es": "RIB",
+    "fr": "RIB",
+    "id": "390",
+    "monster_id": "108",
+    "pt": "RIB",
+    "step": "6"
+  },
+  {
+    "en": "COCO BLOP",
+    "es": "BLOP COCO",
+    "fr": "BLOP COCO",
+    "id": "391",
+    "monster_id": "273",
+    "pt": "BLOP COCO",
+    "step": "6"
+  },
+  {
+    "en": "MORELLO CHERRY BLOP",
+    "es": "BLOP GUINDA",
+    "fr": "BLOP GRIOTTE",
+    "id": "392",
+    "monster_id": "275",
+    "pt": "BLOP CEREJA",
+    "step": "6"
+  },
+  {
+    "en": "INDIGO BLOP",
+    "es": "BLOP ÍNDIGO",
+    "fr": "BLOP INDIGO",
+    "id": "393",
+    "monster_id": "274",
+    "pt": "BLOP ÍNDIGO",
+    "step": "6"
+  },
+  {
+    "en": "PIPPIN BLOP",
+    "es": "BLOP REINETA",
+    "fr": "BLOP REINETTE",
+    "id": "394",
+    "monster_id": "276",
+    "pt": "BLOP MAÇÃ",
+    "step": "6"
+  },
+  {
+    "en": "FARLE'S PIG",
+    "es": "CERDO DE FARLE",
+    "fr": "COCHON DE FARLE",
+    "id": "395",
+    "monster_id": "603",
+    "pt": "PORCO DE FARLE",
+    "step": "6"
+  },
+  {
+    "en": "SCARATOS",
+    "es": "ESCARATO",
+    "fr": "SCARATOS",
+    "id": "396",
+    "monster_id": "830",
+    "pt": "SCARATOS",
+    "step": "6"
+  },
+  {
+    "en": "BOOMBA",
+    "es": "BOOMBA",
+    "fr": "Boomba",
+    "id": "397",
+    "monster_id": "228",
+    "pt": "BOOMBA",
+    "step": "6"
+  },
+  {
+    "en": "TRUNKNID",
+    "es": "TRONKÓNIDO",
+    "fr": "TRONKNYDE",
+    "id": "398",
+    "monster_id": "256",
+    "pt": "TRONKNÍDEO",
+    "step": "6"
+  },
+  {
+    "en": "CHAFER FOOT SOLDIER",
+    "es": "CHAFER INFANTE",
+    "fr": "CHAFER FANTASSIN",
+    "id": "399",
+    "monster_id": "396",
+    "pt": "CHAFER DE INFANTARIA",
+    "step": "6"
+  },
+  {
+    "en": "KLOON SNAPPER",
+    "es": "PISCHIS PAYASO",
+    "fr": "PICHON KLOUNE",
+    "id": "400",
+    "monster_id": "924",
+    "pt": "PESK PALHAÇO",
+    "step": "6"
+  },
+  {
+    "en": "TREECHNEE",
+    "es": "ABRAKNO",
+    "fr": "ABRAKNE",
+    "id": "401",
+    "monster_id": "650",
+    "pt": "ARVRAKNE",
+    "step": "6"
+  },
+  {
+    "en": "CHAFER",
+    "es": "CHAFER",
+    "fr": "Chafer",
+    "id": "402",
+    "monster_id": "54",
+    "pt": "CHAFER",
+    "step": "6"
+  },
+  {
+    "en": "CROCODYL",
+    "es": "COCODRAIL",
+    "fr": "CROCODAILLE",
+    "id": "403",
+    "monster_id": "261",
+    "pt": "CROCODYL",
+    "step": "6"
+  },
+  {
+    "en": "SICK GROSSEWER RAT",
+    "es": "RATA DE ALCANTARILLA ENFERMA",
+    "fr": "RAT D'ÉGOUTANT MALADE",
+    "id": "404",
+    "monster_id": "465",
+    "pt": "RATO DE ESGOTO DOENTE",
+    "step": "6"
+  },
+  {
+    "en": "SCURVION",
+    "es": "SCORBUTO",
+    "fr": "SCORBUTE",
+    "id": "405",
+    "monster_id": "298",
+    "pt": "SCORBUTO",
+    "step": "6"
+  },
+  {
+    "en": "WILD GINGER DRAGOTURKEY",
+    "es": "DRAGOPAVO PELIRROJO Y SALVAJE",
+    "fr": "DRAGODINDE ROUSSE SAUVAGE",
+    "id": "406",
+    "monster_id": "200",
+    "pt": "DRAGOPERU RUIVO SELVAGEM",
+    "step": "7"
+  },
+  {
+    "en": "DARK SMITH",
+    "es": "HERRERO OSCURO",
+    "fr": "FORGERON SOMBRE",
+    "id": "407",
+    "monster_id": "119",
+    "pt": "FERREIRO SOMBRIO",
+    "step": "7"
+  },
+  {
+    "en": "KURASSO CRABORAL",
+    "es": "CRUSTORAL KURAÇAO",
+    "fr": "CRUSTORAIL KOURAÇAO",
+    "id": "408",
+    "monster_id": "1060",
+    "pt": "CRUSTOCANA KURAÇAL",
+    "step": "7"
+  },
+  {
+    "en": "MAHLIBUH CRABORAL",
+    "es": "CRUSTORAL MALIBUT",
+    "fr": "CRUSTORAIL MALIBOUT",
+    "id": "409",
+    "monster_id": "1061",
+    "pt": "CRUSTOCANA MALIBOO",
+    "step": "7"
+  },
+  {
+    "en": "MOJEETO CRABORAL",
+    "es": "CRUSTORAL MOHITO",
+    "fr": "CRUSTORAIL MORITO",
+    "id": "410",
+    "monster_id": "1063",
+    "pt": "CRUSTOCANA MORRITO",
+    "step": "7"
+  },
+  {
+    "en": "PASSAOH CRABORAL",
+    "es": "CRUSTORAL PASSAOH",
+    "fr": "CRUSTORAIL PASSAOH",
+    "id": "411",
+    "monster_id": "1062",
+    "pt": "CRUSTOCANA PASSAOH",
+    "step": "7"
+  },
+  {
+    "en": "BULBUSH",
+    "es": "BULBOMATORRAL",
+    "fr": "BULBUISSON",
+    "id": "412",
+    "monster_id": "518",
+    "pt": "BULBUSTO",
+    "step": "7"
+  },
+  {
+    "en": "MAJOR ARACHNEE",
+    "es": "ARAKNA MAYOR",
+    "fr": "ARAKNE MAJEURE",
+    "id": "413",
+    "monster_id": "259",
+    "pt": "ARAKNE MAIOR",
+    "step": "7"
+  },
+  {
+    "en": "ARAKNAWA",
+    "es": "ARAKNAWA",
+    "fr": "ARAKNAWA",
+    "id": "414",
+    "monster_id": "520",
+    "pt": "ARAKNAWA",
+    "step": "7"
+  },
+  {
+    "en": "GWANDPA WABBIT",
+    "es": "AWELITO WABBIT",
+    "fr": "GRAND PA WABBIT",
+    "id": "415",
+    "monster_id": "99",
+    "pt": "VOVÔ WABBIT",
+    "step": "7"
+  },
+  {
+    "en": "WO WABBIT",
+    "es": "WABBIT WODO",
+    "fr": "WO WABBIT",
+    "id": "416",
+    "monster_id": "97",
+    "pt": "WABBIT GOWDO",
+    "step": "7"
+  },
+  {
+    "en": "LOUSY PIG KNIGHT",
+    "es": "CABALLERO PUERKAZO",
+    "fr": "CAVALIER PORKASS",
+    "id": "417",
+    "monster_id": "343",
+    "pt": "CAVALEIRO PORKASSO",
+    "step": "7"
+  },
+  {
+    "en": "ABOUB",
+    "es": "ABUB",
+    "fr": "ABOUB",
+    "id": "418",
+    "monster_id": "384",
+    "pt": "ABUB",
+    "step": "7"
+  },
+  {
+    "en": "AMLUB",
+    "es": "AMLUB",
+    "fr": "AMLUB",
+    "id": "419",
+    "monster_id": "385",
+    "pt": "AMLUB",
+    "step": "7"
+  },
+  {
+    "en": "CODEM",
+    "es": "CODEM",
+    "fr": "CODEM",
+    "id": "420",
+    "monster_id": "386",
+    "pt": "CODEM",
+    "step": "7"
+  },
+  {
+    "en": "GINK",
+    "es": "GINK",
+    "fr": "GINK",
+    "id": "421",
+    "monster_id": "387",
+    "pt": "GINK",
+    "step": "7"
+  },
+  {
+    "en": "KIREVAM",
+    "es": "KIREVAM",
+    "fr": "KIREVAM",
+    "id": "422",
+    "monster_id": "388",
+    "pt": "KIREVAM",
+    "step": "7"
+  },
+  {
+    "en": "LET EMOLIUG",
+    "es": "LET EMOLIUG",
+    "fr": "LET EMOLIUG",
+    "id": "423",
+    "monster_id": "389",
+    "pt": "LET EMREHLIUG",
+    "step": "7"
+  },
+  {
+    "en": "NEBGIB",
+    "es": "NEBGIB",
+    "fr": "NEBGIB",
+    "id": "424",
+    "monster_id": "390",
+    "pt": "NEBGIB",
+    "step": "7"
+  },
+  {
+    "en": "NIPUL",
+    "es": "NIPUL",
+    "fr": "NIPUL",
+    "id": "425",
+    "monster_id": "391",
+    "pt": "ONIPUL",
+    "step": "7"
+  },
+  {
+    "en": "OSURC",
+    "es": "OSURC",
+    "fr": "OSURC",
+    "id": "426",
+    "monster_id": "392",
+    "pt": "OSURC",
+    "step": "8"
+  },
+  {
+    "en": "SUSEJ",
+    "es": "SUSEJ",
+    "fr": "SUSEJ",
+    "id": "427",
+    "monster_id": "393",
+    "pt": "SUSEJ",
+    "step": "8"
+  },
+  {
+    "en": "KOKOKO",
+    "es": "KOKOKO",
+    "fr": "KOKOKO",
+    "id": "428",
+    "monster_id": "209",
+    "pt": "KOKOKO",
+    "step": "8"
+  },
+  {
+    "en": "CHAFER ARCHER",
+    "es": "CHAFER ARQUERO",
+    "fr": "CHAFER ARCHER",
+    "id": "429",
+    "monster_id": "291",
+    "pt": "CHAFER ARQUEIRO",
+    "step": "8"
+  },
+  {
+    "en": "CHAFER LANCER",
+    "es": "CHAFER LANCERO",
+    "fr": "CHAFER LANCIER",
+    "id": "430",
+    "monster_id": "290",
+    "pt": "CHAFER LANCEIRO",
+    "step": "8"
+  },
+  {
+    "en": "DOK ALAKO",
+    "es": "DOK ALAKO",
+    "fr": "DOK ALAKO",
+    "id": "431",
+    "monster_id": "747",
+    "pt": "DOK ALAKO",
+    "step": "8"
+  },
+  {
+    "en": "IMMATURE KOALAK",
+    "es": "KOALAK INMADURO",
+    "fr": "KOALAK IMMATURE",
+    "id": "432",
+    "monster_id": "748",
+    "pt": "KOALAK IMATURO",
+    "step": "8"
+  },
+  {
+    "en": "MINOKID",
+    "es": "MINOVILLO",
+    "fr": "GAMINO",
+    "id": "433",
+    "monster_id": "668",
+    "pt": "MENIMINO",
+    "step": "8"
+  },
+  {
+    "en": "GROSSEWER SHAMAN",
+    "es": "CHAMÁN DE ALCANTARILLA",
+    "fr": "CHAMANE D'ÉGOUTANT",
+    "id": "434",
+    "monster_id": "447",
+    "pt": "XAMÃ DE ESGOTO",
+    "step": "8"
+  },
+  {
+    "en": "BOGGEDOWN OUASSINGUE",
+    "es": "STROPAJO TURBADO",
+    "fr": "LE OUASSINGUE ENTOURBÉ",
+    "id": "435",
+    "monster_id": "1096",
+    "pt": "O NOJOSO TURBADO",
+    "step": "8"
+  },
+  {
+    "en": "OUASSINGAL",
+    "es": "LA STROPAJO",
+    "fr": "LA OUASSINGUE",
+    "id": "436",
+    "monster_id": "495",
+    "pt": "A NOJOSA",
+    "step": "8"
+  },
+  {
+    "en": "OUASSINGUE",
+    "es": "EL STROPAJO",
+    "fr": "LE OUASSINGUE",
+    "id": "437",
+    "monster_id": "496",
+    "pt": "O NOJOSO",
+    "step": "8"
+  },
+  {
+    "en": "MAHLIBUH PALMFLOWER",
+    "es": "PALMIFLOR MALIBUT",
+    "fr": "PALMIFLEUR MALIBOUT",
+    "id": "438",
+    "monster_id": "1065",
+    "pt": "PALMIFLOR MALIBOO",
+    "step": "8"
+  },
+  {
+    "en": "MOJEETO PALMFLOWER",
+    "es": "PALMIFLOR MOHITO",
+    "fr": "PALMIFLEUR MORITO",
+    "id": "439",
+    "monster_id": "1067",
+    "pt": "PALMIFLOR MORRITO",
+    "step": "8"
+  },
+  {
+    "en": "PASSAOH PALMFLOWER",
+    "es": "PALMIFLOR PASSAOH",
+    "fr": "PALMIFLEUR PASSAOH",
+    "id": "440",
+    "monster_id": "1066",
+    "pt": "PALMIFLOR PASSAOH",
+    "step": "8"
+  },
+  {
+    "en": "PLAIN BOAR",
+    "es": "JABALÍ DE LAS LLANURAS",
+    "fr": "SANGLIER DES PLAINES",
+    "id": "441",
+    "monster_id": "297",
+    "pt": "JAVALI DAS PLANÍCIES",
+    "step": "8"
+  },
+  {
+    "en": "VENERABLE TREECHNID",
+    "es": "ABRÁKNIDO VENERABLE",
+    "fr": "Abraknyde Vénérable",
+    "id": "442",
+    "monster_id": "254",
+    "pt": "ARVRAKNÍDEO VENERÁVEL",
+    "step": "8"
+  },
+  {
+    "en": "PLAIN CRACKLER",
+    "es": "CRUJIDOR DE LAS LLANURAS",
+    "fr": "CRAQUELEUR DES PLAINES",
+    "id": "443",
+    "monster_id": "293",
+    "pt": "SMAGADOR DAS PLANÍCIES",
+    "step": "8"
+  },
+  {
+    "en": "PANDIT",
+    "es": "PANDIDO",
+    "fr": "PANDIT",
+    "id": "444",
+    "monster_id": "517",
+    "pt": "PANDIDO",
+    "step": "8"
+  },
+  {
+    "en": "ELITE CHAFER",
+    "es": "CHAFER DE ÉLITE",
+    "fr": "CHAFER D'ÉLITE",
+    "id": "445",
+    "monster_id": "292",
+    "pt": "CHAFER DE ELITE",
+    "step": "8"
+  },
+  {
+    "en": "FUNGI MASTER",
+    "es": "MAESTRO BOLETUS",
+    "fr": "MAÎTRE BOLET",
+    "id": "446",
+    "monster_id": "371",
+    "pt": "MESTRE BOLETO",
+    "step": "9"
+  },
+  {
+    "en": "POLISHED CRACKROCK",
+    "es": "CRUJIBOLA PULÍO",
+    "fr": "CRAQUEBOULE POLI",
+    "id": "447",
+    "monster_id": "1026",
+    "pt": "SMAGABOLA POLIDO",
+    "step": "9"
+  },
+  {
+    "en": "PANDIKAZE",
+    "es": "PANDIKAZE",
+    "fr": "PANDIKAZE",
+    "id": "448",
+    "monster_id": "566",
+    "pt": "PANDIKAZE",
+    "step": "9"
+  },
+  {
+    "en": "KANNIBALLBO",
+    "es": "KANÍBOLA ARQUERO",
+    "fr": "KANNIBOUL ARCHER",
+    "id": "449",
+    "monster_id": "211",
+    "pt": "KANIBOLA ARKO",
+    "step": "9"
+  },
+  {
+    "en": "KANNIBALL JAV",
+    "es": "KANÍBOLA JAV",
+    "fr": "KANNIBOUL JAV",
+    "id": "450",
+    "monster_id": "213",
+    "pt": "KANIBOLA JAV",
+    "step": "9"
+  },
+  {
+    "en": "KANNIBALL SARBAK",
+    "es": "KANÍBOLA CERBAT",
+    "fr": "KANNIBOUL SARBAK",
+    "id": "451",
+    "monster_id": "214",
+    "pt": "KANIBOLA SARBAK",
+    "step": "9"
+  },
+  {
+    "en": "KANNIBALL THIERRY",
+    "es": "KANÍBOLA THIERRY",
+    "fr": "KANNIBOUL THIERRY",
+    "id": "452",
+    "monster_id": "212",
+    "pt": "KANIBOLA ETH",
+    "step": "9"
+  },
+  {
+    "en": "DRUNKEN PANDALETTE",
+    "es": "PANDITA BORRACHA",
+    "fr": "PANDALETTE IVRE",
+    "id": "453",
+    "monster_id": "547",
+    "pt": "PANDALITA BÊBADA",
+    "step": "9"
+  },
+  {
+    "en": "GROSSEWER RAT",
+    "es": "RATA DE ALCANTARILLA",
+    "fr": "RAT D'ÉGOUTANT",
+    "id": "454",
+    "monster_id": "442",
+    "pt": "RATO DE ESGOTO",
+    "step": "9"
+  },
+  {
+    "en": "KURASSO PALMFLOWER",
+    "es": "PALMIFLOR KURAÇAO",
+    "fr": "PALMIFLEUR KOURAÇAO",
+    "id": "455",
+    "monster_id": "1064",
+    "pt": "PALMIFLOR KURAÇAL",
+    "step": "9"
+  },
+  {
+    "en": "OUGINAK",
+    "es": "UGINAK",
+    "fr": "OUGINAK",
+    "id": "456",
+    "monster_id": "301",
+    "pt": "KILORF",
+    "step": "9"
+  },
+  {
+    "en": "IMMATURE WHITE DREGGON",
+    "es": "DRAGOHUEVO BLANCO INMADURO",
+    "fr": "DRAGOEUF BLANC IMMATURE",
+    "id": "457",
+    "monster_id": "90",
+    "pt": "DRAGOVO BRANCO IMATURO",
+    "step": "9"
+  },
+  {
+    "en": "IMMATURE GOLDEN DREGGON",
+    "es": "DRAGOHUEVO DORADO INMADURO",
+    "fr": "DRAGOEUF DORÉ IMMATURE",
+    "id": "458",
+    "monster_id": "75",
+    "pt": "DRAGOVO DOURADO IMATURO",
+    "step": "9"
+  },
+  {
+    "en": "IMMATURE BLACK DREGGON",
+    "es": "DRAGOHUEVO NEGRO INMADURO",
+    "fr": "DRAGOEUF NOIR IMMATURE",
+    "id": "459",
+    "monster_id": "82",
+    "pt": "DRAGOVO NEGRO IMATURO",
+    "step": "9"
+  },
+  {
+    "en": "IMMATURE SAPPHIRE DREGGON",
+    "es": "DRAGOHUEVO ZAFIRO INMADURO",
+    "fr": "DRAGOEUF DE SAPHIR IMMATURE",
+    "id": "460",
+    "monster_id": "170",
+    "pt": "DRAGOVO SAFIRA IMATURO",
+    "step": "9"
+  },
+  {
+    "en": "WHITE DRAGOSS",
+    "es": "DRAGOSS BLANCO",
+    "fr": "DRAGOSS BLANC",
+    "id": "461",
+    "monster_id": "885",
+    "pt": "DRAGOSSO BRANCO",
+    "step": "9"
+  },
+  {
+    "en": "GOLDEN DRAGOSS",
+    "es": "DRAGOSS DORADO",
+    "fr": "DRAGOSS DORÉ",
+    "id": "462",
+    "monster_id": "886",
+    "pt": "DRAGOSSO DOURADO",
+    "step": "9"
+  },
+  {
+    "en": "BLACK DRAGOSS",
+    "es": "DRAGOSS NEGRO",
+    "fr": "DRAGOSS NOIR",
+    "id": "463",
+    "monster_id": "848",
+    "pt": "DRAGOSSO NEGRO",
+    "step": "9"
+  },
+  {
+    "en": "SAPPHIRE DRAGOSS",
+    "es": "DRAGOSS ZAFIRO",
+    "fr": "DRAGOSS DE SAPHIR",
+    "id": "464",
+    "monster_id": "884",
+    "pt": "DRAGOSSO SAFIRA",
+    "step": "9"
+  },
+  {
+    "en": "LEOPARDO",
+    "es": "LEOPARDO",
+    "fr": "LÉOPARDO",
+    "id": "465",
+    "monster_id": "535",
+    "pt": "LEOPARDO",
+    "step": "9"
+  },
+  {
+    "en": "QUETSNAKIATL",
+    "es": "SERPIPLUMA",
+    "fr": "SERPIPLUME",
+    "id": "466",
+    "monster_id": "829",
+    "pt": "SERPLUMA",
+    "step": "10"
+  },
+  {
+    "en": "CORALATOR",
+    "es": "CORALADOR",
+    "fr": "CORAILLEUR",
+    "id": "467",
+    "monster_id": "1022",
+    "pt": "CORALADOR",
+    "step": "10"
+  },
+  {
+    "en": "KITSOU NAE",
+    "es": "KITSU NAE",
+    "fr": "KITSOU NAE",
+    "id": "468",
+    "monster_id": "531",
+    "pt": "KITSU NAE",
+    "step": "10"
+  },
+  {
+    "en": "RAUL MOPS",
+    "es": "RAÚL MOPS",
+    "fr": "RAUL MOPS",
+    "id": "469",
+    "monster_id": "926",
+    "pt": "RAUL MOPS",
+    "step": "10"
+  },
+  {
+    "en": "DRUNKEN PANDAWA",
+    "es": "PANDAWA BORRACHO",
+    "fr": "PANDAWA IVRE",
+    "id": "470",
+    "monster_id": "534",
+    "pt": "PANDAWA BÊBADO",
+    "step": "10"
+  },
+  {
+    "en": "GRASS SNAKE",
+    "es": "COOLEBRA",
+    "fr": "COOLEUVRE",
+    "id": "471",
+    "monster_id": "522",
+    "pt": "COOLOBRA",
+    "step": "10"
+  },
+  {
+    "en": "EXPLOSIVE SHELL",
+    "es": "CÁSCARA EXPLOSIVA",
+    "fr": "COQUILLE EXPLOSIVE",
+    "id": "472",
+    "monster_id": "158",
+    "pt": "CASCA EXPLOSIVA",
+    "step": "10"
+  },
+  {
+    "en": "CANNON DORF",
+    "es": "CAÑÓN DORF",
+    "fr": "CANON DORF",
+    "id": "473",
+    "monster_id": "231",
+    "pt": "CANHÃO DORF",
+    "step": "10"
+  },
+  {
+    "en": "HAZWONARM",
+    "es": "NOTYEBRA",
+    "fr": "NAKUNBRA",
+    "id": "474",
+    "monster_id": "229",
+    "pt": "OMANETTA",
+    "step": "10"
+  },
+  {
+    "en": "BLODZ UKER",
+    "es": "DON DESSANGRE",
+    "fr": "DON DUSS ANG",
+    "id": "475",
+    "monster_id": "600",
+    "pt": "DOWA SANG",
+    "step": "10"
+  },
+  {
+    "en": "WHITE DREGGON",
+    "es": "DRAGOHUEVO BLANCO",
+    "fr": "DRAGOEUF BLANC",
+    "id": "476",
+    "monster_id": "76",
+    "pt": "DRAGOVO BRANCO",
+    "step": "10"
+  },
+  {
+    "en": "GOLDEN DREGGON",
+    "es": "DRAGOHUEVO DORADO",
+    "fr": "DRAGOEUF DORÉ",
+    "id": "477",
+    "monster_id": "87",
+    "pt": "DRAGOVO DOURADO",
+    "step": "10"
+  },
+  {
+    "en": "BLACK DREGGON",
+    "es": "DRAGOHUEVO NEGRO",
+    "fr": "DRAGOEUF NOIR",
+    "id": "478",
+    "monster_id": "89",
+    "pt": "DRAGOVO NEGRO",
+    "step": "10"
+  },
+  {
+    "en": "SAPPHIRE DREGGON",
+    "es": "DRAGOHUEVO ZAFIRO",
+    "fr": "DRAGOEUF DE SAPHIR",
+    "id": "479",
+    "monster_id": "88",
+    "pt": "DRAGOVO SAFIRA",
+    "step": "10"
+  },
+  {
+    "en": "COCO KOALAK",
+    "es": "KOALAK COCO",
+    "fr": "KOALAK COCO",
+    "id": "480",
+    "monster_id": "752",
+    "pt": "KOALAK COCO",
+    "step": "10"
+  },
+  {
+    "en": "MORELLO CHERRY KOALAK",
+    "es": "KOALAK GUINDA",
+    "fr": "KOALAK GRIOTTE",
+    "id": "481",
+    "monster_id": "753",
+    "pt": "KOALAK CEREJA",
+    "step": "10"
+  },
+  {
+    "en": "INDIGO KOALAK",
+    "es": "KOALAK ÍNDIGO",
+    "fr": "KOALAK INDIGO",
+    "id": "482",
+    "monster_id": "751",
+    "pt": "KOALAK ÍNDIGO",
+    "step": "10"
+  },
+  {
+    "en": "PIPPIN KOALAK",
+    "es": "KOALAK REINETA",
+    "fr": "KOALAK REINETTE",
+    "id": "483",
+    "monster_id": "754",
+    "pt": "KOALAK MAÇÃ",
+    "step": "10"
+  },
+  {
+    "en": "HYOACTIVE RAT",
+    "es": "RATA HYOACTIVA",
+    "fr": "RAT D'HYOACTIF",
+    "id": "484",
+    "monster_id": "449",
+    "pt": "RATO HIOATIVO",
+    "step": "10"
+  },
+  {
+    "en": "SPARO",
+    "es": "SPARO",
+    "fr": "SPARO",
+    "id": "485",
+    "monster_id": "1048",
+    "pt": "SPARO",
+    "step": "10"
+  },
+  {
+    "en": "WARGUERITE",
+    "es": "MARGUERRITA",
+    "fr": "CHIENDENT",
+    "id": "486",
+    "monster_id": "1076",
+    "pt": "MAERVA",
+    "step": "11"
+  },
+  {
+    "en": "APERO GHOST",
+    "es": "FANTASMA DE APERITUBO",
+    "fr": "FANTÔME APERO",
+    "id": "487",
+    "monster_id": "932",
+    "pt": "FANTASMA APERO",
+    "step": "11"
+  },
+  {
+    "en": "BURNING GHOST",
+    "es": "FANTASMA DE ARDIENTE",
+    "fr": "FANTÔME ARDENT",
+    "id": "488",
+    "monster_id": "378",
+    "pt": "FANTASMA ARDENTE",
+    "step": "11"
+  },
+  {
+    "en": "AREPO GHOST",
+    "es": "FANTASMA DE AREPO",
+    "fr": "FANTÔME AREPO",
+    "id": "489",
+    "monster_id": "380",
+    "pt": "FANTASMA AREPO",
+    "step": "11"
+  },
+  {
+    "en": "BRAVE GHOST",
+    "es": "FANTASMA DE VALIENTE",
+    "fr": "FANTÔME BRAVE",
+    "id": "490",
+    "monster_id": "379",
+    "pt": "FANTASMA VALENTE",
+    "step": "11"
+  },
+  {
+    "en": "DORGAN ATION",
+    "es": "DON DÓRGANO",
+    "fr": "DON DORGAN",
+    "id": "491",
+    "monster_id": "601",
+    "pt": "DOWA ORGANS",
+    "step": "11"
+  },
+  {
+    "en": "BARBROSSA",
+    "es": "BARBRUSA",
+    "fr": "BARBROUSSA",
+    "id": "492",
+    "monster_id": "1049",
+    "pt": "BARBROSSA",
+    "step": "11"
+  },
+  {
+    "en": "ZE FLIB",
+    "es": "FLIB",
+    "fr": "LE FLIB",
+    "id": "493",
+    "monster_id": "1050",
+    "pt": "FLIB",
+    "step": "11"
+  },
+  {
+    "en": "GWASS",
+    "es": "NIERBA",
+    "fr": "NERBE",
+    "id": "494",
+    "monster_id": "1074",
+    "pt": "NERVA",
+    "step": "11"
+  },
+  {
+    "en": "CROCODYL CHIEF",
+    "es": "JEFE COCODRAIL",
+    "fr": "CHEF CROCODAILLE",
+    "id": "495",
+    "monster_id": "263",
+    "pt": "CHEFE CROCODYL",
+    "step": "11"
+  },
+  {
+    "en": "PLISSKEN",
+    "es": "CULEBRÓN",
+    "fr": "SERPENTIN",
+    "id": "496",
+    "monster_id": "288",
+    "pt": "SERPENTINO",
+    "step": "11"
+  },
+  {
+    "en": "KANIGER",
+    "es": "KANUGRO",
+    "fr": "KANIGROU",
+    "id": "497",
+    "monster_id": "287",
+    "pt": "KANIGRE",
+    "step": "11"
+  },
+  {
+    "en": "PLAIN PIKOKO",
+    "es": "TUFO DE LAS LLANURAS",
+    "fr": "BITOUF DES PLAINES",
+    "id": "498",
+    "monster_id": "1019",
+    "pt": "BITUFO DAS PLANÍCIES",
+    "step": "11"
+  },
+  {
+    "en": "POLISHED CRACKLER",
+    "es": "CRUJIDOR PULÍO",
+    "fr": "CRAQUELEUR POLI",
+    "id": "499",
+    "monster_id": "1025",
+    "pt": "SMAGADOR POLIDO",
+    "step": "11"
+  },
+  {
+    "en": "MUFAFAH",
+    "es": "MUFAFAH",
+    "fr": "MUFAFAH",
+    "id": "500",
+    "monster_id": "1068",
+    "pt": "MUFAFAH",
+    "step": "11"
+  },
+  {
+    "en": "BOOWOLF",
+    "es": "MEDIULUBO",
+    "fr": "MULOU",
+    "id": "501",
+    "monster_id": "102",
+    "pt": "MILOBO",
+    "step": "11"
+  },
+  {
+    "en": "PANDULUM",
+    "es": "PANDULO",
+    "fr": "PANDULE",
+    "id": "502",
+    "monster_id": "549",
+    "pt": "PÂNDULO",
+    "step": "11"
+  },
+  {
+    "en": "KIDO",
+    "es": "KIDO",
+    "fr": "KIDO",
+    "id": "503",
+    "monster_id": "1069",
+    "pt": "KIDO",
+    "step": "11"
+  },
+  {
+    "en": "KILIBRISS",
+    "es": "KILIBRIS",
+    "fr": "KILIBRISS",
+    "id": "504",
+    "monster_id": "1070",
+    "pt": "KILIBRISS",
+    "step": "11"
+  },
+  {
+    "en": "ALERT WHITE DREGGON",
+    "es": "DRAGOHUEVO BLANCO DESPIERTO",
+    "fr": "DRAGOEUF BLANC ÉVEILLÉ",
+    "id": "505",
+    "monster_id": "93",
+    "pt": "DRAGOVO BRANCO ALERTA",
+    "step": "11"
+  },
+  {
+    "en": "ONI",
+    "es": "ONI",
+    "fr": "ONI",
+    "id": "512",
+    "monster_id": "249",
+    "pt": "ONI",
+    "step": "12"
+  },
+  {
+    "en": "BROWN WARKO",
+    "es": "WARKO MARRÓN",
+    "fr": "WARKO MARRON",
+    "id": "513",
+    "monster_id": "746",
+    "pt": "WARKO MARROM",
+    "step": "12"
+  },
+  {
+    "en": "KITSOU NERE",
+    "es": "KITSU NERE",
+    "fr": "KITSOU NERE",
+    "id": "514",
+    "monster_id": "530",
+    "pt": "KITSU NERE",
+    "step": "12"
+  },
+  {
+    "en": "DARK TREECHNID",
+    "es": "ABRÁKNIDO OSCURO",
+    "fr": "ABRAKNYDE SOMBRE",
+    "id": "515",
+    "monster_id": "253",
+    "pt": "ARVRAKNÍDEO SOMBRIO",
+    "step": "12"
+  },
+  {
+    "en": "BULBIG",
+    "es": "BULBIG",
+    "fr": "BULBIG",
+    "id": "516",
+    "monster_id": "519",
+    "pt": "BULBIG",
+    "step": "12"
+  },
+  {
+    "en": "KOALAK GRAVEDIGGER",
+    "es": "KOALAK SEPULTURERO",
+    "fr": "FOSSOYEUR KOALAK",
+    "id": "517",
+    "monster_id": "761",
+    "pt": "COVEIRO KOALAK",
+    "step": "12"
+  },
+  {
+    "en": "KOALAK FORESTER",
+    "es": "KOALAK FORESTAL",
+    "fr": "KOALAK FORESTIER",
+    "id": "518",
+    "monster_id": "785",
+    "pt": "KOALAK FLORESTAL",
+    "step": "12"
+  },
+  {
+    "en": "PIRALAK",
+    "es": "PIRALAK",
+    "fr": "PIRALAK",
+    "id": "519",
+    "monster_id": "784",
+    "pt": "PIRALAK",
+    "step": "12"
+  },
+  {
+    "en": "FISHERALAK",
+    "es": "PEKEWALAK",
+    "fr": "PÉKEUALAK",
+    "id": "520",
+    "monster_id": "786",
+    "pt": "PESKADOLAK",
+    "step": "12"
+  },
+  {
+    "en": "GREEDOVORE",
+    "es": "ZAMPÁVORO",
+    "fr": "GLOUTOVORE",
+    "id": "521",
+    "monster_id": "216",
+    "pt": "GLUTONÍVORO",
+    "step": "12"
+  },
+  {
+    "en": "DARK TREECHNEE",
+    "es": "ABRAKNO OSCURO",
+    "fr": "ABRAKNE SOMBRE",
+    "id": "522",
+    "monster_id": "651",
+    "pt": "ARVRAKNE SOMBRIO",
+    "step": "12"
+  },
+  {
+    "en": "WILD GOLDEN DRAGOTURKEY",
+    "es": "DRAGOPAVO DORADO Y SALVAJE",
+    "fr": "DRAGODINDE DORÉE SAUVAGE",
+    "id": "523",
+    "monster_id": "666",
+    "pt": "DRAGOPERU DOURADO SELVAGEM",
+    "step": "12"
+  },
+  {
+    "en": "KOALAK RIDER",
+    "es": "KOALAK CABALGADOR",
+    "fr": "CHEVAUCHEUR KOALAK",
+    "id": "524",
+    "monster_id": "759",
+    "pt": "CAVALEIRO KOALAK",
+    "step": "12"
+  },
+  {
+    "en": "MOOPET",
+    "es": "MOPET",
+    "fr": "MEUPETTE",
+    "id": "525",
+    "monster_id": "1046",
+    "pt": "MOPETE",
+    "step": "12"
+  },
+  {
+    "en": "ALERT GOLDEN DREGGON",
+    "es": "DRAGOHUEVO DORADO DESPIERTO",
+    "fr": "DRAGOEUF DORÉ ÉVEILLÉ",
+    "id": "506",
+    "monster_id": "94",
+    "pt": "DRAGOVO DOURADO ALERTA",
+    "step": "12"
+  },
+  {
+    "en": "ALERT BLACK DREGGON",
+    "es": "DRAGOHUEVO NEGRO DESPIERTO",
+    "fr": "DRAGOEUF NOIR ÉVEILLÉ",
+    "id": "507",
+    "monster_id": "91",
+    "pt": "DRAGOVO NEGRO ALERTA",
+    "step": "12"
+  },
+  {
+    "en": "ALERT SAPPHIRE DREGGON",
+    "es": "DRAGOHUEVO ZAFIRO DESPIERTO",
+    "fr": "DRAGOEUF DE SAPHIR ÉVEILLÉ",
+    "id": "508",
+    "monster_id": "95",
+    "pt": "DRAGOVO SAFIRA ALERTA",
+    "step": "12"
+  },
+  {
+    "en": "DRAGOSTESS",
+    "es": "DRAGOSA",
+    "fr": "DRAGUEUSE",
+    "id": "509",
+    "monster_id": "855",
+    "pt": "DRAGOSA",
+    "step": "12"
+  },
+  {
+    "en": "KOALAK WARRIOR",
+    "es": "GUERRERO KOALAK",
+    "fr": "GUERRIER KOALAK",
+    "id": "510",
+    "monster_id": "749",
+    "pt": "GUERREIRO KOALAK",
+    "step": "12"
+  },
+  {
+    "en": "POACHER",
+    "es": "CAZADOR FURTIVO",
+    "fr": "BRACONNIER",
+    "id": "511",
+    "monster_id": "525",
+    "pt": "CAÇADOR CLANDESTINO",
+    "step": "12"
+  },
+  {
+    "en": "HOLY BAMBOOTO",
+    "es": "BAMBUTO SAGRADO",
+    "fr": "BAMBOUTO SACRÉ",
+    "id": "526",
+    "monster_id": "546",
+    "pt": "BAMBUTO SAGRADO",
+    "step": "13"
+  },
+  {
+    "en": "DREGGON WARRIOR",
+    "es": "DRAGOHUEVO GUERRERO",
+    "fr": "DRAGOEUF GUERRIER",
+    "id": "527",
+    "monster_id": "853",
+    "pt": "DRAGOVO GUERREIRO",
+    "step": "13"
+  },
+  {
+    "en": "FLYING DREGGON",
+    "es": "DRAGOHUEVO VOLADOR",
+    "fr": "DRAGOEUF VOLANT",
+    "id": "528",
+    "monster_id": "862",
+    "pt": "DRAGOVO VOADOR",
+    "step": "13"
+  },
+  {
+    "en": "AEROKTOR THE WARRIOR",
+    "es": "AEROHUCTOR, EL GUERRERO",
+    "fr": "AEROHOUCTOR LE GUERRIER",
+    "id": "529",
+    "monster_id": "894",
+    "pt": "AEROKTOR, O GUERREIRO",
+    "step": "13"
+  },
+  {
+    "en": "AQUABRALAK THE WARRIOR",
+    "es": "AQUABRALAK, EL GUERRERO",
+    "fr": "AQUABRALAK LE GUERRIER",
+    "id": "530",
+    "monster_id": "895",
+    "pt": "AQUABRALAK, O GUERREIRO",
+    "step": "13"
+  },
+  {
+    "en": "IGNILICROBUR THE WARRIOR",
+    "es": "IGNELICROBUR, EL GUERRERO",
+    "fr": "IGNELICROBUR LE GUERRIER",
+    "id": "531",
+    "monster_id": "893",
+    "pt": "IGNILICROBUR, O GUERREIRO",
+    "step": "13"
+  },
+  {
+    "en": "TERRAKUBIACK THE WARRIOR",
+    "es": "TERRAKUBIACK, EL GUERRERO",
+    "fr": "TERRAKOUBIAK LE GUERRIER",
+    "id": "532",
+    "monster_id": "892",
+    "pt": "TERRAKUBIAK, O GUERREIRO",
+    "step": "13"
+  },
+  {
+    "en": "ZOTH DISCIPLE",
+    "es": "DISCÍPULO ZOTH",
+    "fr": "DISCIPLE ZOTH",
+    "id": "533",
+    "monster_id": "1055",
+    "pt": "DISCÍPULO ZOTH",
+    "step": "13"
+  },
+  {
+    "en": "ROTAFLOR",
+    "es": "ESQUEJIKA",
+    "fr": "BROUTURE",
+    "id": "534",
+    "monster_id": "1073",
+    "pt": "ROTAFLOR",
+    "step": "13"
+  },
+  {
+    "en": "BLOODY KOALAK",
+    "es": "KOALAK SANGUÍNEO",
+    "fr": "KOALAK SANGUIN",
+    "id": "535",
+    "monster_id": "744",
+    "pt": "KOALAK SANGUÍNEO",
+    "step": "13"
+  },
+  {
+    "en": "DARK PIKOKO",
+    "es": "TUFO OSCURO",
+    "fr": "BITOUF SOMBRE",
+    "id": "536",
+    "monster_id": "1041",
+    "pt": "BITUFO SOMBRIO",
+    "step": "13"
+  },
+  {
+    "en": "FLORAMOR",
+    "es": "FLORIBUNDO",
+    "fr": "FLORIBONDE",
+    "id": "537",
+    "monster_id": "1029",
+    "pt": "FLORIBUNDO",
+    "step": "13"
+  },
+  {
+    "en": "BARKRITTER",
+    "es": "DIENTE PE-LEÓN",
+    "fr": "FÉCORCE",
+    "id": "538",
+    "monster_id": "1075",
+    "pt": "TRONKS",
+    "step": "13"
+  },
+  {
+    "en": "WILD KOALAK",
+    "es": "KOALAK SALVAJE",
+    "fr": "KOALAK FAROUCHE",
+    "id": "539",
+    "monster_id": "756",
+    "pt": "KOALAK SELVAGEM",
+    "step": "13"
+  },
+  {
+    "en": "MAMA KOALAK",
+    "es": "MAMÁ KOALAK",
+    "fr": "MAMA KOALAK",
+    "id": "540",
+    "monster_id": "755",
+    "pt": "MAMÃE KOALAK",
+    "step": "13"
+  },
+  {
+    "en": "KOALAK MUMMY",
+    "es": "MOMIA KOALAK",
+    "fr": "MOMIE KOALAK",
+    "id": "541",
+    "monster_id": "760",
+    "pt": "MÚMIA KOALAK",
+    "step": "13"
+  },
+  {
+    "en": "MIREMOP",
+    "es": "LODOSTROPAJO",
+    "fr": "BOURBASSINGUE",
+    "id": "542",
+    "monster_id": "1059",
+    "pt": "PANTANOSO",
+    "step": "13"
+  },
+  {
+    "en": "PURPLE WARKO",
+    "es": "WARKO VIOLETA",
+    "fr": "WARKO VIOLET",
+    "id": "543",
+    "monster_id": "745",
+    "pt": "WARKO VIOLETA",
+    "step": "13"
+  },
+  {
+    "en": "ZOTH GIRL",
+    "es": "CHAVALA ZOTH",
+    "fr": "GAMINE ZOTH",
+    "id": "544",
+    "monster_id": "1053",
+    "pt": "GAROTA ZOTH",
+    "step": "13"
+  },
+  {
+    "en": "ZOTH WARRIOR",
+    "es": "GUERRERO ZOTH",
+    "fr": "GUERRIER ZOTH",
+    "id": "545",
+    "monster_id": "1054",
+    "pt": "GUERREIRO ZOTH",
+    "step": "13"
+  },
+  {
+    "en": "MOPEAT",
+    "es": "BARROSTROPAJO",
+    "fr": "TOURBASSINGUE",
+    "id": "546",
+    "monster_id": "1058",
+    "pt": "MOPEAT",
+    "step": "14"
+  },
+  {
+    "en": "DARK TREECKLER",
+    "es": "ABRAJIDOR OSCURO",
+    "fr": "ABRAKLEUR SOMBRE",
+    "id": "547",
+    "monster_id": "1077",
+    "pt": "ARVORADOR SOMBRIO",
+    "step": "14"
+  },
+  {
+    "en": "ALERT WHITE DRAGOSS",
+    "es": "DRAGOSS BLANCO DESPIERTO",
+    "fr": "DRAGOSS BLANC ÉVEILLÉ",
+    "id": "548",
+    "monster_id": "878",
+    "pt": "DRAGOSSO BRANCO ALERTA",
+    "step": "14"
+  },
+  {
+    "en": "ALERT GOLDEN DRAGOSS",
+    "es": "DRAGOSS DORADO DESPIERTO",
+    "fr": "DRAGOSS DORÉ ÉVEILLÉ",
+    "id": "549",
+    "monster_id": "879",
+    "pt": "DRAGOSSO DOURADO ALERTA",
+    "step": "14"
+  },
+  {
+    "en": "ALERT BLACK DRAGOSS",
+    "es": "DRAGOSS NEGRO DESPIERTO",
+    "fr": "DRAGOSS NOIR ÉVEILLÉ",
+    "id": "550",
+    "monster_id": "858",
+    "pt": "DRAGOSSO NEGRO ALERTA",
+    "step": "14"
+  },
+  {
+    "en": "ALERT SAPPHIRE DRAGOSS",
+    "es": "DRAGOSS ZAFIRO DESPIERTO",
+    "fr": "DRAGOSS DE SAPHIR ÉVEILLÉ",
+    "id": "551",
+    "monster_id": "905",
+    "pt": "DRAGOSSO SAFIRA ALERTA",
+    "step": "14"
+  },
+  {
+    "en": "SORYO FIREFOUX",
+    "es": "SORYO FIREFUX",
+    "fr": "SORYO FIREFOUX",
+    "id": "552",
+    "monster_id": "528",
+    "pt": "SORYO FOGOFOX",
+    "step": "14"
+  },
+  {
+    "en": "KITSOU NUFEU",
+    "es": "KITSU NUFUEGO",
+    "fr": "KITSOU NUFEU",
+    "id": "553",
+    "monster_id": "532",
+    "pt": "KITSU NUFOGO",
+    "step": "14"
+  },
+  {
+    "en": "MAHO FIREFOUX",
+    "es": "MAHO FIREFUX",
+    "fr": "MAHO FIREFOUX",
+    "id": "554",
+    "monster_id": "529",
+    "pt": "MAHO FOGOFOX",
+    "step": "14"
+  },
+  {
+    "en": "DRAKOALAK",
+    "es": "DRAKOALAK",
+    "fr": "DRAKOALAK",
+    "id": "555",
+    "monster_id": "763",
+    "pt": "DRAKOALAK",
+    "step": "14"
+  },
+  {
+    "en": "REAPALAK",
+    "es": "SIEGALAK",
+    "fr": "FAUCHALAK",
+    "id": "556",
+    "monster_id": "783",
+    "pt": "MORTALAK",
+    "step": "14"
+  },
+  {
+    "en": "KOALAK MASTER",
+    "es": "MAESTRO KOALAK",
+    "fr": "MAÎTRE KOALAK",
+    "id": "557",
+    "monster_id": "758",
+    "pt": "MESTRE KOALAK",
+    "step": "14"
+  },
+  {
+    "en": "CHEEKEN",
+    "es": "POHOYO",
+    "fr": "POOLAY",
+    "id": "558",
+    "monster_id": "1043",
+    "pt": "PHRANGO",
+    "step": "14"
+  },
+  {
+    "en": "IGNIRKOCROPOS THE FAMISHED",
+    "es": "IGNIRKOCROPOS, EL HAMBRIENTO",
+    "fr": "IGNERKOCROPOS L'AFFAMÉ",
+    "id": "559",
+    "monster_id": "902",
+    "pt": "IGNIRKOCROPOS, O FAMINTO",
+    "step": "14"
+  },
+  {
+    "en": "TERRABURKAHL THE PERFIDIOUS",
+    "es": "TERRABURKAL, EL PÉRFIDO",
+    "fr": "TERRABURKAL LE PERFIDE",
+    "id": "560",
+    "monster_id": "903",
+    "pt": "TERRABURKAL, O PÉRFIDO",
+    "step": "14"
+  },
+  {
+    "en": "AEROGOBURIUS THE MALICIOUS",
+    "es": "AEROTRUGOBUR, EL MALVADO",
+    "fr": "AEROTRUGOBUR LE MALVEILLANT",
+    "id": "561",
+    "monster_id": "904",
+    "pt": "AEROTRUGOBUR, O MALIGNO",
+    "step": "14"
+  },
+  {
+    "en": "AQUALIKROS THE MERCILESS",
+    "es": "AQUALIKROS, EL DESPIADADO",
+    "fr": "AQUALIKROS L'IMPITOYABLE",
+    "id": "562",
+    "monster_id": "877",
+    "pt": "AQUALIKROS, O IMPIEDOSO",
+    "step": "14"
+  },
+  {
+    "en": "TROOL",
+    "es": "TROOL",
+    "fr": "TROOLL",
+    "id": "563",
+    "monster_id": "233",
+    "pt": "TROOL",
+    "step": "14"
+  },
+  {
+    "en": "ZOTH SERGEANT",
+    "es": "SARGENTO ZOTH",
+    "fr": "SERGENT ZOTH",
+    "id": "564",
+    "monster_id": "1056",
+    "pt": "SARGENTO ZOTH",
+    "step": "15"
+  },
+  {
+    "en": "SNAILMET",
+    "es": "KASRAKOL",
+    "fr": "KASKARGO",
+    "id": "565",
+    "monster_id": "1044",
+    "pt": "KRAKOL",
+    "step": "15"
+  },
+  {
+    "en": "AIR PIKOKO",
+    "es": "TUFO AÉREO",
+    "fr": "BITOUF AÉRIEN",
+    "id": "566",
+    "monster_id": "1020",
+    "pt": "BITUFO AÉREO",
+    "step": "15"
+  },
+  {
+    "en": "LIGHT TREECKLER",
+    "es": "ABRAJIDOR CLARO",
+    "fr": "ABRAKLEUR CLAIR",
+    "id": "567",
+    "monster_id": "1047",
+    "pt": "ARVORADOR CLARO",
+    "step": "15"
+  },
+  {
+    "en": "ZOTH MASTER",
+    "es": "MAESTRO ZOTH",
+    "fr": "MAÎTRE ZOTH",
+    "id": "568",
+    "monster_id": "1052",
+    "pt": "MESTRE ZOTH",
+    "step": "15"
+  },
+  {
+    "en": "MUSHNID",
+    "es": "CHAMPÁKNIDO",
+    "fr": "CHAMPAKNYDE",
+    "id": "569",
+    "monster_id": "1154",
+    "pt": "COGUKNÍDEO",
+    "step": "15"
+  },
+  {
+    "en": "YOKAI FIREFOUX",
+    "es": "YOKAI FIREFUX",
+    "fr": "YOKAI FIREFOUX",
+    "id": "570",
+    "monster_id": "527",
+    "pt": "YOKAI FOGOFOX",
+    "step": "15"
+  },
+  {
+    "en": "TRUMPERELLE",
+    "es": "TROMPSETA",
+    "fr": "TROMPERELLE",
+    "id": "571",
+    "monster_id": "1153",
+    "pt": "TROMPERELA",
+    "step": "15"
+  },
+  {
+    "en": "MUSHMUNCH",
+    "es": "CHAMPIDONTE",
+    "fr": "CHAMPODONTE",
+    "id": "572",
+    "monster_id": "1155",
+    "pt": "COGUDONTE",
+    "step": "15"
+  },
+  {
+    "en": "LEOPARDO GHOST",
+    "es": "FANTASMA DE LEOPARDO",
+    "fr": "FANTÔME LÉOPARDO",
+    "id": "573",
+    "monster_id": "586",
+    "pt": "FANTASMA LEOPARDO",
+    "step": "15"
+  },
+  {
+    "en": "PANDIKAZE GHOST",
+    "es": "FANTASMA DE PANDIKAZE",
+    "fr": "FANTÔME PANDIKAZE",
+    "id": "574",
+    "monster_id": "583",
+    "pt": "FANTASMA PANDIKAZE",
+    "step": "15"
+  },
+  {
+    "en": "MUSH TUP",
+    "es": "CHAMPBIS",
+    "fr": "CHAMPBIS",
+    "id": "575",
+    "monster_id": "1157",
+    "pt": "COGUBIS",
+    "step": "15"
+  },
+  {
+    "en": "MUSH RHUME",
+    "es": "SETA PELEONA",
+    "fr": "CHAMP À GNONS",
+    "id": "576",
+    "monster_id": "1158",
+    "pt": "COGU MELLUS",
+    "step": "15"
+  },
+  {
+    "en": "MUSH MISH",
+    "es": "SETADOR",
+    "fr": "CHAMPMANE",
+    "id": "577",
+    "monster_id": "1156",
+    "pt": "XAMOGU",
+    "step": "15"
+  },
+  {
+    "en": "PANDULUM GHOST",
+    "es": "FANTASMA DE PANDULO",
+    "fr": "FANTÔME PANDULE",
+    "id": "578",
+    "monster_id": "589",
+    "pt": "FANTASMA PÂNDULO",
+    "step": "15"
+  },
+  {
+    "en": "SORYO FIREFOUX GHOST",
+    "es": "FANTASMA DE SORYO FIREFUX",
+    "fr": "FANTÔME SORYO FIREFOUX",
+    "id": "579",
+    "monster_id": "585",
+    "pt": "FANTASMA SORYO FOGOFOX",
+    "step": "15"
+  },
+  {
+    "en": "PANDORA",
+    "es": "PANDORA",
+    "fr": "PANDORE",
+    "id": "580",
+    "monster_id": "537",
+    "pt": "PANDORA",
+    "step": "15"
+  },
+  {
+    "en": "MOPY KING",
+    "es": "REY STROPAJO",
+    "fr": "ROISSINGUE",
+    "id": "581",
+    "monster_id": "1057",
+    "pt": "REI NOJOSO",
+    "step": "15"
+  },
+  {
+    "en": "MAHO FIREFOUX GHOST",
+    "es": "FANTASMA DE MAHO FIREFUX",
+    "fr": "FANTÔME MAHO FIREFOUX",
+    "id": "582",
+    "monster_id": "584",
+    "pt": "FANTASMA MAHO FOGOFOX",
+    "step": "15"
+  },
+  {
+    "en": "YOKAI FIREFOUX GHOST",
+    "es": "FANTASMA DE YOKAI FIREFUX",
+    "fr": "FANTÔME YOKAI FIREFOUX",
+    "id": "583",
+    "monster_id": "587",
+    "pt": "FANTASMA YOKAI FOGOFOX",
+    "step": "15"
+  },
+  {
+    "en": "PANDORA GHOST",
+    "es": "FANTASMA DE PANDORA",
+    "fr": "FANTÔME PANDORE",
+    "id": "584",
+    "monster_id": "597",
+    "pt": "FANTASMA PANDORA",
+    "step": "16"
+  },
+  {
+    "en": "TANUKOUÏ SAN GHOST",
+    "es": "FANTASMA DE TANUKUI SAN",
+    "fr": "FANTÔME TANUKOUÏ SAN",
+    "id": "585",
+    "monster_id": "588",
+    "pt": "FANTASMA TANUKUI SAN",
+    "step": "16"
+  },
+  {
+    "en": "SPONGE MOB",
+    "es": "MOB LASPONJA",
+    "fr": "MOB L'ÉPONGE",
+    "id": "586",
+    "monster_id": "928",
+    "pt": "MOB ESPONJA",
+    "step": "17"
+  },
+  {
+    "en": "ROYAL GOBBALL",
+    "es": "JALATÓ REAL",
+    "fr": "BOUFTOU ROYAL",
+    "id": "587",
+    "monster_id": "147",
+    "pt": "PAPATUDO REAL",
+    "step": "17"
+  },
+  {
+    "en": "FAMISHED SUNFLOWER",
+    "es": "GIRASOL HAMBRIENTO",
+    "fr": "TOURNESOL AFFAMÉ",
+    "id": "588",
+    "monster_id": "799",
+    "pt": "GIRASSOL FAMINTO",
+    "step": "17"
+  },
+  {
+    "en": "ROYAL BLUE JELLY",
+    "es": "GELATINA REAL AZUL",
+    "fr": "GELÉE ROYALE BLEUE",
+    "id": "589",
+    "monster_id": "58",
+    "pt": "GELATINA REAL AZUL",
+    "step": "17"
+  },
+  {
+    "en": "SHIN LARVA",
+    "es": "SHIN LARVA",
+    "fr": "SHIN LARVE",
+    "id": "590",
+    "monster_id": "457",
+    "pt": "SHIN LARVA",
+    "step": "17"
+  },
+  {
+    "en": "GM WABBIT",
+    "es": "WABBIT GM",
+    "fr": "WABBIT GM",
+    "id": "591",
+    "monster_id": "182",
+    "pt": "WABBIT GM",
+    "step": "17"
+  },
+  {
+    "en": "GOLDEN SCARABUGLY",
+    "es": "ESCARAJEFE DORADO",
+    "fr": "SCARABOSSE DORÉ",
+    "id": "592",
+    "monster_id": "797",
+    "pt": "SCARACHEFE DOURADO",
+    "step": "17"
+  },
+  {
+    "en": "BWORKETTE",
+    "es": "BWORKA",
+    "fr": "BWORKETTE",
+    "id": "593",
+    "monster_id": "792",
+    "pt": "BWORKA",
+    "step": "17"
+  },
+  {
+    "en": "DRAGON PIG",
+    "es": "DRAGOCERDO",
+    "fr": "DRAGON COCHON",
+    "id": "594",
+    "monster_id": "113",
+    "pt": "DRAGÃO-PORCO",
+    "step": "17"
+  },
+  {
+    "en": "MUMMINOTOR",
+    "es": "MOMINOTAURO",
+    "fr": "MOMINOTOR",
+    "id": "595",
+    "monster_id": "831",
+    "pt": "MUMINOTOR",
+    "step": "17"
+  },
+  {
+    "en": "DEMINOBALL",
+    "es": "DEMINOBOLA",
+    "fr": "DÉMINOBOULE",
+    "id": "596",
+    "monster_id": "832",
+    "pt": "DEMINOBOLA",
+    "step": "17"
+  },
+  {
+    "en": "ROYAL MINT JELLY",
+    "es": "GELATINA REAL DE MENTA",
+    "fr": "GELÉE ROYALE MENTHE",
+    "id": "597",
+    "monster_id": "85",
+    "pt": "GELATINA REAL DE MENTA",
+    "step": "17"
+  },
+  {
+    "en": "ROYAL TOFU",
+    "es": "TOFU REAL",
+    "fr": "TOFU ROYAL",
+    "id": "598",
+    "monster_id": "382",
+    "pt": "TOFU REAL",
+    "step": "17"
+  },
+  {
+    "en": "ROYAL COCO BLOP",
+    "es": "BLOP COCO REAL",
+    "fr": "BLOP COCO ROYAL",
+    "id": "599",
+    "monster_id": "1184",
+    "pt": "BLOP COCO REAL",
+    "step": "17"
+  },
+  {
+    "en": "ROYAL MORELLO CHERRY BLOP",
+    "es": "BLOP GUINDA REAL",
+    "fr": "BLOP GRIOTTE ROYAL",
+    "id": "600",
+    "monster_id": "1185",
+    "pt": "BLOP CEREJA REAL",
+    "step": "17"
+  },
+  {
+    "en": "ROYAL INDIGO BLOP",
+    "es": "BLOP ÍNDIGO REAL",
+    "fr": "BLOP INDIGO ROYAL",
+    "id": "601",
+    "monster_id": "1186",
+    "pt": "BLOP ÍNDIGO REAL",
+    "step": "17"
+  },
+  {
+    "en": "ROYAL PIPPIN BLOP",
+    "es": "BLOP REINETA REAL",
+    "fr": "BLOP REINETTE ROYAL",
+    "id": "602",
+    "monster_id": "1187",
+    "pt": "BLOP MAÇÃ REAL",
+    "step": "17"
+  },
+  {
+    "en": "BLACK RAT",
+    "es": "RATA NEGRA",
+    "fr": "RAT NOIR",
+    "id": "603",
+    "monster_id": "939",
+    "pt": "RATO NEGRO",
+    "step": "17"
+  },
+  {
+    "en": "WHITE RAT",
+    "es": "RATA BLANCA",
+    "fr": "RAT BLANC",
+    "id": "604",
+    "monster_id": "940",
+    "pt": "RATO BRANCO",
+    "step": "17"
+  },
+  {
+    "en": "MINOTOROR",
+    "es": "MINOTAURORO",
+    "fr": "MINOTOROR",
+    "id": "605",
+    "monster_id": "121",
+    "pt": "MINOTOROR",
+    "step": "17"
+  },
+  {
+    "en": "HELL MINA",
+    "es": "HELL MINA",
+    "fr": "HELL MINA",
+    "id": "606",
+    "monster_id": "107",
+    "pt": "HELL MINA",
+    "step": "18"
+  },
+  {
+    "en": "TANUKOUÏ SAN",
+    "es": "TANUKUI SAN",
+    "fr": "TANUKOUÏ SAN",
+    "id": "607",
+    "monster_id": "568",
+    "pt": "TANUKUI SAN",
+    "step": "18"
+  },
+  {
+    "en": "LEGENDARY CRACKLER",
+    "es": "CRUJIDOR LEGENDARIO",
+    "fr": "CRAQUELEUR LÉGENDAIRE",
+    "id": "608",
+    "monster_id": "669",
+    "pt": "SMAGADOR LEGENDÁRIO",
+    "step": "18"
+  },
+  {
+    "en": "SEWER KEEPER",
+    "es": "GUARDIANA DE ALCANTARILLA",
+    "fr": "GARDIENNE DES ÉGOUTS",
+    "id": "609",
+    "monster_id": "450",
+    "pt": "GUARDIÃ DOS ESGOTOS",
+    "step": "18"
+  },
+  {
+    "en": "ROYAL STRAWBERRY JELLY",
+    "es": "GELATINA REAL DE FRESA",
+    "fr": "GELÉE ROYALE FRAISE",
+    "id": "610",
+    "monster_id": "86",
+    "pt": "GELATINA REAL DE MORANGO",
+    "step": "18"
+  },
+  {
+    "en": "LORD CROW",
+    "es": "MAESTRO CUERBOK",
+    "fr": "MAÎTRE CORBAC",
+    "id": "611",
+    "monster_id": "289",
+    "pt": "MESTRE CORVOC",
+    "step": "18"
+  },
+  {
+    "en": "ROYAL RAINBOW BLOP",
+    "es": "BLOP MULTICOLOR REAL",
+    "fr": "BLOP MULTICOLORE ROYAL",
+    "id": "612",
+    "monster_id": "1188",
+    "pt": "BLOP ARCO-ÍRIS REAL",
+    "step": "18"
+  },
+  {
+    "en": "GREAT CORALATOR",
+    "es": "CORALADOR MAGISTRAL",
+    "fr": "CORAILLEUR MAGISTRAL",
+    "id": "613",
+    "monster_id": "1027",
+    "pt": "CORALADOR MAGISTRAL",
+    "step": "18"
+  },
+  {
+    "en": "GOURLO THE TERRIBLE",
+    "es": "GURLO, EL TERRIBLE",
+    "fr": "GOURLO LE TERRIBLE",
+    "id": "614",
+    "monster_id": "1051",
+    "pt": "GURLO, O TERRÍVEL",
+    "step": "18"
+  },
+  {
+    "en": "MOOWOLF",
+    "es": "MAXILUBO",
+    "fr": "MEULOU",
+    "id": "615",
+    "monster_id": "232",
+    "pt": "MULOBO",
+    "step": "18"
+  },
+  {
+    "en": "WA WABBIT",
+    "es": "WEY WABBIT",
+    "fr": "WA WABBIT",
+    "id": "616",
+    "monster_id": "180",
+    "pt": "WEI WABBIT",
+    "step": "18"
+  },
+  {
+    "en": "MOON",
+    "es": "MOON",
+    "fr": "MOON",
+    "id": "617",
+    "monster_id": "226",
+    "pt": "MOON",
+    "step": "18"
+  },
+  {
+    "en": "KOOLICH",
+    "es": "TRANKITRONKO",
+    "fr": "KOULOSSE",
+    "id": "618",
+    "monster_id": "670",
+    "pt": "TRONKOSO",
+    "step": "18"
+  },
+  {
+    "en": "SKEUNK",
+    "es": "SKONK",
+    "fr": "SKEUNK",
+    "id": "619",
+    "monster_id": "780",
+    "pt": "SKONK",
+    "step": "18"
+  },
+  {
+    "en": "ANCESTRAL TREECHNID",
+    "es": "ABRÁKNIDO ANCESTRAL",
+    "fr": "ABRAKNYDE ANCESTRAL",
+    "id": "620",
+    "monster_id": "173",
+    "pt": "ARVRAKNÍDEO ANCESTRAL",
+    "step": "18"
+  },
+  {
+    "en": "PANDORA MASTER",
+    "es": "MAESTRO PANDORA",
+    "fr": "MAÎTRE PANDORE",
+    "id": "621",
+    "monster_id": "612",
+    "pt": "MESTRE PANDORA",
+    "step": "18"
+  },
+  {
+    "en": "STUNNED TYNRIL",
+    "es": "TYNRIL ATÓNITO",
+    "fr": "TYNRIL AHURI",
+    "id": "622",
+    "monster_id": "1087",
+    "pt": "TYNRIL CHOCADO",
+    "step": "18"
+  },
+  {
+    "en": "DISMAYED TYNRIL",
+    "es": "TYNRIL ESTUPEFACTO",
+    "fr": "TYNRIL CONSTERNÉ",
+    "id": "623",
+    "monster_id": "1072",
+    "pt": "TYNRIL CONSTERNADO",
+    "step": "18"
+  },
+  {
+    "en": "DISCONCERTED TYNRIL",
+    "es": "TYNRIL ABSORTO",
+    "fr": "TYNRIL DÉCONCERTÉ",
+    "id": "624",
+    "monster_id": "1085",
+    "pt": "TYNRIL DESCONCERTADO",
+    "step": "18"
+  },
+  {
+    "en": "PERFIDIOUS TYNRIL",
+    "es": "TYNRIL PÉRFIDO",
+    "fr": "TYNRIL PERFIDE",
+    "id": "625",
+    "monster_id": "1086",
+    "pt": "TYNRIL PÉRFIDO",
+    "step": "18"
+  },
+  {
+    "en": "ROYAL LEMON JELLY",
+    "es": "GELATINA REAL DE LIMÓN",
+    "fr": "GELÉE ROYALE CITRON",
+    "id": "626",
+    "monster_id": "430",
+    "pt": "GELATINA REAL DE LIMÃO",
+    "step": "19"
+  },
+  {
+    "en": "TOUCHPARAK",
+    "es": "ARAKNOLA",
+    "fr": "TOUCHPARAK",
+    "id": "627",
+    "monster_id": "582",
+    "pt": "SPINHARAK",
+    "step": "19"
+  },
+  {
+    "en": "BWORKER",
+    "es": "BWORKER",
+    "fr": "BWORKER",
+    "id": "628",
+    "monster_id": "478",
+    "pt": "BWORKER",
+    "step": "19"
+  },
+  {
+    "en": "SPHINCTER CELL",
+    "es": "SFINTER CELL",
+    "fr": "SPHINCTER CELL",
+    "id": "629",
+    "monster_id": "943",
+    "pt": "SPHINCTER CELL",
+    "step": "19"
+  },
+  {
+    "en": "MINOTOT",
+    "es": "MINOTOT",
+    "fr": "MINOTOT",
+    "id": "630",
+    "monster_id": "827",
+    "pt": "MINOTOT",
+    "step": "19"
+  },
+  {
+    "en": "SILF THE GREATER BHERB",
+    "es": "SILF, EL RASGABOLA MAYOR",
+    "fr": "SILF LE RASBOUL MAJEUR",
+    "id": "631",
+    "monster_id": "1071",
+    "pt": "SILF, O RASGABOLA MAIOR",
+    "step": "19"
+  },
+  {
+    "en": "CROCABULIA",
+    "es": "COCABULIA",
+    "fr": "CROCABULIA",
+    "id": "632",
+    "monster_id": "854",
+    "pt": "CROCABULIA",
+    "step": "19"
+  },
+  {
+    "en": "PEKI PEKI",
+    "es": "PEKI PEKI",
+    "fr": "PÉKI PÉKI",
+    "id": "633",
+    "monster_id": "605",
+    "pt": "PEKI PEKI",
+    "step": "19"
+  },
+  {
+    "en": "SOFT OAK",
+    "es": "ROBLE BLANDO",
+    "fr": "CHÊNE MOU",
+    "id": "634",
+    "monster_id": "257",
+    "pt": "CARVALHO MOLE",
+    "step": "19"
+  },
+  {
+    "en": "OUGAA",
+    "es": "UGAH",
+    "fr": "OUGAH",
+    "id": "635",
+    "monster_id": "1159",
+    "pt": "UGAH",
+    "step": "19"
+  },
+  {
+    "en": "KIMBO",
+    "es": "KIMBO",
+    "fr": "KIMBO",
+    "id": "636",
+    "monster_id": "1045",
+    "pt": "KIMBO",
+    "step": "19"
+  },
+  {
+    "en": "ARACHNEKROS THE AGGRESSIVE",
+    "es": "ARAKNEKROS, EL SALVAJE",
+    "fr": "ARAKNAY LA GALOPANTE",
+    "id": "1",
+    "monster_id": "2393",
+    "pt": "ARAKNOZ, A CASCUDA",
+    "step": "20"
+  },
+  {
+    "en": "ARAKULA THE CARPATURE",
+    "es": "ARAKNIRY, LA DESTRIPADA",
+    "fr": "ARAKULE LA REVANCHARDE",
+    "id": "2",
+    "monster_id": "2310",
+    "pt": "ARAKULA, O CAPTURADOR",
+    "step": "20"
+  },
+  {
+    "en": "GOBBALLYHOO THE NOISY",
+    "es": "JALATINTANIC, EL HUNDIDO",
+    "fr": "BOULGOURVIL LE LOINTAIN",
+    "id": "3",
+    "monster_id": "2316",
+    "pt": "GOBBALIRRO, O BARULHENTO",
+    "step": "20"
+  },
+  {
+    "en": "LARVALENCIA THE ORANGE",
+    "es": "LARVANGOJ, EL DESOREJADO",
+    "fr": "LARVONIKA L'INSTRUMENT",
+    "id": "4",
+    "monster_id": "2331",
+    "pt": "LARVALENTE, A CORAJOSA",
+    "step": "20"
+  },
+  {
+    "en": "PIWIKI THE WITTY",
+    "es": "PIOCH, EL ARENIL",
+    "fr": "PIOUSTONE LE PROBLÈME",
+    "id": "5",
+    "monster_id": "2341",
+    "pt": "PIWIKI, O GENIAL",
+    "step": "20"
+  },
+  {
+    "en": "KRABAOLY THE PATIENT",
+    "es": "CANGRI-DOO, LA HADADA",
+    "fr": "CRARABOSS LE FÉÉRIQUE",
+    "id": "6",
+    "monster_id": "2327",
+    "pt": "KRABAOLI, O PACIENTE",
+    "step": "20"
+  },
+  {
+    "en": "DANDEL THE BOY",
+    "es": "DIENTE DE LENNON, EL UNIVERSAL",
+    "fr": "PISSDANE L'INSIPIDE",
+    "id": "7",
+    "monster_id": "2348",
+    "pt": "DANDEL, O GAROTO",
+    "step": "20"
+  },
+  {
+    "en": "TOFULSOM THE JAILER",
+    "es": "TOFUMANTXÚ, EL MÍTICO",
+    "fr": "TOFUMANCHOU L'EMPEREUR",
+    "id": "8",
+    "monster_id": "2357",
+    "pt": "TOFULSOM, O CARCEREIRO",
+    "step": "20"
+  },
+  {
+    "en": "PIWILIAM THE BRAVE",
+    "es": "SPIONTER VELLDE, EL PELIGROSO",
+    "fr": "PIOUKAS LA PLANTE",
+    "id": "9",
+    "monster_id": "2345",
+    "pt": "PIWILIAM, O VALENTE",
+    "step": "20"
+  },
+  {
+    "en": "FAMOUSE THE LITTLE-KNOWN",
+    "es": "RATOM RAIDER, LA CURVAS",
+    "fr": "SOURIZOTO LE COLLANT",
+    "id": "10",
+    "monster_id": "2354",
+    "pt": "CAMUFOSO, O DESCONHECIDO",
+    "step": "20"
+  },
+  {
+    "en": "MOSKOITUS THE INTERRUPTOR",
+    "es": "MASHKIRA, LA RUBIA DE BOTE",
+    "fr": "MOSKETÈRE LE DÉVOUÉ",
+    "id": "11",
+    "monster_id": "2336",
+    "pt": "MOSKOITOS, O INTERRUPTOR",
+    "step": "20"
+  },
+  {
+    "en": "MATMUSHMUSH THE FLASHER",
+    "es": "CHAMPI CASSO, EL CÚBICO",
+    "fr": "CHAMCHIE LE DIFFICILE",
+    "id": "12",
+    "monster_id": "2323",
+    "pt": "MATCOGUCOGU, O FAISCANTE",
+    "step": "20"
+  },
+  {
+    "en": "PIWI THE ERMINE",
+    "es": "PIDO, EL GREÑAS",
+    "fr": "PIOUFE LA MAQUILLÉE",
+    "id": "13",
+    "monster_id": "2343",
+    "pt": "PIWI, O EMPLUMADO",
+    "step": "20"
+  },
+  {
+    "en": "PIWINSTON THE CHURLISH",
+    "es": "SPÍO, EL DRAGÓN",
+    "fr": "PIOUSSOKRIM LE DÉLÉTÈRE",
+    "id": "14",
+    "monster_id": "2347",
+    "pt": "PIWINSTON, O RUDE",
+    "step": "20"
+  },
+  {
+    "en": "PIWILDE THE BOSSIE",
+    "es": "CAPIORICITO ROJO, EL FORESTAL",
+    "fr": "PIOULETTE LA COQUINE",
+    "id": "15",
+    "monster_id": "2344",
+    "pt": "PIWIGEM, O CHEFE",
+    "step": "20"
+  },
+  {
+    "en": "ARACHNANGEL THE HOPEFUL",
+    "es": "ARKANDINSKA, LA LÍRICA",
+    "fr": "ARACHITIK LA SOUFFRETEUSE",
+    "id": "16",
+    "monster_id": "2312",
+    "pt": "ARAKÍTICA, A DELGADA",
+    "step": "20"
+  },
+  {
+    "en": "TOFULL THE OPTIMIST",
+    "es": "TOFUMADO, EL ALUCINADO",
+    "fr": "TOFURAPIN LE PÉTRI",
+    "id": "17",
+    "monster_id": "2356",
+    "pt": "TOFUMADO, O VICIADO",
+    "step": "20"
+  },
+  {
+    "en": "TOFUDD THE HUNTER",
+    "es": "SATOFU, EL PLASTICPADDY",
+    "fr": "TOFULDEBEU L'EXPLOSIF",
+    "id": "18",
+    "monster_id": "2355",
+    "pt": "TOFULO, O RAIVOSO",
+    "step": "20"
+  },
+  {
+    "en": "GOBBACH THE CONTRAPUNTALER",
+    "es": "JALATINTIN, EL REPORTERO",
+    "fr": "BOUDALF LE BLANC",
+    "id": "19",
+    "monster_id": "2315",
+    "pt": "GOBBACH, CONTRATROCADILHO",
+    "step": "20"
+  },
+  {
+    "en": "PIWICKER THE MANLY",
+    "es": "PIOKACHO, EL ELÉCTRICO",
+    "fr": "PIOULBRINEUR LE MERCENAIRE",
+    "id": "20",
+    "monster_id": "2342",
+    "pt": "PIWICKER, O MACHO",
+    "step": "20"
+  },
+  {
+    "en": "TIWANA THE TOKIN",
+    "es": "BLACK TEGERWODDIT, EL SWINGUERO",
+    "fr": "TIWA'MISSOU LE GATEUX",
+    "id": "21",
+    "monster_id": "2402",
+    "pt": "TIWANA, O SINAL",
+    "step": "21"
+  },
+  {
+    "en": "JELLVIS THE KING",
+    "es": "GELATIRIS, EL ARENERO",
+    "fr": "GELANAL LE HUILEUX",
+    "id": "22",
+    "monster_id": "2487",
+    "pt": "GELAKTOSE, A AÇUCARADA",
+    "step": "21"
+  },
+  {
+    "en": "BAKERAIDER THE TOMB",
+    "es": "PAELLADERO OSCURO, EL ARROZOSO",
+    "fr": "BOUDUR LE RAIDE",
+    "id": "23",
+    "monster_id": "2318",
+    "pt": "PADEIRO DAS TUMBAS",
+    "step": "21"
+  },
+  {
+    "en": "ROSEANNE THE YANKER",
+    "es": "ROCHAVO DEMOCHO, EL CHISPOTIADO",
+    "fr": "ROZ LA MAGICIENNE",
+    "id": "24",
+    "monster_id": "2352",
+    "pt": "ROSANA, A NÓRDICA",
+    "step": "21"
+  },
+  {
+    "en": "GLUKOKO THE SLOW",
+    "es": "KOSAKHIIN, EL LUNÍTICO",
+    "fr": "TRUKUL LE LENT",
+    "id": "25",
+    "monster_id": "2301",
+    "pt": "GLUKOKO, O LENTO",
+    "step": "21"
+  },
+  {
+    "en": "GOBBALLAD THE ROMANTIC",
+    "es": "JALETÉ, EL EXTRATERRESTRE",
+    "fr": "BOUFDÉGOU LE REFOULANT",
+    "id": "26",
+    "monster_id": "2317",
+    "pt": "GOBBALADA, O ROMÂNTICO",
+    "step": "21"
+  },
+  {
+    "en": "GOBLIMP THE BIS KIT",
+    "es": "GOYABLÍN, EL AFRANCESADO",
+    "fr": "GOBSTINIAIS LE TÊTU",
+    "id": "27",
+    "monster_id": "2494",
+    "pt": "GOBSTINADO, O TEIMOSO",
+    "step": "21"
+  },
+  {
+    "en": "LARVADELAIDE THE OZIE",
+    "es": "LARVÉMMING, EL DESCEREBRADO",
+    "fr": "LARCHIMAIDE LA POUSSÉE",
+    "id": "28",
+    "monster_id": "2332",
+    "pt": "LARVADELAIDE, O INFANTIL",
+    "step": "21"
+  },
+  {
+    "en": "KOKONAN THE TALKER",
+    "es": "NOZDOKU, EL NUMÉRICO",
+    "fr": "NODKOKU LE TRAHI",
+    "id": "29",
+    "monster_id": "2541",
+    "pt": "KOKONKASKÃO, O SUJO",
+    "step": "21"
+  },
+  {
+    "en": "KOLERASPOOTIN THE ANESTHESIALOGIST",
+    "es": "KOLAFUERTE, EL PEGATODO",
+    "fr": "KOLFORTHE L'INDÉCOLLABLE",
+    "id": "30",
+    "monster_id": "2520",
+    "pt": "KOLERASPOTIN, O INSENSÍVEL",
+    "step": "21"
+  },
+  {
+    "en": "KWOANIUM THE SMART",
+    "es": "KWANE, EL CIUDADANO",
+    "fr": "KWOANNEUR LE FRIMEUR",
+    "id": "31",
+    "monster_id": "2522",
+    "pt": "KWANIUM, O INTELIGENTE",
+    "step": "21"
+  },
+  {
+    "en": "JELLENO THE CHINNY",
+    "es": "GELAZQUINA, EL MEN",
+    "fr": "GELOLIAINE L'AÉRIEN",
+    "id": "32",
+    "monster_id": "2371",
+    "pt": "GELANOLINA, O GORDUROSO",
+    "step": "21"
+  },
+  {
+    "en": "BANDIRTY THE MESSY",
+    "es": "BANRÍ MANTÍS, EL PIGMENTADO",
+    "fr": "BANDAPAR L'EXCLU",
+    "id": "33",
+    "monster_id": "2313",
+    "pt": "LADINOSUJO, O DESARRUMADO",
+    "step": "21"
+  },
+  {
+    "en": "LARVALASKA THE COLD",
+    "es": "LARVICHUELAS JACK, LAS MÁGICAS",
+    "fr": "LARVAPSTRÈ LE SUBJECTIF",
+    "id": "34",
+    "monster_id": "2574",
+    "pt": "LARVALASKA, A FRIA",
+    "step": "21"
+  },
+  {
+    "en": "SERPICO THE HONEST",
+    "es": "CULEBRETTY, LA FEA",
+    "fr": "SERPISTOL L'ILLUSTRE",
+    "id": "35",
+    "monster_id": "2286",
+    "pt": "SERPICO, O HONESTO",
+    "step": "21"
+  },
+  {
+    "en": "BANDINAMIT THE EXPLOSIVE",
+    "es": "BANDIRAS, EL ZORRO DEL CLAN LOS MALAGUEÑOS",
+    "fr": "BANDSON LE TONITRUANT",
+    "id": "36",
+    "monster_id": "2314",
+    "pt": "LADINAMITE, O EXPLOSIVO",
+    "step": "21"
+  },
+  {
+    "en": "ESKOKO THE BARON",
+    "es": "PEKEKOKOITU, EL INTERRUPTUS",
+    "fr": "TIKOSTO LE MOUSSE",
+    "id": "37",
+    "monster_id": "2292",
+    "pt": "ESKOKO, O NOBRE",
+    "step": "21"
+  },
+  {
+    "en": "TIWALDO THE HIDDEN",
+    "es": "PEKEWASQHABIT, EL JUGUETÓN",
+    "fr": "TIWALPÉ LE DÉVÊTU",
+    "id": "38",
+    "monster_id": "2293",
+    "pt": "TIWALDO, O ESCONDIDO",
+    "step": "21"
+  },
+  {
+    "en": "TIWASCAL THE WAPPER",
+    "es": "PEKIWBYT HAMBRIENTO, EL GLOTÓN",
+    "fr": "TIWOFLAN LE LÂCHE",
+    "id": "39",
+    "monster_id": "2294",
+    "pt": "TIWASCAL, O COBERTO",
+    "step": "21"
+  },
+  {
+    "en": "HUNFLOWER THE SINFUL",
+    "es": "GEARSOL METALVAJE, EL ESPÍA",
+    "fr": "TOUR LE VICE",
+    "id": "40",
+    "monster_id": "2358",
+    "pt": "BARBAFLOR, O CORROMPIDO",
+    "step": "21"
+  },
+  {
+    "en": "TURTAN'ERNIE THE STREETWISE",
+    "es": "TORTUGADGET, EL INSPECTOR",
+    "fr": "TORTENSSIA LA FLEURIE",
+    "id": "41",
+    "monster_id": "2295",
+    "pt": "TARTANIME, O EXPERIENTE",
+    "step": "22"
+  },
+  {
+    "en": "BOARNIGEN THE DAMASKER",
+    "es": "JABACHLÍ, EL CASTO",
+    "fr": "SANGRIA LE FRUITÉ",
+    "id": "42",
+    "monster_id": "2353",
+    "pt": "JAVALISSO, O AVERMELHADO",
+    "step": "22"
+  },
+  {
+    "en": "BULBAMOON THE TRUMPETER",
+    "es": "BULDAMORT, EL SERPIENTE",
+    "fr": "BULLEUR LE DORMEUR",
+    "id": "43",
+    "monster_id": "2411",
+    "pt": "BULBALUA, O TROMBETEIRO",
+    "step": "22"
+  },
+  {
+    "en": "BIBLOPOPO THE ORGANISER",
+    "es": "BIBOLSÓN, EL ANILLOSO",
+    "fr": "BILVOEZÉ LE BONIMENTEUR",
+    "id": "44",
+    "monster_id": "2399",
+    "pt": "BIBLOPOPO, O ORGANIZADO",
+    "step": "22"
+  },
+  {
+    "en": "GOBBALKY THE STUBBORN",
+    "es": "JEFE DE VICTORIA JARATÓ, EL MANCILLADO",
+    "fr": "BOUFLET LE PUÉRIL",
+    "id": "45",
+    "monster_id": "2324",
+    "pt": "GOBBALKI, O TEIMOSO",
+    "step": "22"
+  },
+  {
+    "en": "SPIMUSHTACHE THE HAIRY",
+    "es": "CHAMPOLÍS, EL ASTRONAUTA",
+    "fr": "CHAMPAYR LE DISJONCTÉ",
+    "id": "46",
+    "monster_id": "2427",
+    "pt": "SPICOGUGODON, O CABELUDO",
+    "step": "22"
+  },
+  {
+    "en": "BILLBIBLOP THE GREAT",
+    "es": "BIBLUES, EL RITMO",
+    "fr": "BISTOU LE QUÊTEUR",
+    "id": "47",
+    "monster_id": "2396",
+    "pt": "BILBPBLOP, O GRANDE",
+    "step": "22"
+  },
+  {
+    "en": "KARNYONA THE RIDER",
+    "es": "CABALISTA, EL CONSPIRADOR",
+    "fr": "CHEVAUSTINE LE RECONSTRUIT",
+    "id": "48",
+    "monster_id": "2430",
+    "pt": "CAMIONA, O VIAJANTE",
+    "step": "22"
+  },
+  {
+    "en": "PIGSTOL THE SEXY",
+    "es": "PASTORTILLA, EL HUEVO",
+    "fr": "PORFAVOR LE QUÉMANDEUR",
+    "id": "49",
+    "monster_id": "2397",
+    "pt": "PORFAVOR, O PEDINTE",
+    "step": "22"
+  },
+  {
+    "en": "BIBLOKAJIN THE BALD",
+    "es": "BIBLOCADINHO, O CARECA",
+    "fr": "BI LE PARTAGEUR",
+    "id": "50",
+    "monster_id": "2400",
+    "pt": "BIBLOCADINHO, O CARECA",
+    "step": "22"
+  },
+  {
+    "en": "MUSHDRILL THE PIERCER",
+    "es": "BO'CALLAGHAN, EL TREBOL",
+    "fr": "BOOSTIF L'AFFAMÉ",
+    "id": "51",
+    "monster_id": "2549",
+    "pt": "BAWOSO, O FAMINTO",
+    "step": "22"
+  },
+  {
+    "en": "JACKELLINGTON THE LANTEWN",
+    "es": "CALAWINO, EL ORIENTAL",
+    "fr": "CITASSATÉ LE SERVICE",
+    "id": "52",
+    "monster_id": "2431",
+    "pt": "JACKELINTON, O ABÓBORA",
+    "step": "22"
+  },
+  {
+    "en": "PIGOBLET THE USEFUL",
+    "es": "COCHUMÁJER, EL RÁPIDO",
+    "fr": "CHONSTIP LA PASSAGÈRE",
+    "id": "53",
+    "monster_id": "2325",
+    "pt": "PORCOTAÇA, ÚTIL",
+    "step": "22"
+  },
+  {
+    "en": "BIBLOPONEY THE ENTERTAINER",
+    "es": "BIBLÓPERA, EL FANTASMA",
+    "fr": "BISTOU LE RIEUR",
+    "id": "54",
+    "monster_id": "2401",
+    "pt": "BIBLOPONEY, O ANFITRIÃO",
+    "step": "22"
+  },
+  {
+    "en": "PRESTREET THE FIGHTER",
+    "es": "PRESTRIT, EL LUCHADOR",
+    "fr": "PRESKAPWAL LE TENDANCIEUX",
+    "id": "55",
+    "monster_id": "2349",
+    "pt": "PRESRUELA, O LUTADOR",
+    "step": "22"
+  },
+  {
+    "en": "MILIOPOLD THE BLOOMER",
+    "es": "MILIRATATÚI, EL GASTRÓNOMO",
+    "fr": "MILIPUSSIEN LE GÉANT",
+    "id": "56",
+    "monster_id": "2334",
+    "pt": "MILIOPOLDO, O FRACASSADO",
+    "step": "22"
+  },
+  {
+    "en": "VAMP THE IMPALEST",
+    "es": "VAMORESPIRROS, EL MÚLTIPLE",
+    "fr": "VAMPUNOR LE GLACIAL",
+    "id": "57",
+    "monster_id": "2302",
+    "pt": "VAMP, O EMPALADOR",
+    "step": "22"
+  },
+  {
+    "en": "MCWHABBIT THE DIEHARD",
+    "es": "WOGEW WABBIT, EL ENGAÑADO",
+    "fr": "WABBITUD LE CONSTANT",
+    "id": "58",
+    "monster_id": "2304",
+    "pt": "WABBITO, O CONSTANTE",
+    "step": "22"
+  },
+  {
+    "en": "SNOWHITISHA THE PURE",
+    "es": "COLMILLAMOTO, EL OMNIPOTENTE",
+    "fr": "CROMIKAY LE NÉOPHYTE",
+    "id": "59",
+    "monster_id": "2378",
+    "pt": "KOMENOR, O MÍNIMO",
+    "step": "22"
+  },
+  {
+    "en": "TURTURE THE HOODED",
+    "es": "TORTUGRÍSSOM, EL DOCTOR",
+    "fr": "TORTHUR LA LUTTE",
+    "id": "60",
+    "monster_id": "2298",
+    "pt": "TARTATAPA, O FECHADO",
+    "step": "22"
+  },
+  {
+    "en": "AMBUSHAPENS THE UNLUCKY",
+    "es": "MAZAMORRA, EL ROLISTA",
+    "fr": "FOURAPIN LE CHAUD",
+    "id": "61",
+    "monster_id": "2484",
+    "pt": "EMBOSCADOR AZARADO",
+    "step": "23"
+  },
+  {
+    "en": "BAMBOTTINIT THE QUIET",
+    "es": "BAMBUDÍN, EL AZTECA",
+    "fr": "BAMBOUSKÉ LE CAMOUFLÉ",
+    "id": "62",
+    "monster_id": "2548",
+    "pt": "BAMBUSTE, O EMBOSCADOR",
+    "step": "23"
+  },
+  {
+    "en": "WABBIN THE WICH",
+    "es": "BLACKOWIBBIT, EL IMAGINATIVO",
+    "fr": "WAGNAGNAH LE SANGLANT",
+    "id": "63",
+    "monster_id": "2403",
+    "pt": "WABBINHUD, O JUSTICEIRO",
+    "step": "23"
+  },
+  {
+    "en": "SNAPPU THE SHOPKEEP",
+    "es": "PISCHURRASCO, EL BRASEADO",
+    "fr": "PICHDOURSE LE PUISSANT",
+    "id": "64",
+    "monster_id": "2338",
+    "pt": "CARANHÂ, O COMERCIANTE",
+    "step": "23"
+  },
+  {
+    "en": "BULBISONIC THE PENETRATING",
+    "es": "BULBIFTERICIA, LA AMARILLENTA",
+    "fr": "BULDEFLORE LE PÉNÉTRANT",
+    "id": "65",
+    "monster_id": "2413",
+    "pt": "BULDEFLORA, O PENETRANTE",
+    "step": "23"
+  },
+  {
+    "en": "BLORKO THE COLOURFUL",
+    "es": "BARCHWORK, EL MULTICOLOR",
+    "fr": "BARCHWORK LE MULTICOLORE",
+    "id": "66",
+    "monster_id": "2417",
+    "pt": "BLORKO, O COLORIDO",
+    "step": "23"
+  },
+  {
+    "en": "BWORKODER THE MAZTER",
+    "es": "BWHORK MAGENERATION, EL PRECURSOR",
+    "fr": "BWORMAGE LE RESPECTUEUX",
+    "id": "67",
+    "monster_id": "2418",
+    "pt": "BWORDEM, O ORGANIZADO",
+    "step": "23"
+  },
+  {
+    "en": "CROWMANION THE PRIMITIVE",
+    "es": "CUERGOTISMO, EL FEBRIL",
+    "fr": "CORPAT LE VAMPIRE",
+    "id": "68",
+    "monster_id": "2437",
+    "pt": "CORVOMANION, O PRIMITIVO",
+    "step": "23"
+  },
+  {
+    "en": "MINOSKITTLE THE COLOURED",
+    "es": "MINERÓN, EL INCENDIARIO",
+    "fr": "MINSINISTRE L'ELU",
+    "id": "69",
+    "monster_id": "2335",
+    "pt": "MINOSKITOU, O COLORIDO",
+    "step": "23"
+  },
+  {
+    "en": "EYEMI THE NARCISSIST",
+    "es": "NUJOSAWA, EL EMPERADOR",
+    "fr": "NEUFEDUR LE FLOTTANT",
+    "id": "70",
+    "monster_id": "2542",
+    "pt": "INIOLHO, O NARCISISTA",
+    "step": "23"
+  },
+  {
+    "en": "LUPISNOCKIO THE WOODWOLF",
+    "es": "COLMILLAZAQUI, EL INAGOTABLE",
+    "fr": "CROGNAN LE BARBARE",
+    "id": "71",
+    "monster_id": "2440",
+    "pt": "LUPISNÓQUIO, O LOBO AMADEIRADO",
+    "step": "23"
+  },
+  {
+    "en": "SNAPPY THE FISHFRIER",
+    "es": "GAZPISCHOS, EL REFRESCANTE",
+    "fr": "PICHAKOTÉ LE DÉGOUTANT",
+    "id": "72",
+    "monster_id": "2272",
+    "pt": "PESKADA, O ÍNGREME",
+    "step": "23"
+  },
+  {
+    "en": "TURTRENALDS THE TRAGIC",
+    "es": "TORTRUQUINI, EL INSPECTOR",
+    "fr": "TORTILLEUR LE COULÉ",
+    "id": "73",
+    "monster_id": "2296",
+    "pt": "TARTENALDO, O DRAMÁTICO",
+    "step": "23"
+  },
+  {
+    "en": "MILIVANILLI THE MIME",
+    "es": "MILILUPIN, EL TERCERO",
+    "fr": "MILIPATTE LA GRIFFE",
+    "id": "74",
+    "monster_id": "2333",
+    "pt": "MILIVANILLI, O MÍMICO",
+    "step": "23"
+  },
+  {
+    "en": "MILIKKYBUM THE INFORMER",
+    "es": "MITOSKORLEONE, EL BUEN PADRE",
+    "fr": "MINOSKOUR LE SAUVEUR",
+    "id": "75",
+    "monster_id": "2533",
+    "pt": "MILILIBUM, O DELATOR",
+    "step": "23"
+  },
+  {
+    "en": "ZORROSE THE MESSICAN",
+    "es": "ROSTETRICIA, LA REPRODUCTIVA",
+    "fr": "ROSTENSYL LA CUISINIÈRE",
+    "id": "76",
+    "monster_id": "2277",
+    "pt": "ZORROSE, O MESSICANO",
+    "step": "23"
+  },
+  {
+    "en": "SNAPP THE DRAGON",
+    "es": "PISCHISTORRA, LA CÁRNICA",
+    "fr": "PICHTOIRE L'ERUDIT",
+    "id": "77",
+    "monster_id": "2340",
+    "pt": "CARANHA, O DRAGÃO",
+    "step": "23"
+  },
+  {
+    "en": "TURTICORN THE HORNED",
+    "es": "TORTUGO PROJATT, EL CORTO",
+    "fr": "TORTORAK LE CORNU",
+    "id": "78",
+    "monster_id": "2297",
+    "pt": "TARTACALO, O CHIFRUDO",
+    "step": "23"
+  },
+  {
+    "en": "LORD LACEDHAT THE VAMPIRIC",
+    "es": "MAÉSTRICK VAGGERPIRO, EL CANTO RODADO",
+    "fr": "MAÎTRE AMBOAT LE MOQUEUR",
+    "id": "79",
+    "monster_id": "2532",
+    "pt": "LORDETHE VAMPIRIC",
+    "step": "23"
+  },
+  {
+    "en": "SNAPPLE THE WISE",
+    "es": "PISCHILI CONKARNE, EL FUERTE",
+    "fr": "PICHDUITRE LE TOTEM",
+    "id": "80",
+    "monster_id": "2346",
+    "pt": "CARANHADO, O SÁBIO",
+    "step": "23"
+  },
+  {
+    "en": "SCARAHAZAD THE STORYTELLER",
+    "es": "ESTARAUSIJA AZUL, EL DEL DANUBIO",
+    "fr": "SCARFAYSS LE BALAFRÉ",
+    "id": "81",
+    "monster_id": "2281",
+    "pt": "SCARFEICE, O CICATRIZADO",
+    "step": "24"
+  },
+  {
+    "en": "SPIMUSHTY THE SMELLY",
+    "es": "CHAMPLOMO, EL SOLDADITO",
+    "fr": "CHAMPAYT L'ODORANT",
+    "id": "82",
+    "monster_id": "2424",
+    "pt": "SPICOGUTI, O FEDORENTO",
+    "step": "24"
+  },
+  {
+    "en": "SPEEDMUSH THE RACER",
+    "es": "CHAMPLIN, EL CÓMICO",
+    "fr": "CHAMFLAY LE BALLONNÉ",
+    "id": "83",
+    "monster_id": "2425",
+    "pt": "COGUVELOZ, O COREDOR",
+    "step": "24"
+  },
+  {
+    "en": "BWORAK THE BOHEMIAN",
+    "es": "BWARKGNER, EL MAGNIFICENTISTA",
+    "fr": "BWORKASSE LE DÉGOUTANT",
+    "id": "84",
+    "monster_id": "2416",
+    "pt": "BWORAK, O BOÊMIO",
+    "step": "24"
+  },
+  {
+    "en": "JIMINICRACKLER THE CONSCIOUS",
+    "es": "CRUJAITOR, EL EUROVISIVO",
+    "fr": "CRAKMITAINE LE FAUCHEUR",
+    "id": "85",
+    "monster_id": "2436",
+    "pt": "JIMINICRACKLER, O CONSCIENTE",
+    "step": "24"
+  },
+  {
+    "en": "CRACKROCKISREE THE TIGER",
+    "es": "CROJMEO, EL VERONÉS",
+    "fr": "CRAQUETUSS LE PIQUANT",
+    "id": "86",
+    "monster_id": "2326",
+    "pt": "CRACKROCKISCRI, O TIGRE",
+    "step": "24"
+  },
+  {
+    "en": "GARGOYLA THE PARANOIAC",
+    "es": "PULGARGROLITO, EL ASTUTO",
+    "fr": "GARSIM LE MORT",
+    "id": "87",
+    "monster_id": "2486",
+    "pt": "GARGOYLA,",
+    "step": "24"
+  },
+  {
+    "en": "SCARAMEL THE MELTY",
+    "es": "ESJARABOJA VERDE, EL MENTOLADO",
+    "fr": "SCARAMEL LE FONDANT",
+    "id": "88",
+    "monster_id": "2283",
+    "pt": "SCARAFOLHOSO, O DESTRUIDOR",
+    "step": "24"
+  },
+  {
+    "en": "CHAFALDRAG THE CHARMING",
+    "es": "CHARFERNEGGER, EL GOBERNEITOR",
+    "fr": "CHAFALFER L'OPTIMISTE",
+    "id": "89",
+    "monster_id": "2321",
+    "pt": "CHAFERRO, O FORTE",
+    "step": "24"
+  },
+  {
+    "en": "KHAMELELTUX THE TOLERANT",
+    "es": "KRAMELANOMA, EL ENNEGRECEDOR",
+    "fr": "KRAPAHUT LE RANDONNEUR",
+    "id": "90",
+    "monster_id": "2521",
+    "pt": "CAMELETUX, O TOLERANTE",
+    "step": "24"
+  },
+  {
+    "en": "KITSEWEY THE BLUE",
+    "es": "KITSIÚS, EL ESTORNUDO",
+    "fr": "KITSOUPIERRE LE RÉCIPIENT",
+    "id": "91",
+    "monster_id": "2329",
+    "pt": "KITSEWEI, O AZUL",
+    "step": "24"
+  },
+  {
+    "en": "SALAMAA THE HENPECK",
+    "es": "MANDREINAS, LAS NUEVE",
+    "fr": "MANDALO L'AQUEUSE",
+    "id": "92",
+    "monster_id": "2529",
+    "pt": "SALAMAA, A DOMINADORA DE MARIDOS",
+    "step": "24"
+  },
+  {
+    "en": "SCARABREEF THE SHORT",
+    "es": "ESCOROBEITOR, EL MALVADO",
+    "fr": "SCAROUARZE L'EPOPÉE",
+    "id": "93",
+    "monster_id": "2282",
+    "pt": "SCARABROSO, O PEQUENO",
+    "step": "24"
+  },
+  {
+    "en": "SPIMUSHUAIA THE TRAVELLER",
+    "es": "CHAMPÁN, EL ESPUMOSO",
+    "fr": "CHAMDBLÉ LE CULTIVÉ",
+    "id": "94",
+    "monster_id": "2426",
+    "pt": "SPICOGUIA, O VIAJANTE",
+    "step": "24"
+  },
+  {
+    "en": "RIB THE TORN",
+    "es": "ARIB ABÁ, EL DE LOS 40",
+    "fr": "RIBIBI LE CHER",
+    "id": "95",
+    "monster_id": "2276",
+    "pt": "RIB, O DESPEDAÇADO",
+    "step": "24"
+  },
+  {
+    "en": "WABBITOR THE APT",
+    "es": "WAYBBIT ESQUELITE, EL REBELDE",
+    "fr": "WATDOGUE LE BIEN NOMMÉ",
+    "id": "96",
+    "monster_id": "2305",
+    "pt": "WABBITOR, O CAPAZ",
+    "step": "24"
+  },
+  {
+    "en": "JELLYPOSUKSHION THE SLIM",
+    "es": "GELATINA TURNER, LA BEST",
+    "fr": "GELAVIV LE GLAÇON",
+    "id": "97",
+    "monster_id": "2376",
+    "pt": "JELEPOSUCATO, O MAGRO",
+    "step": "24"
+  },
+  {
+    "en": "TREEKNIDDIOO THE NEEDY",
+    "es": "ABRAKÍLEDO, EL PATAS LIGERAS",
+    "fr": "ABRAKROC L'ÉDENTÉ",
+    "id": "98",
+    "monster_id": "2309",
+    "pt": "ARVRACROC, O DENTADO",
+    "step": "24"
+  },
+  {
+    "en": "SCARATHEEF THE PINCHER",
+    "es": "ESCARUMAIS, LOS SIETE",
+    "fr": "SCAPÉ L'EPÉE",
+    "id": "99",
+    "monster_id": "2280",
+    "pt": "SCAPADO, O FUGITIVO",
+    "step": "24"
+  },
+  {
+    "en": "DRAGOTITIS THE PAINFUL",
+    "es": "DRAGOZART ALMANDREUS, EL PRODIGIO",
+    "fr": "DRAGLIDA LA DISPARUE",
+    "id": "100",
+    "monster_id": "2379",
+    "pt": "DRAGOTITIS, O PENOSO",
+    "step": "24"
+  },
+  {
+    "en": "BOOMBORA THE DANGEROUS",
+    "es": "DOOMBA, EL INIMITABLE",
+    "fr": "BOOMBATA LE GARDE",
+    "id": "101",
+    "monster_id": "2408",
+    "pt": "BOOMBASTA, O SUFICIENTE",
+    "step": "25"
+  },
+  {
+    "en": "BULBUSHISU THE MAKISAN",
+    "es": "BULBUBUNET, LA ÚNICA",
+    "fr": "BULSAVON LE GONFLÉ",
+    "id": "102",
+    "monster_id": "2415",
+    "pt": "BULBUSHISU, O COBERTO",
+    "step": "25"
+  },
+  {
+    "en": "CHAFERANHO THE ESSENTIAL",
+    "es": "CHÁFERLIE, EL ÁNGELES",
+    "fr": "CHAFEMAL LE BAGARREUR",
+    "id": "103",
+    "monster_id": "2319",
+    "pt": "CHADACINCO, O PONTUAL",
+    "step": "25"
+  },
+  {
+    "en": "CHAFRED THE FISH",
+    "es": "CHAFÍNER DIVARRIO, EL CASPOSO",
+    "fr": "CHAFFOIN LE SOURNOIS",
+    "id": "104",
+    "monster_id": "2421",
+    "pt": "CHAFRED, O PEIXE",
+    "step": "25"
+  },
+  {
+    "en": "BLOPULENT THE PRETENTIOUS",
+    "es": "BLÓMPERMAN, EL EXPLOSIVO",
+    "fr": "BLORIE L'ASSOURDISSANTE",
+    "id": "105",
+    "monster_id": "2404",
+    "pt": "BLOPULENTO, O ABUNDANTE",
+    "step": "25"
+  },
+  {
+    "en": "CROCCYX THE BUMMER",
+    "es": "COCODRANEL, LA PERFUMADA",
+    "fr": "CROLNAREFF L'EXILÉ",
+    "id": "106",
+    "monster_id": "2439",
+    "pt": "CROCCYX, O OCIOSO",
+    "step": "25"
+  },
+  {
+    "en": "PIGHATCHOO THE ELECTRICAL",
+    "es": "CERDUODENITIS, EL ABDOMINAL",
+    "fr": "FARLON L'ENFANT",
+    "id": "107",
+    "monster_id": "2432",
+    "pt": "PIGHATCHOO, O ELÉTRICO",
+    "step": "25"
+  },
+  {
+    "en": "BLOPIUM THE DELIRIOUS",
+    "es": "BLOP INOCHO, EL NARIZOTAS",
+    "fr": "BLOPORTE LE VEULE",
+    "id": "108",
+    "monster_id": "2406",
+    "pt": "BLÓPIO, O DELIRANTE",
+    "step": "25"
+  },
+  {
+    "en": "SNAPPSTER THE SUED",
+    "es": "PISCHTO, EL TOMATOSO",
+    "fr": "PICHT LE BRIOCHÉ",
+    "id": "109",
+    "monster_id": "2339",
+    "pt": "CARANHOSO, O SUPLICANTE",
+    "step": "25"
+  },
+  {
+    "en": "CRABARTANIAN THE ALLFORONE",
+    "es": "CRUSTORIYAMA, EL BOLUDO",
+    "fr": "CRUSTTERUS L'ORGANIQUE",
+    "id": "110",
+    "monster_id": "2557",
+    "pt": "CRABARTANIO, O SINGULAR",
+    "step": "25"
+  },
+  {
+    "en": "CRABORTHOS THE ALL",
+    "es": "CRUSTODRALÍ, EL BIGOTUDO",
+    "fr": "CRUSTENSYL LE PRAGMATIQUE",
+    "id": "111",
+    "monster_id": "2558",
+    "pt": "CRABORTHOS, O TODAS",
+    "step": "25"
+  },
+  {
+    "en": "CRABARAMIS THE ONE",
+    "es": "CRUSTÉRIX, EL VIAJANTE",
+    "fr": "CRUSKOF LE RUSTRE",
+    "id": "112",
+    "monster_id": "2559",
+    "pt": "CRABARAMIS, O ÚNICO",
+    "step": "25"
+  },
+  {
+    "en": "BLORCHID THE GORGEOUS",
+    "es": "BLOP DYLAN, EL VENTOSO",
+    "fr": "BLORDUR L'INFECT",
+    "id": "113",
+    "monster_id": "2405",
+    "pt": "BLORQUÍDEA, O FLOREADO",
+    "step": "25"
+  },
+  {
+    "en": "BLOPAL THE PRECIOUS",
+    "es": "BLOPPY REINARKER, LA PRIMERA MITAD",
+    "fr": "BLOF L'APATHIQUE",
+    "id": "114",
+    "monster_id": "2407",
+    "pt": "BLOLDO, O AMARGO",
+    "step": "25"
+  },
+  {
+    "en": "SCARAHEATH THE HANGER",
+    "es": "ESCARÁLIBUR, LA LEGENDARIA",
+    "fr": "SCARATYN L'HUÎTRE",
+    "id": "115",
+    "monster_id": "2615",
+    "pt": "SCARATÊ, O MARCIAL",
+    "step": "25"
+  },
+  {
+    "en": "SCORBISON THE LONELY",
+    "es": "SCORBUTHOVEEN, EL SORDO",
+    "fr": "SCORPITÈNE L'ENFLAMMÉ",
+    "id": "116",
+    "monster_id": "2285",
+    "pt": "ESCORBISÃO, O SOLITÁRIO",
+    "step": "25"
+  },
+  {
+    "en": "RATATOUILLE THE STIRRER",
+    "es": "RATOKIO DE ALCONTEL, LA DESPEINADA",
+    "fr": "RADOUTABLE LE CRAINT",
+    "id": "117",
+    "monster_id": "2350",
+    "pt": "RATATULI, O INTRIGANTE",
+    "step": "25"
+  },
+  {
+    "en": "TREEKNIDYLUS",
+    "es": "ABRÁKNEO, EL ELEGIDO",
+    "fr": "ABRAKADNUZAR",
+    "id": "118",
+    "monster_id": "2385",
+    "pt": "ARVRAKILINO, O CURVO",
+    "step": "25"
+  },
+  {
+    "en": "TRUNKBEARD THE GENTLE",
+    "es": "TRRONCKY III, EL TIGRE",
+    "fr": "TRONKONEUZ LA TRANCHANTE",
+    "id": "119",
+    "monster_id": "2299",
+    "pt": "TRUNKBARDO, O GENTIL",
+    "step": "25"
+  },
+  {
+    "en": "DRAKOKIDOKI THE VOLUNTEER",
+    "es": "DRAGAMENÓN, EL DESTRUCTROYER",
+    "fr": "DRAGNOUTE L'IRASCIBLE",
+    "id": "120",
+    "monster_id": "2465",
+    "pt": "DRAGOMBROSO, O IRASCÍVEL",
+    "step": "25"
+  },
+  {
+    "en": "ABOUNTEOUS THE GENEROUS",
+    "es": "ABUBANEIRO, EL NARANJA",
+    "fr": "ABOUDBRA LE PORTEUR",
+    "id": "121",
+    "monster_id": "2384",
+    "pt": "ABUBADOR, O FÉRTIL",
+    "step": "26"
+  },
+  {
+    "en": "AMLULLABEYE THE DREAMER",
+    "es": "AMLOBDOVAR, EL MOVIDISTA",
+    "fr": "AMEUR LA LAIDE",
+    "id": "122",
+    "monster_id": "2391",
+    "pt": "AMLULLABEYE, O SONHADOR",
+    "step": "26"
+  },
+  {
+    "en": "ARACHNAWAR THE KILLINMACHIN",
+    "es": "ARAKNOSIA, EL OLVIDADIZO",
+    "fr": "ARAKOZETTE L'INTRÉPIDE",
+    "id": "123",
+    "monster_id": "2392",
+    "pt": "ARAKOUSADA, A INTRÉPIDA",
+    "step": "26"
+  },
+  {
+    "en": "CHAFEROTIX THE SIXTININTH",
+    "es": "CHAFERDITOS, LOS TRES",
+    "fr": "CHAFMARCEL LE FÊTARD",
+    "id": "124",
+    "monster_id": "2320",
+    "pt": "CHAFADADO, O PREDESTINADO",
+    "step": "26"
+  },
+  {
+    "en": "CHAFERMENTED THE DRINKER",
+    "es": "CHAGÜER LANGERS, LOS COLORIDOS",
+    "fr": "CHALAN LE COMMERÇANT",
+    "id": "125",
+    "monster_id": "2322",
+    "pt": "CHAFERMENTO, O GRANDE",
+    "step": "26"
+  },
+  {
+    "en": "CODEMONIC THE MEAN",
+    "es": "CODEMBOLIA, EL OBSTRUCTOR",
+    "fr": "CODENLGAZ LE PROBLÈME",
+    "id": "126",
+    "monster_id": "2433",
+    "pt": "CODEMONIC, O ABASTADO",
+    "step": "26"
+  },
+  {
+    "en": "SMITHERZ THE LICKER",
+    "es": "HERRANOR, EL PIZZAIOLO",
+    "fr": "FORBOYAR L'ENIGMATIQUE",
+    "id": "127",
+    "monster_id": "2328",
+    "pt": "FERRÉTICO, O GOLPEADOR",
+    "step": "26"
+  },
+  {
+    "en": "GINSYNC THE HYPERACTIVE",
+    "es": "GÍNSENK, EL ESTIMULANTE",
+    "fr": "GINSENK LE STIMULANT",
+    "id": "128",
+    "monster_id": "2493",
+    "pt": "GINSYNC, O HIPERATIVO",
+    "step": "26"
+  },
+  {
+    "en": "KIREVAMPIRO THE WRESTLER",
+    "es": "KIRAVEL, EL ARTESANO",
+    "fr": "KIROYAL LE SIRUPEUX",
+    "id": "129",
+    "monster_id": "2508",
+    "pt": "KIREVAMPIRO, O RIVAL",
+    "step": "26"
+  },
+  {
+    "en": "MISSKOKOKO THE CHANNEL",
+    "es": "KOKOTEL, EL AGITADO",
+    "fr": "KOKTÈLE LE SECOUÉ",
+    "id": "130",
+    "monster_id": "2573",
+    "pt": "MISSKOKOKO, O CHANEL",
+    "step": "26"
+  },
+  {
+    "en": "LERT MACRAKEN THE USED EMO",
+    "es": "LED EMPLING, EL ASCENSORISTA",
+    "fr": "LET LE ROND",
+    "id": "131",
+    "monster_id": "2525",
+    "pt": "LERT MACRAKEN, O CHORÃO ACOMODADO",
+    "step": "26"
+  },
+  {
+    "en": "PYGKNIGHTLION THE LOUSY",
+    "es": "CABALLAGAMI PUERYUKAZO, EL ABURRIDO",
+    "fr": "CAVORDEMAL LE SORCIER",
+    "id": "132",
+    "monster_id": "2420",
+    "pt": "PORCALADINO, O IMUNDO",
+    "step": "26"
+  },
+  {
+    "en": "ARACHMA THE GREEK",
+    "es": "ARAKLAS MAUSUS, EL ENCOFIADO",
+    "fr": "ARABORD LA CRUCHE",
+    "id": "133",
+    "monster_id": "2311",
+    "pt": "ARACHMA, O GREGO",
+    "step": "26"
+  },
+  {
+    "en": "NEBUCHADNEZZAR THE CONQUEROR",
+    "es": "NELGIBSON, EL LETAL",
+    "fr": "NELVIN LE BOULET",
+    "id": "134",
+    "monster_id": "2539",
+    "pt": "NABUCODONOZOR, O CONQUISTADOR",
+    "step": "26"
+  },
+  {
+    "en": "NIPTUK THE PLASTICYNIC",
+    "es": "NIPULTAY DEA, EL POCO INSPIRADO",
+    "fr": "NIPULNISLIP L'EXHIBITIONNISTE",
+    "id": "135",
+    "monster_id": "2540",
+    "pt": "NIPTUK THE PLASTICÍNICO",
+    "step": "26"
+  },
+  {
+    "en": "OSURCUS THE TAMER",
+    "es": "OSURCE KODES, EL PROBLEMÁTICO",
+    "fr": "OSUXION LE VAMPIRIQUE",
+    "id": "136",
+    "monster_id": "2585",
+    "pt": "OSURCUS, O DOMADOR",
+    "step": "26"
+  },
+  {
+    "en": "CRABATHOS THE FOR",
+    "es": "CRUSTHÓRPAL, PASSIAN EL SUBMAR",
+    "fr": "CRUSMEYER LE PERVERS",
+    "id": "137",
+    "monster_id": "2560",
+    "pt": "CRABATHOS, O PARA",
+    "step": "26"
+  },
+  {
+    "en": "SUZESSMAN THE ENTHUSIASTIC",
+    "es": "SUSHIJ, EL MAKISAN",
+    "fr": "SUSBEWL L'HYPOCRITE",
+    "id": "138",
+    "monster_id": "2289",
+    "pt": "SUZESSMANO, O ENTUSIASMADO",
+    "step": "26"
+  },
+  {
+    "en": "GWABBIT THE WUNNER",
+    "es": "ABUSTIN PAWITS, EL BOCASUCIA",
+    "fr": "GRANDILOK LE CLAMEUR",
+    "id": "139",
+    "monster_id": "2498",
+    "pt": "GRABBITO, O CORREDOR",
+    "step": "26"
+  },
+  {
+    "en": "WOWALKER THE EGYPTIAN",
+    "es": "WABIBIP WOYOTE, EL PERSISTENTE",
+    "fr": "WOKÈNRÔL LE DANSEUR",
+    "id": "140",
+    "monster_id": "2308",
+    "pt": "WOWALKER, O EGÍPCIO",
+    "step": "26"
+  },
+  {
+    "en": "OUASSINGIAM THE TYRANT",
+    "es": "EL STRÓPALA OTRAVEZ, EL SAM",
+    "fr": "OUASHOUASH L'EXUBÉRANT",
+    "id": "141",
+    "monster_id": "2575",
+    "pt": "NOJERIZA, O ANTIPÁTICO",
+    "step": "27"
+  },
+  {
+    "en": "DOKTERWHO THE TARDISPORTER",
+    "es": "DOK OK, EL GASTERÓPODO",
+    "fr": "DOKTOPUSS LE MALÉFIQUE",
+    "id": "142",
+    "monster_id": "2442",
+    "pt": "DOKTERQUEM, O TRANSPORTADOR",
+    "step": "27"
+  },
+  {
+    "en": "FUNG KU THE MASTER",
+    "es": "MAESTRÓNOMO, EL ESTRELLADO",
+    "fr": "MAÎTRE ONOM LE RÉGULIER",
+    "id": "143",
+    "monster_id": "2359",
+    "pt": "MESTRE HADO, O DIPLOMADO",
+    "step": "27"
+  },
+  {
+    "en": "SHAMASSEL THE OFF",
+    "es": "CHAMADKASAS, LA DESESPERADA",
+    "fr": "CHAMITANT LE DILETTANTE",
+    "id": "144",
+    "monster_id": "2423",
+    "pt": "XAMÃSSELO, O ABSORTO",
+    "step": "27"
+  },
+  {
+    "en": "KOALDMEN THE GRUMPY",
+    "es": "KOKAJÍN, EL CALVO",
+    "fr": "KOALASTROF LA NATURELLE",
+    "id": "145",
+    "monster_id": "2517",
+    "pt": "KOALD, O IRRITADO",
+    "step": "27"
+  },
+  {
+    "en": "KANNIMANTHA THE MANEATER",
+    "es": "KANNÍBAL, EL LECTOR",
+    "fr": "KANNIBAL LE LECTEUR",
+    "id": "146",
+    "monster_id": "2502",
+    "pt": "KANNIBAL, O LEITOR",
+    "step": "27"
+  },
+  {
+    "en": "KANNIRANDA THE MANIAC",
+    "es": "KANÁBOLO, EL RUBIO",
+    "fr": "KAPOTA LA FRAISE",
+    "id": "147",
+    "monster_id": "2507",
+    "pt": "KAPOTA, O DESCUIDADO",
+    "step": "27"
+  },
+  {
+    "en": "PALMPILOT THE YUPPIE",
+    "es": "PALMISCOR PIONS, LOS AMANTES",
+    "fr": "PALMITO LE MENTEUR",
+    "id": "148",
+    "monster_id": "2582",
+    "pt": "PALMITÔMANO, O MENTIROSO",
+    "step": "27"
+  },
+  {
+    "en": "CHAFERUPTION THE VOLCANIC",
+    "es": "CHAFERNAN D'ALONZO, EL NANO",
+    "fr": "CHAFRIT LE BARBARE",
+    "id": "149",
+    "monster_id": "2422",
+    "pt": "CHAFERUPÇÃO, O VULCÂNICO",
+    "step": "27"
+  },
+  {
+    "en": "MINOKNOK THE VISITOR",
+    "es": "MINOCONTAVAN KONM'ASTUZIA, EL COLORADO",
+    "fr": "GERMINOL L'INDIGENT",
+    "id": "150",
+    "monster_id": "2568",
+    "pt": "MINOCNOC, O VISITANTE",
+    "step": "27"
+  },
+  {
+    "en": "PALMOLEAF THE GREASY",
+    "es": "PALMILA, LA VIGILANTE",
+    "fr": "PALMICHE LE SEREIN",
+    "id": "151",
+    "monster_id": "2583",
+    "pt": "PALMOFOLHA, O GORDUROSO",
+    "step": "27"
+  },
+  {
+    "en": "OUASSUP THE IRRITATING",
+    "es": "EL STRONYJOK, EL PAJARILLO",
+    "fr": "OUASSÉBO L'ESTHÈTE",
+    "id": "152",
+    "monster_id": "2524",
+    "pt": "NOJANELA, O FOFOQUEIRO",
+    "step": "27"
+  },
+  {
+    "en": "OUGINEEMO THE LOST",
+    "es": "EL STRAT, EL VAMPIRO",
+    "fr": "OUATURE LA MOBILE",
+    "id": "153",
+    "monster_id": "2616",
+    "pt": "NOJUMENTO, O EMPACADO",
+    "step": "27"
+  },
+  {
+    "en": "PANDALTRY THE UNKNOWN",
+    "es": "PANDARWIN, EL EVOLUCIONISTA",
+    "fr": "PANDIMY LE CONTAGIEUX",
+    "id": "154",
+    "monster_id": "2593",
+    "pt": "PANDALTRI, O DESCONHECIDO",
+    "step": "27"
+  },
+  {
+    "en": "PANDARTMOORE THE DOGGED",
+    "es": "PANDIÁNAYONS, EL AVENTURERO",
+    "fr": "PANDIMAENSH L'ANIMATEUR",
+    "id": "155",
+    "monster_id": "2592",
+    "pt": "PANDARWIN, O NATURALISTA",
+    "step": "27"
+  },
+  {
+    "en": "NAYPALM THE HERBIVOROUS",
+    "es": "PALMIFRED PASSTEROH, EL BAILARÍN",
+    "fr": "PALMIFLETTE LE CONVIVIAL",
+    "id": "156",
+    "monster_id": "2584",
+    "pt": "PALMITOLA, O DELICADO",
+    "step": "27"
+  },
+  {
+    "en": "BOAREALIS THE BRIGHT",
+    "es": "JABULIO DE LA LLANESIAS, EL PORTERO",
+    "fr": "SAMPI L'ETERNEL",
+    "id": "157",
+    "monster_id": "2279",
+    "pt": "JAVALINO, O BRILHANTE",
+    "step": "27"
+  },
+  {
+    "en": "CRACKLEROD THE OLD",
+    "es": "CRUJIDILO DUNDEE, EL AUSTRALIA",
+    "fr": "CRAMIKAZ LE SUICIDAIRE",
+    "id": "158",
+    "monster_id": "2438",
+    "pt": "CRACKLEROD, O ANCIÃO",
+    "step": "27"
+  },
+  {
+    "en": "CRACKRODILROCK THE HELLTUNE",
+    "es": "CRUJLIETA, LA VERONESA",
+    "fr": "CRAQUETOU LE FISSURÉ",
+    "id": "159",
+    "monster_id": "2556",
+    "pt": "SMAGOMOSO, O VISCOSO",
+    "step": "27"
+  },
+  {
+    "en": "TREEKTAMAK THE LOUD",
+    "es": "ABRAKADABRA, EL PATA DE KABRA",
+    "fr": "ABRAKILDAS LE VÉNÉRABLE",
+    "id": "160",
+    "monster_id": "2389",
+    "pt": "ARVRAKOLÁ, O DISTANTE",
+    "step": "27"
+  },
+  {
+    "en": "DRAGOSPEL THE BLACK",
+    "es": "DRAGOSS PEL, EL NEGRO",
+    "fr": "DRAGYBUSS LE SUCRÉ",
+    "id": "161",
+    "monster_id": "2457",
+    "pt": "DRAGOSPEL, O RUBRO",
+    "step": "28"
+  },
+  {
+    "en": "KOJAKLATOR THE LOLLIPOPER",
+    "es": "CORTAZADOR, EL INCONFORMISTA",
+    "fr": "CORBOYARD L'ENIGMATIQUE",
+    "id": "162",
+    "monster_id": "2555",
+    "pt": "KOJACLATOR, O DESMANCHA PRAZER",
+    "step": "28"
+  },
+  {
+    "en": "PANDARWIN THE NATURIST",
+    "es": "PANPÍTAR, EL NIÑO",
+    "fr": "PANDANLAGL LA SAOULE",
+    "id": "163",
+    "monster_id": "2590",
+    "pt": "PANDANADO, O MALDITO",
+    "step": "28"
+  },
+  {
+    "en": "PANDAN THE DESPERATE",
+    "es": "PANDAHL BORROALDCHO, EL CUENTACUENTOS",
+    "fr": "PANDOUILLE LE TITUBANT",
+    "id": "164",
+    "monster_id": "2591",
+    "pt": "PANDAN, O DESESPERADO",
+    "step": "28"
+  },
+  {
+    "en": "DRAGOSTINO THE TINY",
+    "es": "DRAGOSSTINHO, EL FUTBOLEIRO",
+    "fr": "DRAGALGAN L'EFFERVESCENT",
+    "id": "165",
+    "monster_id": "2455",
+    "pt": "DRAGOSTINO, O MINÚSCULO",
+    "step": "28"
+  },
+  {
+    "en": "RATTLE THE HUMMER",
+    "es": "RAFA DE ALNADALILLAS, EL CANIBAL",
+    "fr": "RATLBOL L'AIGRI",
+    "id": "166",
+    "monster_id": "2273",
+    "pt": "RATOSCO, O GROSSEIRO",
+    "step": "28"
+  },
+  {
+    "en": "DRAGOOLASH THE STEWED",
+    "es": "DRAJOIMITO, EL AZUL",
+    "fr": "DRAGSTA LE DÉTENDU",
+    "id": "167",
+    "monster_id": "2451",
+    "pt": "DRAGOCHICOTE, O EXTASIADO",
+    "step": "28"
+  },
+  {
+    "en": "DRAKWEEN THE CROSS DRESSER",
+    "es": "DRAGSTOR, EL DE LA ESQUINA",
+    "fr": "DRAGSTORE LE GÉNÉRALISTE",
+    "id": "168",
+    "monster_id": "2367",
+    "pt": "DRAGORA, O IMEDIATISTA",
+    "step": "28"
+  },
+  {
+    "en": "DREGGERSHWEEN THE TINPANALLEY",
+    "es": "DRAKAOLY, LA VIOLINISTA",
+    "fr": "DRAGTULA L'ANCIEN",
+    "id": "169",
+    "monster_id": "2368",
+    "pt": "DRAGKWIN, O TRANSFORMISTA",
+    "step": "28"
+  },
+  {
+    "en": "DREGGONZOLA THE CHEESY",
+    "es": "DRUGMIENTE, LA BELLA",
+    "fr": "DRAGSTIK LE FRUSTRE",
+    "id": "170",
+    "monster_id": "2369",
+    "pt": "DRAGONZOLA, O QUEIJOSO",
+    "step": "28"
+  },
+  {
+    "en": "KANNEMIK THE SKINNY",
+    "es": "KLAIDÍBOLA CERBARROW, LA OTRA MITAD",
+    "fr": "KANNÉMIK LE MAIGRE",
+    "id": "171",
+    "monster_id": "2505",
+    "pt": "KANÊMICO, O DESNUTRIDO",
+    "step": "28"
+  },
+  {
+    "en": "KANNARRIE THE RECKLESS",
+    "es": "KANIBÚLRICH LARS, EL METÁLICO",
+    "fr": "KANNISTERIK LE FORCENÉ",
+    "id": "172",
+    "monster_id": "2506",
+    "pt": "KANISTÉRICO, O DESCONTROLADO",
+    "step": "28"
+  },
+  {
+    "en": "KITCHY THE SCRATCHER",
+    "es": "KITSA NO, EL VIOLENTO",
+    "fr": "KITSOUDBRA LE MALODORANT",
+    "id": "173",
+    "monster_id": "2510",
+    "pt": "KITCHI, O RASPADOR",
+    "step": "28"
+  },
+  {
+    "en": "PALMELLA THE HEFTY",
+    "es": "PALMIRÓ, EL TETRADIMENSIONAL",
+    "fr": "PALMBYTCH LA BRONZÉE",
+    "id": "174",
+    "monster_id": "2581",
+    "pt": "PALMELA, O ROBUSTO",
+    "step": "28"
+  },
+  {
+    "en": "LEOPARDON THE SORRY",
+    "es": "LOOPARPEL, EL DIP",
+    "fr": "LÉOPOLNOR LE BARDE",
+    "id": "175",
+    "monster_id": "2527",
+    "pt": "LEOPARDON, O SENTIDO",
+    "step": "28"
+  },
+  {
+    "en": "OUGATHARD THE FORTUNATE",
+    "es": "UGINUKEM, EL DUQUE",
+    "fr": "OUGAOULD LE PARASITE",
+    "id": "176",
+    "monster_id": "2589",
+    "pt": "OUGATARDA, O BEM-AVENTURADO",
+    "step": "28"
+  },
+  {
+    "en": "QUETNIN THE FICTIONAL",
+    "es": "SERPISTOL, EL AFÓNICO",
+    "fr": "SERPISTULE LE PURULENT",
+    "id": "177",
+    "monster_id": "2287",
+    "pt": "QUETNIN, O FICTÍCIO",
+    "step": "28"
+  },
+  {
+    "en": "RAUL MODRID THE CHULO",
+    "es": "RAÚL CERA, LA PÉPTICA",
+    "fr": "RAULIGO LE SALE",
+    "id": "178",
+    "monster_id": "2351",
+    "pt": "RAUL MODRID, O CHULO",
+    "step": "28"
+  },
+  {
+    "en": "DRAGOSKOVIT THE BAREFOOT",
+    "es": "DRAGROGUI, EL EBRIO",
+    "fr": "DRAGIOLI LE SUCCULENT",
+    "id": "179",
+    "monster_id": "2459",
+    "pt": "DRAGOSKOVIT, O DESCALÇO",
+    "step": "28"
+  },
+  {
+    "en": "DRAGAUSTIN THE POWER",
+    "es": "DRAGUMP, EL OSCARIZADO",
+    "fr": "DRAGTOPAILE L'EXCAVATEUR",
+    "id": "180",
+    "monster_id": "2453",
+    "pt": "DRAGAUSTIN, O PODEROSO",
+    "step": "28"
+  },
+  {
+    "en": "AREPOTAIR THE BESPECTACLED",
+    "es": "FANTASMA AREPOPINS, LA NIÑERA",
+    "fr": "FANTOCH LE PANTIN",
+    "id": "181",
+    "monster_id": "2563",
+    "pt": "FANTOCH, O TÍTERE",
+    "step": "29"
+  },
+  {
+    "en": "APEROBICS THE DYNAMIC",
+    "es": "FANTASMARLEY, EL RASTAFARI",
+    "fr": "FANLABIZ LE VÉLOCE",
+    "id": "182",
+    "monster_id": "2466",
+    "pt": "APERÓBICO, O DINÂMICO",
+    "step": "29"
+  },
+  {
+    "en": "BARBROSSKAM THE CHIEF",
+    "es": "BARBRÉTZEL, EL SALADO",
+    "fr": "BAREBOURD LE COMTE",
+    "id": "183",
+    "monster_id": "2545",
+    "pt": "BARBROSSIM, O CHEFE",
+    "step": "29"
+  },
+  {
+    "en": "DREGGOMMOMM THE CHEWER",
+    "es": "DRAJOANITO, EL ROJO",
+    "fr": "DRAGNOSTIK LE SCEPTIQUE",
+    "id": "184",
+    "monster_id": "2449",
+    "pt": "DRAGNÓSTICO, O CÉTICO",
+    "step": "29"
+  },
+  {
+    "en": "GHOSTABRAVA THE TOURIST",
+    "es": "FANTASTLE VÁNIANTE, EL MATAVAMPIROS",
+    "fr": "FANTRASK LE RÊVEUR",
+    "id": "185",
+    "monster_id": "2468",
+    "pt": "GHOSTABRAVA, O TURISTA",
+    "step": "29"
+  },
+  {
+    "en": "POLTERGHAISK THE STRAY SOUL",
+    "es": "FANTHRAKS, EL ACOMPLEJADO",
+    "fr": "FANDANLEUIL LE PRÉCIS",
+    "id": "186",
+    "monster_id": "2467",
+    "pt": "POLTERGHAISK, A ALMA PERDIDA",
+    "step": "29"
+  },
+  {
+    "en": "GANON THE DWARF",
+    "es": "CAÑÓN DORZUELO, EL DOLOROSO",
+    "fr": "CABOUME L'ARTILLEUR",
+    "id": "187",
+    "monster_id": "2419",
+    "pt": "GANON, O PIGMEU",
+    "step": "29"
+  },
+  {
+    "en": "JACKOALAK THE RIPPER",
+    "es": "KOALALIA, EL MUDO",
+    "fr": "KOAMAEMBAIR LE COULANT",
+    "id": "188",
+    "monster_id": "2513",
+    "pt": "JACKOALAK, O ESPETACULAR",
+    "step": "29"
+  },
+  {
+    "en": "DREGGUMP THE SHRIMP",
+    "es": "DRAGKUÍN, EL DISFRAZADO",
+    "fr": "DRAGKOUINE LA DÉGUISÉE",
+    "id": "189",
+    "monster_id": "2450",
+    "pt": "DREGUMPI, O ANÃO",
+    "step": "29"
+  },
+  {
+    "en": "GRASNAKIZANAMI THE RULER",
+    "es": "COOLIGAN, EL AGRESIVO",
+    "fr": "COOLIGANE LE NÉVROSÉ",
+    "id": "190",
+    "monster_id": "2434",
+    "pt": "GRASNAKIZANAMI, O SOBERANO",
+    "step": "29"
+  },
+  {
+    "en": "SUPERGWASS THE FREE",
+    "es": "NIERUBA, EL POETA",
+    "fr": "NERDEUBEU LE FLAGELLANT",
+    "id": "191",
+    "monster_id": "2579",
+    "pt": "SUPERGWASS, O LIVRE",
+    "step": "29"
+  },
+  {
+    "en": "HAZWONBALL THE HICKLER",
+    "es": "NAKÚMBAT, EL MORTAL",
+    "fr": "NAKUNEUYE LE BORGNE",
+    "id": "192",
+    "monster_id": "2538",
+    "pt": "HAZWOABOLA, O ENFADONHO",
+    "step": "29"
+  },
+  {
+    "en": "RATILLA THE HUN",
+    "es": "RATILA, EL HUNO",
+    "fr": "RATÉHAIFAIM LE PROFESSEUR",
+    "id": "193",
+    "monster_id": "2275",
+    "pt": "RATILLA, O HUNO",
+    "step": "29"
+  },
+  {
+    "en": "CRACKOALAK THE BLONDE",
+    "es": "KOALAKO, EL PATO",
+    "fr": "KOASKETTE LA CHAPELIÈRE",
+    "id": "194",
+    "monster_id": "2509",
+    "pt": "KOABÊ, O JURÍDICO",
+    "step": "29"
+  },
+  {
+    "en": "KOALY THE FIDDLER",
+    "es": "KOALUGOK, EL PATO",
+    "fr": "KOAKOFRUI LE CONFIT",
+    "id": "195",
+    "monster_id": "2516",
+    "pt": "KOALI, O OCIOSO",
+    "step": "29"
+  },
+  {
+    "en": "SNAPOALAK THE REDHEAD",
+    "es": "KOALUIK, EL PATO",
+    "fr": "KOARMIT LA BATRACIENNE",
+    "id": "196",
+    "monster_id": "2518",
+    "pt": "SNAPOALAK, O RUIVO",
+    "step": "29"
+  },
+  {
+    "en": "DREGGATÓN THE LATINO",
+    "es": "DRAGMOCLES, EL FATALISTA",
+    "fr": "DRAGMOCLAISS LE FATALISTE",
+    "id": "197",
+    "monster_id": "2372",
+    "pt": "DRAGATÃO, O LATINO",
+    "step": "29"
+  },
+  {
+    "en": "SPARODI THE PYTHON",
+    "es": "SPARITO, EL FEO",
+    "fr": "SPAROKET LE LANCEUR",
+    "id": "198",
+    "monster_id": "2588",
+    "pt": "SPARODI, O PEÇONHENTO",
+    "step": "29"
+  },
+  {
+    "en": "WARAZPACHO THE CHERRILLA",
+    "es": "MERKXGUERRITA, EL OGRO",
+    "fr": "CHIENDANLÉMIN L'ILLUSIONNISTE",
+    "id": "199",
+    "monster_id": "2554",
+    "pt": "WARAZPACHO THE CHERRILLA",
+    "step": "29"
+  },
+  {
+    "en": "DRAGAMEMNON THE DEADTROYER",
+    "es": "DREGGEATÓN, EL LATINO",
+    "fr": "DRAGSTAYR LE FONCEUR",
+    "id": "200",
+    "monster_id": "2377",
+    "pt": "DRAGAMEMNON, O DESTROÇADOR",
+    "step": "29"
+  },
+  {
+    "en": "DREGGOOG THE DOWNUNDER",
+    "es": "DRAJORGITO, EL VERDE",
+    "fr": "DRAGOETH LE PENSEUR",
+    "id": "201",
+    "monster_id": "2445",
+    "pt": "DRAGOETH, O PENSADOR",
+    "step": "30"
+  },
+  {
+    "en": "DREGGOONIZ THE ADVENTUROUS",
+    "es": "DRAGMA, EL GRIEGO",
+    "fr": "DRAGMA LE BOUILLANT",
+    "id": "202",
+    "monster_id": "2446",
+    "pt": "DREGONIZ, O OUSADO",
+    "step": "30"
+  },
+  {
+    "en": "DREGGRIEG THE PIANIST",
+    "es": "DRALTÓNIKO, EL OJO DE ÁGUILA",
+    "fr": "DRAGTONIEN LE MALVOYANT",
+    "id": "203",
+    "monster_id": "2447",
+    "pt": "DREGRIADO, O PIANISTA",
+    "step": "30"
+  },
+  {
+    "en": "DREGGOOLIZ THE MACHO",
+    "es": "DRAGEAGAINST, EL MÁQUINA",
+    "fr": "DRAGOO LE CRAMOISI",
+    "id": "204",
+    "monster_id": "2448",
+    "pt": "DREGOLIZ, O MACHO",
+    "step": "30"
+  },
+  {
+    "en": "BOOTY THE BEAST",
+    "es": "MILUIGI, EL FONTANERO",
+    "fr": "MULOUFOK L'HILARANT",
+    "id": "205",
+    "monster_id": "2337",
+    "pt": "MILOBESTA, O TOLO",
+    "step": "30"
+  },
+  {
+    "en": "CROKDYLANN THE REBEL",
+    "es": "JEFE COCOLUMBO, EL DETECTIVE",
+    "fr": "CROK LE BEAU",
+    "id": "206",
+    "monster_id": "2428",
+    "pt": "CROKDYLANN, O REBELDE",
+    "step": "30"
+  },
+  {
+    "en": "DRAGANGORA THE SOFTY",
+    "es": "MAFALDRAGOSA, LA HERMANA PEQUE",
+    "fr": "DRAGONIENNE L'ECONOME",
+    "id": "207",
+    "monster_id": "2461",
+    "pt": "DRAGANGORA, A SUTIL",
+    "step": "30"
+  },
+  {
+    "en": "KANIEDOSS THE GIGGLING",
+    "es": "KÁNUDALF, EL KANOSO",
+    "fr": "KANASUKR LE MIELLEUX",
+    "id": "208",
+    "monster_id": "2503",
+    "pt": "KANASSUKAR, O MELOSO",
+    "step": "30"
+  },
+  {
+    "en": "KIDODO THE EXTINCT",
+    "es": "KIDOLOROSO, DEL CALMANTE",
+    "fr": "KIDO L'ÂTRE",
+    "id": "209",
+    "monster_id": "2571",
+    "pt": "KIDOLATRA, O ADORADOR",
+    "step": "30"
+  },
+  {
+    "en": "KILLUA THE ASSASSIN",
+    "es": "KÍLIBRILL VOL.2, EL VENGATIVO",
+    "fr": "KILIMANJ'HARO LE GRIMPEUR",
+    "id": "210",
+    "monster_id": "2572",
+    "pt": "KILIMANJ'HARO, O ESCALADOR",
+    "step": "30"
+  },
+  {
+    "en": "CHUKOALAK THE NORRIS",
+    "es": "GUERRED-FISH, EL CORTÉS",
+    "fr": "GUERRITE LE VEILLEUR",
+    "id": "211",
+    "monster_id": "2497",
+    "pt": "CHUKOALAK, O NORRIS",
+    "step": "30"
+  },
+  {
+    "en": "MUFAVABEENZ THE CANNIBAL",
+    "es": "MUNCHFAVARD, EL GRITADOR",
+    "fr": "MUFGUEDIN LE SUPRÊME",
+    "id": "212",
+    "monster_id": "2580",
+    "pt": "MUFAVABEMZ, O CANIBAL",
+    "step": "30"
+  },
+  {
+    "en": "PANDALI THE SURREAL",
+    "es": "PÁNGDULO, EL REVIENTA-BOLAS",
+    "fr": "PANGRAIVE LE MILITANT",
+    "id": "213",
+    "monster_id": "2598",
+    "pt": "PANGREVE, O MILITANTE",
+    "step": "30"
+  },
+  {
+    "en": "PRIKOKO THE WITLESS",
+    "es": "TUFÓBICO, EL MIEDOSO",
+    "fr": "TOUFOU LE BENÊT",
+    "id": "214",
+    "monster_id": "2547",
+    "pt": "PRIKOKO, O ESTÚPIDO",
+    "step": "30"
+  },
+  {
+    "en": "CRACKEDRAL THE MAJESTIC",
+    "es": "CRUJÍBARO, EL TZANTZA",
+    "fr": "CRATHDOGUE LE CRUEL",
+    "id": "215",
+    "monster_id": "2561",
+    "pt": "CRACKEDRAL, A MAJESTADE",
+    "step": "30"
+  },
+  {
+    "en": "PANDORACLE THE OPPOSING FORCE",
+    "es": "FANTASMANSON, EL FAMILIAR",
+    "fr": "FANSISS LA BRÊLE",
+    "id": "216",
+    "monster_id": "2470",
+    "pt": "TANUKHIRARU, O TALENTOSO",
+    "step": "30"
+  },
+  {
+    "en": "TANAKED THE STALKER",
+    "es": "FANTASMATOR SORYONARA, EL BABY",
+    "fr": "FANJIPANN LE SUCRÉ",
+    "id": "217",
+    "monster_id": "2476",
+    "pt": "TANAKO, O OBSERVADOR",
+    "step": "30"
+  },
+  {
+    "en": "TANNO THE DOMINATOR",
+    "es": "FREDTÁSMER TANUKUÍN, EL CHANPION",
+    "fr": "FANJO LE PILOTE",
+    "id": "218",
+    "monster_id": "2475",
+    "pt": "TANNO, O DOMINADOR",
+    "step": "30"
+  },
+  {
+    "en": "PANDUMONIUM THE JOKER",
+    "es": "FANTURO PANDEZ-REVÉRTULO, EL ESPADACHÍN<",
+    "fr": "FANDOUICH L'HAUTAIN",
+    "id": "219",
+    "monster_id": "2471",
+    "pt": "TANUKHUINA, O PUXADOR",
+    "step": "30"
+  },
+  {
+    "en": "TANUKIKI THE DELIVERYGHOST",
+    "es": "FANT-EAGUX, EL GERMANO",
+    "fr": "FANHNATUR LE SIMPLE",
+    "id": "220",
+    "monster_id": "2473",
+    "pt": "TANUKIKI, O FANTASMA LIVRE",
+    "step": "30"
+  },
+  {
+    "en": "WARKO THE INKY",
+    "es": "WARKAMOLE, EL APETITOSO",
+    "fr": "WARKOLAD L'ETREINTE",
+    "id": "221",
+    "monster_id": "2306",
+    "pt": "WARKO, O ESCURECIDO",
+    "step": "31"
+  },
+  {
+    "en": "BULBIGROOV THE DANCER",
+    "es": "BULBII, LA CREADORA",
+    "fr": "BULGIG LE DANSEUR",
+    "id": "222",
+    "monster_id": "2414",
+    "pt": "BULGINGADO, O DANÇARINO",
+    "step": "31"
+  },
+  {
+    "en": "PIKHOVEN THE DEAF",
+    "es": "TOFOFO, EL BLANDITO",
+    "fr": "BITOVEN LE MUSICIEN",
+    "id": "223",
+    "monster_id": "2546",
+    "pt": "PIKTOVEN, O SURDO",
+    "step": "31"
+  },
+  {
+    "en": "TREEKALACK THE SAD",
+    "es": "ÁBRAKIN, EL OSCURO",
+    "fr": "ABRAKLETTE LE FONDANT",
+    "id": "224",
+    "monster_id": "2386",
+    "pt": "ARVRAMADO, O BENQUISTO",
+    "step": "31"
+  },
+  {
+    "en": "TREEKONK THE STUNNED",
+    "es": "ABRAKEPONERSE, EL OPTIMISTA",
+    "fr": "ABRAKANETTE L'ENCAPSULÉ",
+    "id": "225",
+    "monster_id": "2388",
+    "pt": "ARVRAKANETA, O ESCRITOR",
+    "step": "31"
+  },
+  {
+    "en": "FISHERALF THE STEWART",
+    "es": "PEKETCHUP, EL HAMBURGUESERO",
+    "fr": "PÉKEUTAR LE TIREUR",
+    "id": "226",
+    "monster_id": "2271",
+    "pt": "STEWART, O ANIMAL PESCADOR",
+    "step": "31"
+  },
+  {
+    "en": "DRAGORY THE VIOLENT",
+    "es": "DREGHOUSE, EL CÍNICO",
+    "fr": "DRAGOBERT LE MONARQUE",
+    "id": "227",
+    "monster_id": "2452",
+    "pt": "DRAGORIO, O ROBUSTO",
+    "step": "31"
+  },
+  {
+    "en": "GREETDOFF THE GENTLEMAN",
+    "es": "ZAMPATÁVORO, EL MILIANO",
+    "fr": "GLOUBIBOU LE GARS",
+    "id": "228",
+    "monster_id": "2495",
+    "pt": "GREEDODOFF, O CAVALHEIRO",
+    "step": "31"
+  },
+  {
+    "en": "BAMBONO THE HOLY",
+    "es": "BAMBONO, EL DIVINO",
+    "fr": "BAMBONO LE DIVIN",
+    "id": "229",
+    "monster_id": "2398",
+    "pt": "BAMBUSADO, O ATREVIDO",
+    "step": "31"
+  },
+  {
+    "en": "KITSOUIE THE GREEN",
+    "es": "KITSEAN CÓNERE, EL AGENTE SECRETO",
+    "fr": "KITSOUPOPULÈRE LE GÉNÉREUX",
+    "id": "230",
+    "monster_id": "2511",
+    "pt": "KITSOUIE, O VERDE",
+    "step": "31"
+  },
+  {
+    "en": "POPOALAK THE MOUSIBROWN",
+    "es": "KOALÚKYLUK, EL SOLITARIO",
+    "fr": "KOASOSSYAL LE PSYCHOPATHE",
+    "id": "231",
+    "monster_id": "2515",
+    "pt": "POPOALAK, O CASTANHO",
+    "step": "31"
+  },
+  {
+    "en": "KOALARCHITECT THE BALANCING FORCE",
+    "es": "SEPAULTURERO KLEEALAK, EL ARQUITECTO",
+    "fr": "FOSSAMOEL LE JUTEUX",
+    "id": "232",
+    "monster_id": "2482",
+    "pt": "KOALAKARQUITETO, O EQUILIBRADO",
+    "step": "31"
+  },
+  {
+    "en": "KOELLOGGS THE CREATOR",
+    "es": "BOTALAK CABALGATOR, EL INGENIOSO",
+    "fr": "KOAMAG'OEL LE DÉFIGURÉ",
+    "id": "233",
+    "monster_id": "2429",
+    "pt": "KOELOGUE, O CRIADOR",
+    "step": "31"
+  },
+  {
+    "en": "MOOPS THE BUBBLEBOY",
+    "es": "MOSPETERO, EL TRIPLE",
+    "fr": "MEUROUP LE PRÊTRE",
+    "id": "234",
+    "monster_id": "2577",
+    "pt": "MOOPS, O GAROTO BOLHA",
+    "step": "31"
+  },
+  {
+    "en": "ONI'ORSES THE FOOLISH",
+    "es": "ONICIENTA, LA DE MEDIANOCHE",
+    "fr": "ONIHYLIS LE DESTRUCTEUR",
+    "id": "235",
+    "monster_id": "2543",
+    "pt": "ONIOLHO, O RIDÍCULO",
+    "step": "31"
+  },
+  {
+    "en": "PIRALHAKA THE INTIMIDATOR",
+    "es": "PIRALHAKA, EL MAORÍ",
+    "fr": "PIRADAIN LE PINGRE",
+    "id": "236",
+    "monster_id": "2270",
+    "pt": "PIRALHAKA, O INTIMIDADOR",
+    "step": "31"
+  },
+  {
+    "en": "POCHER THE KINGPONGER",
+    "es": "CAZAFRÁN, EL COLORANTE",
+    "fr": "BRAMIN LE BICÉPHALE",
+    "id": "237",
+    "monster_id": "2412",
+    "pt": "POCHER O REIPONGA",
+    "step": "31"
+  },
+  {
+    "en": "FLORATIO THE INVESTIGATOR",
+    "es": "ESQUENOSÉ, EL INDECISO",
+    "fr": "BROUSTE L'HUMILIANT",
+    "id": "238",
+    "monster_id": "2550",
+    "pt": "FLORATIO, O INVESTIGADOR",
+    "step": "31"
+  },
+  {
+    "en": "DREGGUANTICO THE TRAINER",
+    "es": "DRAKÓJAK, EL PIRULETAS",
+    "fr": "DRAGDIKAL LE DÉCISIF",
+    "id": "239",
+    "monster_id": "2464",
+    "pt": "DREGQUÂNTICO, O TREINADOR",
+    "step": "31"
+  },
+  {
+    "en": "EZOTHBEITOR THE NEIGHBOUR",
+    "es": "DISZÁPULO DELZOIH, EL PROFETA",
+    "fr": "DISKORD LE BELLIQUEUX",
+    "id": "240",
+    "monster_id": "2562",
+    "pt": "EZOTHBEITOR, O VIZINHO",
+    "step": "31"
+  },
+  {
+    "en": "SORGYO QUIRETOX THE CHATTERBOX",
+    "es": "SAIRYÓ HRDANFUX, EL VOLADOR",
+    "fr": "SORYONARA LE POLI",
+    "id": "256",
+    "monster_id": "2278",
+    "pt": "SORGYO, O TAGARELOX DE COROX",
+    "step": "32"
+  },
+  {
+    "en": "DRAGORSE THE WILD",
+    "es": "DRAGOSS&DUNGEOSS, EL ORIGINAL",
+    "fr": "DRAGMINSTER LE MAGICIEN",
+    "id": "257",
+    "monster_id": "2454",
+    "pt": "DRAGORSSO, O SELVAGEM",
+    "step": "32"
+  },
+  {
+    "en": "KOALSEN THE SIMILAR",
+    "es": "KOAYAK, EL DESTRIPADOR",
+    "fr": "KOALABOI LE CALORIFÈRE",
+    "id": "258",
+    "monster_id": "2514",
+    "pt": "KOALSEN, O PARECIDO",
+    "step": "32"
+  },
+  {
+    "en": "CALIPZOTH THE ICY",
+    "es": "CHAVALA ZOTAINA, LA CASTIGADORA",
+    "fr": "GASTROTH LA CONTAGIEUSE",
+    "id": "259",
+    "monster_id": "2566",
+    "pt": "CALIPZOTH, O GELADO",
+    "step": "32"
+  },
+  {
+    "en": "ZIGZOTH THE INDECISIVE",
+    "es": "GUERREYNOR ZOTHIA, LA SUPERVIVIENTE",
+    "fr": "GUERUMOTH LE COLLANT",
+    "id": "260",
+    "monster_id": "2569",
+    "pt": "ZIGZOTH, O INDECISO",
+    "step": "32"
+  },
+  {
+    "en": "BARKRICRAC THE UNSTEADY",
+    "es": "DIENTETRIS, EL INOLVIDABLE",
+    "fr": "ECORFÉ LA VIVE",
+    "id": "241",
+    "monster_id": "2360",
+    "pt": "BARKRICRACK, O INSTÁVEL",
+    "step": "32"
+  },
+  {
+    "en": "DRAGHOUSE THE CYNICAL",
+    "es": "DRAGORE, EL SANGRIENTO",
+    "fr": "DRAQUETTEUR LE VOLEUR",
+    "id": "242",
+    "monster_id": "2458",
+    "pt": "DRAGCASA, O CÍNICO",
+    "step": "32"
+  },
+  {
+    "en": "KOALDMAN THE GARISH",
+    "es": "KOELLOKS, EL CEREALISTA",
+    "fr": "KOALVISSIE LE CHAUVE",
+    "id": "243",
+    "monster_id": "2519",
+    "pt": "KOALVÍCIE, O CARECA",
+    "step": "32"
+  },
+  {
+    "en": "TREEKNESS THE DARK",
+    "es": "ABRAJINIEVES, EL ENANITO",
+    "fr": "ABRAKINE LE SOMBRE",
+    "id": "244",
+    "monster_id": "2544",
+    "pt": "TREEKNESS, O PRETO",
+    "step": "32"
+  },
+  {
+    "en": "DRAKOAMAX THE MAD",
+    "es": "DRAKOLAKAO, EL SABROSO",
+    "fr": "DRAKOLAGE LE TENTATEUR",
+    "id": "245",
+    "monster_id": "2462",
+    "pt": "DRAKOAMAX, O MAL",
+    "step": "32"
+  },
+  {
+    "en": "FLORAMODOVAR THE STONED",
+    "es": "FLORIVERA, EL MURALISTA",
+    "fr": "FLOANNA LA BLONDE",
+    "id": "246",
+    "monster_id": "2565",
+    "pt": "FLORAMODOVAR, O ENCAROÇADO",
+    "step": "32"
+  },
+  {
+    "en": "DRAIGOVSKY THE SOCALLEDSWAN",
+    "es": "DRAGOSS TO, EL CALUROSO",
+    "fr": "DRAGTARUS LE BELLÂTRE",
+    "id": "247",
+    "monster_id": "2456",
+    "pt": "DRAGOSTINHO, O CAFONA",
+    "step": "32"
+  },
+  {
+    "en": "KITSUEY THE RED",
+    "es": "KITSU POSITOYO, EL SANADOR",
+    "fr": "KITSOUFRE L'EXPLOSIF",
+    "id": "248",
+    "monster_id": "2512",
+    "pt": "KITSUEI, O VERMELHO",
+    "step": "32"
+  },
+  {
+    "en": "JACKOALAK THE MOONWALKER",
+    "es": "MOMÍLLER FRÁNAK, EL UMBRÍO",
+    "fr": "MOMIKONOS LA BANDELETTE",
+    "id": "249",
+    "monster_id": "2534",
+    "pt": "JACKOALAK, O LUNÁTICO",
+    "step": "32"
+  },
+  {
+    "en": "MOMAHO THE MODERNIST",
+    "es": "MAHO FIREL-TUX, EL PACIENTE",
+    "fr": "MAHOKU LE BOTTÉ",
+    "id": "250",
+    "monster_id": "2526",
+    "pt": "MOMAHO, O MODERNISTA",
+    "step": "32"
+  },
+  {
+    "en": "MAMANKALAK THE BIBLIOMANIAC",
+    "es": "MAMOON, EL GRANDE",
+    "fr": "MAMAKOMOU L'ÂGE",
+    "id": "251",
+    "monster_id": "2528",
+    "pt": "MAMÃEKALAK, A BIBLIOMANÍACA",
+    "step": "32"
+  },
+  {
+    "en": "MOPIDYK THE MIRE",
+    "es": "LODONTÓLOGO, EL SONRIENTE",
+    "fr": "BOULIVER LE GÉANT",
+    "id": "252",
+    "monster_id": "2363",
+    "pt": "MOPIDIK THE MIRE",
+    "step": "32"
+  },
+  {
+    "en": "MOPFEET THE CIRCULAR",
+    "es": "BARROSTROPOROSIS, EL FRÁGIL",
+    "fr": "TOURBIKET LE VIREVOLETANT",
+    "id": "253",
+    "monster_id": "2361",
+    "pt": "MOPÉS, O REDODNDO",
+    "step": "32"
+  },
+  {
+    "en": "WORKA THE WILLFUL",
+    "es": "WARJAMER, EL MINIATURISTA",
+    "fr": "WARA L'AMER",
+    "id": "254",
+    "monster_id": "2307",
+    "pt": "WORKA, O DETERMINADO",
+    "step": "32"
+  },
+  {
+    "en": "DRAGOSSIPER THE NAG",
+    "es": "LEDRAG, EL OGNAT",
+    "fr": "DRAGEAUFOL LA JOYEUSE",
+    "id": "255",
+    "monster_id": "2460",
+    "pt": "DRALEGRE, A CONTENTE",
+    "step": "32"
+  },
+  {
+    "en": "FOLLIKOKO THE TUFTED",
+    "es": "TUFALDO ARÉNEO, EL MARIELITO",
+    "fr": "TOUTOUF LE VELU",
+    "id": "261",
+    "monster_id": "2382",
+    "pt": "TUTUFO, O PELUDO",
+    "step": "33"
+  },
+  {
+    "en": "CHEECH THE PUSSYCAT",
+    "es": "POHOZÍ, EL JOROBADO",
+    "fr": "POOLOPO LA TRADITIONNELLE",
+    "id": "262",
+    "monster_id": "2383",
+    "pt": "FRENGASSA, O BONITÃO",
+    "step": "33"
+  },
+  {
+    "en": "KOALAKROPOLIS THE KING OF THE HILL",
+    "es": "MAESTRO PEADO, LA CUENTA",
+    "fr": "MAÎTRE KOANTIK LE THÉORICIEN",
+    "id": "263",
+    "monster_id": "2531",
+    "pt": "MESTRE KOÂNTICO, O TEÓRICO",
+    "step": "33"
+  },
+  {
+    "en": "LEORIO THE HAUNTED",
+    "es": "FANTARADONA, EL MÁGICO",
+    "fr": "FANSISSLA L'ÂNE",
+    "id": "264",
+    "monster_id": "2370",
+    "pt": "LEORIO, O ASSOMBRADO",
+    "step": "33"
+  },
+  {
+    "en": "TREEKSTALBAL THE PSYCHIC",
+    "es": "ABROESIDOR, EL NAVEGANTE",
+    "fr": "ABRINOS LE CLAIR",
+    "id": "265",
+    "monster_id": "2381",
+    "pt": "TREEKSTABALO, O PSÍQUICO",
+    "step": "33"
+  },
+  {
+    "en": "MUSHKETEER THE LOYAL",
+    "es": "SETAL SLUGDOR, EL EXTERMINADOR",
+    "fr": "CHAMPMÉ LE MÉCHANT",
+    "id": "266",
+    "monster_id": "2600",
+    "pt": "SPICOGUKITARO, O LEAL",
+    "step": "33"
+  },
+  {
+    "en": "MUSHULIET THE CATAPULET",
+    "es": "SETSA'N DESITI, LA AMISTOSA",
+    "fr": "CHAMPOLYON LE POLYGLOTTE",
+    "id": "267",
+    "monster_id": "2551",
+    "pt": "COGUMELAÇO, O ADOCICADO",
+    "step": "33"
+  },
+  {
+    "en": "ROMUSH THE MONTECCHI",
+    "es": "CHALBIS, EL KING",
+    "fr": "CHAMPOUL L'ILLUMINÉ",
+    "id": "268",
+    "monster_id": "2373",
+    "pt": "COGUMORISTA, O ENGRAÇADO",
+    "step": "33"
+  },
+  {
+    "en": "EDVUSHMUNCH THE SCREAMER",
+    "es": "CHAMPLI, EL SONORO",
+    "fr": "CHAMOUTE LE DUVETEUX",
+    "id": "269",
+    "monster_id": "2552",
+    "pt": "EDCOGUMUNCH, O BERRADOR",
+    "step": "33"
+  },
+  {
+    "en": "NIDSALLY THE MUSHTANG",
+    "es": "CHAMPACNÉ, EL GRANITOS",
+    "fr": "CHAMILERO LE MALCHANCEUX",
+    "id": "270",
+    "monster_id": "2553",
+    "pt": "NIDSALLY, O SELVAGEM",
+    "step": "33"
+  },
+  {
+    "en": "PANDIPOOPIK THE WONDROUS",
+    "es": "FANTARMANTINO, EL VISCERAL",
+    "fr": "FANSTATIK L'ETONNANT",
+    "id": "271",
+    "monster_id": "2469",
+    "pt": "PANDIPOOPE, O FANTÁSTICO",
+    "step": "33"
+  },
+  {
+    "en": "TANUKHUINA THE DRAWER",
+    "es": "FANTASMELUZE, LA GENTIL",
+    "fr": "FANFANCISCO LE COSMOPOLITE",
+    "id": "272",
+    "monster_id": "2474",
+    "pt": "PANDUMONIUM, O CÔMICO",
+    "step": "33"
+  },
+  {
+    "en": "RYUKUALAK THE BORED",
+    "es": "SIEGÁLAHER, LOS CHULOS",
+    "fr": "FAUFOLL LA JOYEUSE",
+    "id": "273",
+    "monster_id": "2567",
+    "pt": "RYUKUALAK, O ENTEDIADO",
+    "step": "33"
+  },
+  {
+    "en": "SNAILMETALIKA THE GARAGICIAN",
+    "es": "KASRAFANTÁSOL, EL PARAPSICÓLOGO",
+    "fr": "KASKAPOINTHE LA COUVERTE",
+    "id": "274",
+    "monster_id": "2570",
+    "pt": "SNAILMETALICA,INTERIORANO",
+    "step": "33"
+  },
+  {
+    "en": "SATONUKI THE PLASTIKPADDY",
+    "es": "FANTASMONROE, EL DESEO",
+    "fr": "FANHOPRUNO LE GOURMET",
+    "id": "275",
+    "monster_id": "2374",
+    "pt": "SATONUKI O PLASTIFICADO",
+    "step": "33"
+  },
+  {
+    "en": "TROOLIGAN THE BULLDOGG",
+    "es": "TROOLBIN, EL DE LOS BOLSQUELS",
+    "fr": "TROOYÉ L'OXYDÉ",
+    "id": "276",
+    "monster_id": "2300",
+    "pt": "TROOLIGAN THE BULLDOGG",
+    "step": "33"
+  },
+  {
+    "en": "TRUMPAYNOR THE SURVIVOR",
+    "es": "TROMPSOSIS, EL CARDIACO",
+    "fr": "TROMPLAMOR LE SURVIVANT",
+    "id": "277",
+    "monster_id": "2601",
+    "pt": "TRUMPANOR, O SOBREVIVENTE",
+    "step": "33"
+  },
+  {
+    "en": "YOKAI THE CHORAL",
+    "es": "YOCÁI IPEHKAÍTO, EL FRITO",
+    "fr": "YOKAIKORAL LE DUEL",
+    "id": "278",
+    "monster_id": "2303",
+    "pt": "YOKAI, O CORISTA",
+    "step": "33"
+  },
+  {
+    "en": "DON QUIZOTHE THE STUBBORN",
+    "es": "DON KIZOTH, EL OBSTINADO",
+    "fr": "DON KIZOTH L'OBSTINÉ",
+    "id": "279",
+    "monster_id": "2578",
+    "pt": "DOM QUIZOTH, O OBSTINADO",
+    "step": "33"
+  },
+  {
+    "en": "ZOUZOTH THE CUDDLY",
+    "es": "SARGENDE MICHAEL, EL NARRADOR",
+    "fr": "SERIPOTH L'ENNEMI",
+    "id": "280",
+    "monster_id": "2587",
+    "pt": "ZOUZOTH, O CARINHOSO",
+    "step": "33"
+  },
+  {
+    "en": "MIOMAHO THE SICILIANO",
+    "es": "FANTASMARTY, MAC FLYREFUX EL FUTURISTA",
+    "fr": "FANLAGOEL LE COMIQUE",
+    "id": "281",
+    "monster_id": "2564",
+    "pt": "MIOMAHO, O SICILIANO",
+    "step": "34"
+  },
+  {
+    "en": "ROY THE ROVER",
+    "es": "REYUNA, EL DIBUJANTE",
+    "fr": "ROY LE MERLIN",
+    "id": "282",
+    "monster_id": "2614",
+    "pt": "ROLLS DE ROYCE",
+    "step": "34"
+  },
+  {
+    "en": "PANDORA THE EXPLORER",
+    "es": "PAN DÓRRISON, EL HOSCO",
+    "fr": "PANDIVE LE VÉGÉTARIEN",
+    "id": "283",
+    "monster_id": "2597",
+    "pt": "PANDAMASCO, O FRUTÍVORO",
+    "step": "34"
+  },
+  {
+    "en": "TANUKHIRARU THE GIFTED",
+    "es": "FANTASMILY-CELLY, LA MADRE",
+    "fr": "FANLMYL L'ACUITÉ",
+    "id": "284",
+    "monster_id": "2472",
+    "pt": "PANDORACLO, A LADO OBSCURO DA FORÇA",
+    "step": "34"
+  },
+  {
+    "en": "TANUKTONIK THE DOOFDOOF",
+    "es": "FANTASMAIK TÁISUNKUI, SAN EL PEGADOR",
+    "fr": "FANBURN LE VIRIL",
+    "id": "285",
+    "monster_id": "2477",
+    "pt": "TANUKTONICO, O TANTAN",
+    "step": "34"
+  },
+  {
+    "en": "YOKSAI THE SPIRITED",
+    "es": "FANTAZMANIA, EL DIABLO",
+    "fr": "FANTASSEIN LE SOLDAT",
+    "id": "286",
+    "monster_id": "2483",
+    "pt": "YOKSAI, O CORAJOSO",
+    "step": "34"
+  },
+  {
+    "en": "GIANT KRALOVE",
+    "es": "KRALAMAR GIGANTE",
+    "fr": "KRALAMOURE GÉANT",
+    "id": "637",
+    "monster_id": "423",
+    "pt": "KRALAMOR GIGANTE",
+    "step": "35"
+  }
+]

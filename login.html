@@ -1,0 +1,36 @@
+<div id="conf">
+    <form name="loginForm" novalidate ng-submit="login()">
+
+        <div ng-show="wrongCredentials">
+            <p class="anima-fade">{{TEXT().user_or_mail_invalid}}</p>
+        </div>
+
+        <div>
+            <i class="fa fa-envelope"></i>
+            <input placeholder="Email" type="email" name="email" ng-model="user.email" required  />
+
+            <p class="anima-fade" ng-show="loginForm.email.$invalid && loginForm.email.$dirty && !loginForm.email.$focused">{{TEXT().inform_mail_valid}}</p>
+        </div>
+
+        <div>
+            <i class="fa fa-lock"></i>
+            <input placeholder="{{TEXT().password}}" type="password" name="password" ng-model="user.password" required />
+
+            <p class="anima-fade" ng-show="loginForm.password.$invalid && loginForm.password.$dirty && !loginForm.password.$focused">{{TEXT().inform_password}}</p>
+        </div>
+
+        <div class="conf">
+            <button type="submit" ng-disabled="loginForm.$invalid"><i class="fa fa-user"></i>{{TEXT().login}}</button>
+        </div>
+
+    </form>
+
+    <div class="action">
+        <a class="button login" ng-href="#/new-account">{{TEXT().create_account}}</a>
+        <a class="button login" ng-href="#/recover-password">{{TEXT().recover_password}}</a>
+    </div>
+
+    <div class="lang">
+        <div language></div>
+    </div>
+</div>

@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en" ng-app="archApp">
+<head charset="utf-8">
+
+  <meta name="viewport" content="width=device-width, user-scalable=no">
+  <title>Dofus Archmonster | beta 3</title>
+
+  <link rel="stylesheet" type='text/css' href="static/font-awesome.min.css">
+  <link rel='stylesheet' type='text/css' href='static/style.css' >
+
+  <script type="text/javascript" src="static/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="angular-1.2.26/angular.min.js"></script>
+  <script type="text/javascript" src="angular-1.2.26/angular-resource.min.js"></script>
+  <script type="text/javascript" src="angular-1.2.26/angular-animate.min.js"></script>
+  <script type="text/javascript" src="angular-1.2.26/angular-route.min.js"></script>
+
+  <meta property="og:title" content="Dofus Archmonster | beta 3" />
+  <meta property="og:description" content="Dofus Archmonster, Missão Colheita Eterna, Quest Eternal Harvest, Quête L'Eternelle Moisson" />
+
+  <meta meta="title" content="Dofus Archmonster | beta 3" />
+  <meta meta="description" content="Dofus Archmonster, Missão Colheita Eterna, Quest Eternal Harvest, Quête L'Eternelle Moisson" />
+
+  <meta itemprop="name" content="Dofus Archmonster | beta 3">
+  <meta itemprop="title" content="Dofus Archmonster | beta 3">
+  <meta itemprop="description" content="Dofus Archmonster, Missão Colheita Eterna, Quest Eternal Harvest, Quête L'Eternelle Moisson">
+
+  <link rel="shortcut icon" href="favicon.ico"/>
+  <link rel="canonical" href="http://dofus.eucurto.net" />
+
+  <meta name="verification" content="e4701e825f0d5eeb81845830bca0a2c3" />
+
+
+    <meta name="application-name" content="Dofus Archmonster List"/>
+    <meta name="msapplication-TileColor" content="#000000"/>
+    <meta name="msapplication-square70x70logo" content="tiny.png"/>
+    <meta name="msapplication-square150x150logo" content="square.png"/>
+    <meta name="msapplication-wide310x150logo" content="wide.png"/>
+    <meta name="msapplication-square310x310logo" content="large.png"/>
+</head>
+
+<body class="{{ getTheme() }}"  ng-controller="SiteController" >
+
+<div class="a1"><noscript class="button">Dofus Archmonster works with JavaScript enabled</noscript></div>
+    <div id="title"><h1><a ng-href="#/">Dofus Archmonster</a></h1></div>
+    <div id="cabe">
+
+        <div id="loaderDiv" loader>
+            <i class="fa fa-gear fa-spin"></i>{{ TEXT().processing }}
+        </div>
+        <div id="erro" onclick="$(this).html('')"></div>
+        <div class="clear"></div>
+
+    </div>
+
+    <div id="fb-root"></div>
+
+    <ng-view></ng-view>
+
+    <div id="top"><i class="fa fa-angle-up"></i></div>
+    <script type="text/javascript" src="static/app.js"></script>
+
+
+</body>
+
+</html>

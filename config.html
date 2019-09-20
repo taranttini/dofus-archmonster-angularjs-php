@@ -1,0 +1,88 @@
+<div id="conf">
+<h1>{{ TEXT().config }}</h1>
+<br>
+<div>
+    <h2>{{ TEXT().theme }}</h2>
+    <nav ng-init="list=[1,2,3,4,5,6,7,8]">
+        <li ng-repeat="i in list"><a ng-click="setTheme( i )" class="bt a{{i}}"></a></li>
+    </nav>
+</div>
+<div language></div>
+
+<div ng-show="isPrivate">
+    <h2>{{ TEXT().char_info }}</h2>
+    <div>
+        <i class="fa fa-gamepad"></i>
+        <input type="text" placeholder="{{ TEXT().server_name }}"
+            ng-model="server_name"
+            ng-blur="blurSave()" />
+    </div>
+    <div>
+        <i class="fa fa-user"></i>
+        <input type="text" placeholder="{{ TEXT().hero_name }}"
+            ng-model="hero_name"
+            ng-blur="blurSave()" />
+    </div>
+</div>
+<div ng-show="isPrivate">
+
+    <h2>DOFUS</h2>
+    <div class="conf">
+        <button ng-disabled="disableGetDofus()" ng-click="toggleGetDofus()"><i class="fa fa-trophy"></i>{{ TEXT().get_dofus }}</button>
+        <div ng-show="showGetDofus" class="anima-fade">
+            <p>{{TEXT().really_want}}?</p>
+            <div class="action">
+            <button ng-click="toggleGetDofus()"><i class="fa fa-close"></i>{{TEXT().NO}}</button>
+            <button ng-click="confirmGetDofus()"><i class="fa fa-check"></i>{{TEXT().YES}}</button>
+            </div>
+        </div>
+
+    </div>
+    <div class="conf">
+        <button ng-click="toggleAddMonster()"><i class="fa fa-list-ul"></i>{{TEXT().add_all_step}}</button>
+        <div ng-show="showAddMonster" class="anima-fade">
+            <p>{{TEXT().really_want}}?</p>
+            <div class="action">
+            <button ng-click="toggleAddMonster()"><i class="fa fa-close"></i>{{TEXT().NO}}</button>
+            <button ng-click="confirmAddMonster()"><i class="fa fa-check"></i>{{TEXT().YES}}</button>
+            </div>
+        </div>
+    </div>
+
+
+
+    <h2>{{ TEXT().options }}</h2>
+
+    <div class="conf">
+        <button ng-disabled="disableClear()" ng-click="toggleClear()"><i class="fa fa-eraser"></i>{{ TEXT().clear_list }}</button>
+        <div ng-show="showClear" class="anima-fade">
+            <p>{{TEXT().really_want}}?</p>
+            <div class="action">
+            <button ng-click="toggleClear()"><i class="fa fa-close"></i>{{TEXT().NO}}</button>
+            <button ng-click="confirmClear()"><i class="fa fa-check"></i>{{TEXT().YES}}</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="conf">
+        <a class="button" ng-href="#/change-password">
+        <i class="fa fa-lock"></i>{{ TEXT().change_password }}</a>
+    </div>
+
+    <div class="conf">
+        <button ng-click="logout()"><i class="fa fa-power-off"></i>{{ TEXT().log_out }}</button>
+    </div>
+
+</div>
+
+
+    <div class="conf">
+        <a class="button" ng-href="#{{voltar}}">
+        <i class="fa fa-mail-reply"></i>
+        {{ TEXT().back }}</a>
+    </div>
+
+
+</div>
+
+

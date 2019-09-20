@@ -1,0 +1,51 @@
+<div id="conf">
+    <form name="newAccount" novalidate ng-submit="create()">
+    <h2>{{TEXT().create_account}}</h2>
+        <div>
+            <i class="fa fa-envelope"></i>
+            <input placeholder="Email" type="email" name="email" ng-model="email" required  ng-blur="checkEmailValid()" />
+
+            <p class="anima-fade" ng-show="newAccount.email.$invalid && newAccount.email.$dirty && !newAccount.email.$focused">{{TEXT().inform_mail_valid}}</p>
+            <p class="anima-fade" ng-show="emailIndisponible">{{TEXT().email_unavailable}}</p>
+        </div>
+
+        <div>
+            <i class="fa fa-lock"></i>
+            <input placeholder="{{TEXT().password}}" type="password" name="pw1" ng-model="pw1" required />
+
+            <p class="anima-fade" ng-show="newAccount.pw1.$invalid && newAccount.pw1.$dirty && !newAccount.pw1.$focused">{{TEXT().inform_password}}</p>
+            <p class="anima-fade" ng-show="lengthNotValid()">{{TEXT().password_length_not_valid}}</p>
+        </div>
+
+        <div>
+            <i class="fa fa-lock"></i>
+            <input placeholder="{{TEXT().new_password2}}" type="password" name="pw2" ng-model="pw2" required />
+
+            <p class="anima-fade" ng-show="isNotEqual() && newAccount.pw2.$dirty">{{TEXT().password_not_equal}}</p>
+        </div>
+
+        <h2>{{TEXT().char_info}}</h2>
+        <div>
+            <i class="fa fa-gamepad"></i>
+            <input type="text" placeholder="{{ TEXT().server_name }}"
+                ng-model="server_name" />
+        </div>
+
+        <div>
+            <i class="fa fa-user"></i>
+            <input type="text" placeholder="{{ TEXT().hero_name }}"
+                ng-model="hero_name" />
+        </div>
+
+        <div class="conf">
+            <button type="submit"
+            ng-disabled="isDisabled()"><i class="fa fa-user"></i>{{TEXT().create_account}}</button>
+        </div>
+
+    </form>
+
+    <div class="conf">
+        <a class="button" ng-href="#/"><i class="fa fa-mail-reply"></i>{{ TEXT().back }}</a>
+    </div>
+
+</div>

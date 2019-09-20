@@ -1,0 +1,90 @@
+{{ loading }}
+
+<div class="hero">{{ personagem() }}</div>
+
+<div ng-controller="FilterController">
+
+    <div  class="box step">
+        <div ng-click="showStep()" class="name"><p>{{ TEXT().choose_step }}  [ {{ getTotal() }} ]<span class="bt">{{ questFilter.step }}</span></p></div>
+        <nav ng-show="showSteps">
+            <li class="{{ stepActive(step) }}" ng-repeat="step in steps" ng-click="selectStep(step)"><a class="bt">{{step}}</a></li>
+        </nav>
+        <div class="clear"></div>
+    </div>
+
+    <div>
+        <a ng-click="missing()" class="check">
+            <i class="fa" ng-class="{'fa-square-o': true == !showMissing, 'fa-check-square-o': true == showMissing}"></i> {{ TEXT().missing_list }}</a>
+    </div>
+
+    <div ng-show="show()">
+        <a class="check" ng-click="markAllStep()">
+            <i class="fa fa-plus-square"></i> {{ TEXT().add_one }} {{ questFilter.step }}</a>
+        <a class="check" ng-click="unmarkAllStep()">
+            <i class="fa fa-minus-square"></i> {{ TEXT().remove_one }} {{ questFilter.step }}</a>
+    </div>
+
+</div>
+
+<div>
+
+  <ul id="monsters">
+    <li class="animate-repeat" ng-repeat="quest in quests | filterForQuest:questFilter track by quest.id" >
+        <div class="box"  >
+            <div class="img"><img ng-src="archmonsters2/{{quest.monster_id}}.png" /></div>
+
+            <div class="name title {{ mark(quest) }}" >
+                <p><i>{{ quest.step }}</i>{{ showText ( quest ) }}</p>
+            </div>
+
+            <div class="action">
+                <a class="bt" ng-click="minus(quest)" ng-show="show()"><i class="fa fa-minus"></i></a>
+                <i>{{ qty(quest) }}</i>
+                <a class="bt" ng-click="plus(quest)" ng-show="show()"><i class="fa fa-plus"></i></a>
+            </div>
+
+        </div>
+    </li>
+  </ul>
+</div>
+
+<div ng-if="isConectado" class="box" style="text-align:center;padding:5px 0">
+<h3>{{TEXT().doar0}}</h3>
+<p>{{TEXT().doar1}}.</p>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="XVC7NMX6PXDTY">
+<input type="image" src="https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - A maneira fácil e segura de enviar pagamentos online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/pt_BR/i/scr/pixel.gif" width="1" height="1">
+</form>
+<p>{{TEXT().doar2}} <strong>helpservice0@outlook.com</strong></p>
+</div>
+
+
+<div class="box" style="text-align:center;overflow:hidden">
+
+
+<div style="text-align:center">
+<a href="https://play.google.com/store/apps/details?id=com.taranttini.dofusarchmonsterlist" target="_blank"><img src="icon-google-play.png" style="width:200px;"></a>
+</div>
+
+<div id="footer">
+
+    <div class="box step search anima-fade" ng-show="showSearch">
+        <label>
+            <i class="fa fa-search"></i>
+            <input type="text" placeholder="{{TEXT().search}}" ng-model="questFilter.search" focus-me="showSearch" />
+        </label>
+    </div>
+
+    <div class="box share anima-fade" ng-show="showShare">
+        <p>{{link()}}</p>
+    </div>
+
+    <ul>
+        <li><a ng-href="#{{path}}"><i class="fa fa-th-list"></i></a></li>
+        <li><a href="" ng-click="search()"><i class="fa fa-search"></i></a></li>
+        <li ng-show="isPrivate"><a href="" ng-click="share()"><i class="fa fa-share-alt"></i></a></li>
+        <li><a ng-href="#/config" ng-click="setBack()"><i class="fa fa-gear"></i></a></li>
+    </ul>
+</div>
