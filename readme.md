@@ -1,4 +1,4 @@
-# Dofus Archmonster (beta)
+# Dofus Archmonster (beta) [2014-2015]
 
 Create this tool for help me with the game DOFUS (Ankama)
 
@@ -43,3 +43,22 @@ This are is my firsts version of code
 I go disponibilizate the others codes too coming soon
 
 This app has created in mid 2014-2015.
+
+### Setup
+Its run with USBServer 
+
+`or`
+
+Install Php + MySql
+
+Neeed Create Database **archmonster**
+
+```mysql
+CREATE DATABASE archmonster;
+```
+
+And execute/import on Mysql file `api/db.sql` to create initial tables 
+
+```bash
+mysql -u username -p archmonster < api/db.sql
+```
